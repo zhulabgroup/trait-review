@@ -12,7 +12,7 @@ nlp.max_length = 2000000
 tn.params["seed"] = 42
 
 
-dat_bib = pd.read_csv('GitHub/traitlitreview/data/df_phrase_para.csv', index_col= "id") 
+dat_bib = pd.read_csv('GitHub/traitlitreview/inst/extdata/keywords/df_phrase_para.csv', index_col= "id") 
 dat_bib
 
 

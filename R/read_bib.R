@@ -1,3 +1,5 @@
+# df_bib <- read_bib()
+
 read_bib <- function() {
   path <- system.file("extdata/bib/", package = "traitlitreview")
   v_file_bib <- list.files(path, full.names = T)
