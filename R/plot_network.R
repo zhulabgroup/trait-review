@@ -1,6 +1,6 @@
-# plot_text_network(df_net_area_trait)
-# plot_text_network(df_net_trait_all)
-# plot_text_network(df_net_trait_gc)
+# plot_text_network(ls_df_para$area_trait)
+# plot_text_network(ls_df_para$trait_all %>% filter(count >=100))
+# plot_text_network(ls_df_para$trait_gc)
 
 plot_text_network <- function(df_net) {
   bip <- df_net %>%

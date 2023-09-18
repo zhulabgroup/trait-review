@@ -1,6 +1,6 @@
 # ls_df_para <- get_keyphrase_paragraph()
 
-get_keyphrase_paragraph <- function(df_bib_phrase = NULL, df_phrase_stem = NULL, df_phrase_label = NULL, indir = "inst/extdata/keywords/", outdir = "inst/extdata/keywords/") {
+get_keyphrase_paragraph <- function(df_bib_phrase = NULL, df_phrase_stem = NULL, df_phrase_label = NULL, indir = "inst/extdata/keywords/", outdir = "inst/extdata/network/") {
   if (is.null(df_bib_phrase)) {
     df_bib_phrase <- read_csv(str_c(indir, "df_bib_phrase.csv"))
   }
@@ -8,7 +8,7 @@ get_keyphrase_paragraph <- function(df_bib_phrase = NULL, df_phrase_stem = NULL,
     df_phrase_stem <- read_csv(str_c(indir, "df_phrase_stem.csv"))
   }
   if (is.null(df_phrase_label)) {
-    df_phrase_label <- read_csv(str_c(indir, "df_phrase_label.csv"))
+    df_phrase_label <- read_csv(str_c(indir, "df_phrase_label_YS.csv"))
   }
   df_phrase_label <- df_phrase_label %>%
     mutate(valid = replace_na(valid, 1)) %>%
