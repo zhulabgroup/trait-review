@@ -8,7 +8,7 @@ get_keyphrase_paragraph <- function(df_bib_phrase = NULL, df_phrase_stem = NULL,
     df_phrase_stem <- read_csv(str_c(indir, "df_phrase_stem.csv"))
   }
   if (is.null(df_phrase_label)) {
-    df_phrase_label <- read_csv(str_c(indir, "df_phrase_label_YS.csv"))
+    df_phrase_label <- read_csv(str_c(indir, "df_phrase_label_done.csv"))
   }
   df_phrase_label <- df_phrase_label %>%
     mutate(valid = replace_na(valid, 1)) %>%

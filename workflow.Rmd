@@ -1,0 +1,31 @@
+---
+title: "workflow"
+author: "Yiluan Song"
+date: "2023-10-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(traitlitreview)
+```
+
+```{r}
+df_bib <- read_bib(path = "alldata/bib/20230918", num_core = 35)
+```
+
+```{r}
+df_bib_phrase <- get_all_keyphrase(df_bib, num_core = 35)
+df_phrase_stem <- get_keyphrase_stem(df_bib_phrase)
+```
+
+```{r}
+ls_df_para <- get_keyphrase_paragraph()
+```
+
+```{r}
+plot_text_network(ls_df_para$area_trait)
+plot_text_network(ls_df_para$trait_all %>% filter(count >=100))
+plot_text_network(ls_df_para$trait_gc)
+```
+
