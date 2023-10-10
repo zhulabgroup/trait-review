@@ -1,6 +1,21 @@
 # ls_df_para <- get_keyphrase_paragraph()
+read_keyphrase_paragraph <- function(dir = "alldata/intermediate/network/") {
 
-get_keyphrase_paragraph <- function(df_bib_phrase = NULL, df_phrase_stem = NULL, df_phrase_label = NULL, indir = "inst/extdata/keywords/", outdir = "inst/extdata/network/") {
+  df_net_area_trait <- read_csv(str_c(dir, "df_net_area_trait.csv"))
+
+  df_net_trait_all <- read_csv (str_c(dir, "df_net_trait_all.csv"))
+
+  df_net_trait_gc <- read_csv(str_c(dir, "df_net_trait_gc.csv"))
+
+  out <- list(
+    area_trait = df_net_area_trait,
+    trait_all = df_net_trait_all,
+    trait_gc = df_net_trait_gc
+  )
+  return(out)
+}
+
+get_keyphrase_paragraph <- function(df_bib_phrase = NULL, df_phrase_stem = NULL, df_phrase_label = NULL, indir = "alldata/intermediate/keyword/", outdir = "alldata/intermediate/network/") {
   if (is.null(df_bib_phrase)) {
     df_bib_phrase <- read_csv(str_c(indir, "df_bib_phrase.csv"))
   }
@@ -11,13 +26,16 @@ get_keyphrase_paragraph <- function(df_bib_phrase = NULL, df_phrase_stem = NULL,
     df_phrase_label <- read_csv(str_c(indir, "df_phrase_label_done.csv"))
   }
   df_phrase_label <- df_phrase_label %>%
+    mutate(trait =str_replace(trait, "\\?", "1"),
+           globalchange =str_replace(globalchange, "\\?", "1")) %>%
+    mutate(trait =trait %>% as.numeric(),
+           globalchange =globalchange %>% as.numeric()) %>%
     mutate(valid = replace_na(valid, 1)) %>%
     filter(valid == 1) %>%
     mutate(
       trait = replace_na(trait, 0),
       globalchange = replace_na(globalchange, 0)
     )
-
 
   df_bib_phrase_sub <- df_bib_phrase %>%
     right_join(df_phrase_stem %>% select(-keyphrase_n), by = "keyphrase") %>%

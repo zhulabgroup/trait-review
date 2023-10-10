@@ -1,7 +1,7 @@
 # df_bib_phrase <- get_all_keyphrase(df_bib)
 # df_phrase_stem <- get_keyphrase_stem(df_bib_phrase)
 
-get_all_keyphrase <- function(df_bib, outdir = "inst/extdata/keywords/", num_core= 35) {
+get_all_keyphrase <- function(df_bib, outdir = "alldata/intermediate/keyword/", num_core= 35) {
   df_bib_text <- df_bib %>%
     select(area, code, title, abstract, keyword) %>%
     mutate(full = str_c(title, " ", abstract)) %>%
@@ -34,7 +34,7 @@ get_all_keyphrase <- function(df_bib, outdir = "inst/extdata/keywords/", num_cor
       print(str_c(i, " out of ", n_paper))
       df_bib_phrase_i
     }
-  stopcluster(cl)
+  stopCluster(cl)
 
   df_bib_phrase <- bind_rows(ls_df_bib_phrase)
 
@@ -56,7 +56,7 @@ extract_keyphrase <- function(full_text, keyword_original) {
   return(v_keyword)
 }
 
-get_keyphrase_stem <- function(df_bib_phrase = NULL, indir = "inst/extdata/keywords/", outdir = "inst/extdata/keywords/") {
+get_keyphrase_stem <- function(df_bib_phrase = NULL, indir = "alldata/intermediate/keyword/", outdir = "alldata/intermediate/keyword/") {
   if (is.null(df_bib_phrase)) {
     df_bib_phrase <- read_csv(str_c(indir, "df_bib_phrase.csv"))
   }
@@ -82,9 +82,7 @@ get_keyphrase_stem <- function(df_bib_phrase = NULL, indir = "inst/extdata/keywo
     ) %>%
     arrange(desc(count)) %>%
     select(keyphrase_stem, keyphrase_eg, count) %>%
-    filter(count >= n_paper * 0.005)
-
-  df_phrase_label <- df_phrase_stem %>%
+    filter(count >= n_paper * 0.002) %>%
     mutate(
       valid = "",
       trait = "",

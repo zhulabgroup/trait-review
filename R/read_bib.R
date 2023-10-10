@@ -38,4 +38,6 @@ read_bib <- function(path = "alldata/bib/20230918", num_core = 35) {
     select(area, code, everything())
 
   usethis::use_data(df_bib, overwrite = T)
+
+  return (df_bib)
 }

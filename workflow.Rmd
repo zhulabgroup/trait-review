@@ -10,22 +10,26 @@ knitr::opts_chunk$set(echo = TRUE)
 library(traitlitreview)
 ```
 
-```{r}
-df_bib <- read_bib(path = "alldata/bib/20230918", num_core = 35)
+```{r, eval = F}
+df_bib <- read_bib(path = "alldata/input/bib/20230918", num_core = 4)
 ```
 
-```{r}
-df_bib_phrase <- get_all_keyphrase(df_bib, num_core = 35)
+```{r, eval = F}
+df_bib_phrase <- get_all_keyphrase(df_bib, num_core = 30)
 df_phrase_stem <- get_keyphrase_stem(df_bib_phrase)
 ```
 
-```{r}
+```{r, eval = F}
 ls_df_para <- get_keyphrase_paragraph()
 ```
 
 ```{r}
-plot_text_network(ls_df_para$area_trait)
-plot_text_network(ls_df_para$trait_all %>% filter(count >=100))
-plot_text_network(ls_df_para$trait_gc)
+ls_df_para <- read_keyphrase_paragraph()
+```
+
+```{r}
+plot_text_network(ls_df_para$area_trait , min_count = 50)
+plot_text_network(ls_df_para$trait_all , min_count = 100)
+plot_text_network(ls_df_para$trait_gc , min_count = 500)
 ```
 
