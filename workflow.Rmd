@@ -29,7 +29,7 @@ ls_df_para <- read_keyphrase_paragraph()
 
 ```{r}
 plot_text_network(ls_df_para$area_trait , min_count = 50)
-plot_text_network(ls_df_para$trait_all , min_count = 100)
-plot_text_network(ls_df_para$trait_gc , min_count = 500)
+# plot_text_network(ls_df_para$trait_all , min_count = 100)
+plot_text_network(ls_df_para$trait_gc , min_count = 800)
 ```
 
