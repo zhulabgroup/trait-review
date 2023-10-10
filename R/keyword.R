@@ -108,7 +108,21 @@ get_keyphrase_stem <- function(df_bib_phrase, outdir = "inst/extdata/", save = T
 }
 
 read_keyphrase_label <- function(indir = "inst/extdata/", save = T) {
-  df_phrase_label <- read_csv(str_c(indir, "df_phrase_label_done.csv"))
+  df_phrase_label <- read_csv(str_c(indir, "df_phrase_label_done.csv")) %>%
+    mutate(
+      trait = str_replace(trait, "\\?", "1"),
+      globalchange = str_replace(globalchange, "\\?", "1")
+    ) %>%
+    mutate(
+      trait = trait %>% as.numeric(),
+      globalchange = globalchange %>% as.numeric()
+    ) %>%
+    mutate(valid = replace_na(valid, 1)) %>%
+    filter(valid == 1) %>%
+    mutate(
+      trait = replace_na(trait, 0),
+      globalchange = replace_na(globalchange, 0)
+    )
   if (save) {
     usethis::use_data(df_phrase_label, overwrite = T)
   }

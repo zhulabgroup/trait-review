@@ -20,8 +20,8 @@ df_phrase_stem <- get_keyphrase_stem(df_bib_phrase = df_bib_phrase)
 df_phrase_label <- read_keyphrase_label()
 ```
 
-```{r}
-ls_df_para <- read_keyphrase_paragraph()
+```{r, eval = F}
+ls_df_net <- make_network(df_bib_phrase, df_phrase_stem, df_phrase_label)
 ```
 
 ```{r}

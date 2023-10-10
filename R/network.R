@@ -1,22 +1,6 @@
-# ls_df_para <- get_keyphrase_paragraph()
+# ls_df_net <- make_network(df_bib_phrase, df_phrase_stem, df_phrase_label)
 
-get_keyphrase_paragraph <- function(df_phrase_label, save = T) {
-  df_phrase_label <- df_phrase_label %>%
-    mutate(
-      trait = str_replace(trait, "\\?", "1"),
-      globalchange = str_replace(globalchange, "\\?", "1")
-    ) %>%
-    mutate(
-      trait = trait %>% as.numeric(),
-      globalchange = globalchange %>% as.numeric()
-    ) %>%
-    mutate(valid = replace_na(valid, 1)) %>%
-    filter(valid == 1) %>%
-    mutate(
-      trait = replace_na(trait, 0),
-      globalchange = replace_na(globalchange, 0)
-    )
-
+make_network <- function(df_bib_phrase, df_phrase_stem, df_phrase_label, save = T) {
   df_bib_phrase_sub <- df_bib_phrase %>%
     right_join(df_phrase_stem %>% select(-keyphrase_n), by = "keyphrase") %>%
     right_join(df_phrase_label %>% select(-count), by = "keyphrase_stem")
