@@ -1,7 +1,8 @@
 # df_bib_phrase <- get_all_keyphrase(df_bib)
 # df_phrase_stem <- get_keyphrase_stem(df_bib_phrase)
+# df_phrase_label <- read_keyphrase_label()
 
-get_all_keyphrase <- function(df_bib, outdir = "alldata/intermediate/keyword/", num_core= 35) {
+get_all_keyphrase <- function(df_bib, num_core = 35, save = T) {
   df_bib_text <- df_bib %>%
     select(area, code, title, abstract, keyword) %>%
     mutate(full = str_c(title, " ", abstract)) %>%
@@ -28,8 +29,8 @@ get_all_keyphrase <- function(df_bib, outdir = "alldata/intermediate/keyword/", 
         keyphrase = extract_keyphrase(df_bib_text$full[i], df_bib_text$keyword[i])
       ) %>%
         mutate(
-          id = i,
-          code = df_bib_text$code[i]
+          id = i # ,
+          # code = df_bib_text$code[i]
         )
       print(str_c(i, " out of ", n_paper))
       df_bib_phrase_i
@@ -38,7 +39,18 @@ get_all_keyphrase <- function(df_bib, outdir = "alldata/intermediate/keyword/", 
 
   df_bib_phrase <- bind_rows(ls_df_bib_phrase)
 
-  write_csv(df_bib_phrase, str_c(outdir, "df_bib_phrase.csv"))
+  # df_phrase_id <- df_bib_phrase %>%
+  #   distinct(keyphrase) %>%
+  #   arrange(keyphrase) %>%
+  #   mutate(keyphrase_id = row_number())
+  #
+  # df_bib_phrase_id <- df_bib_phrase %>%
+  #   left_join(df_phrase_id, by = "keyphrase") %>%
+  #   select(-keyphrase)
+
+  if (save) {
+    usethis::use_data(df_bib_phrase, overwrite = T)
+  }
 
   return(df_bib_phrase)
 }
@@ -56,10 +68,7 @@ extract_keyphrase <- function(full_text, keyword_original) {
   return(v_keyword)
 }
 
-get_keyphrase_stem <- function(df_bib_phrase = NULL, indir = "alldata/intermediate/keyword/", outdir = "alldata/intermediate/keyword/") {
-  if (is.null(df_bib_phrase)) {
-    df_bib_phrase <- read_csv(str_c(indir, "df_bib_phrase.csv"))
-  }
+get_keyphrase_stem <- function(df_bib_phrase, outdir = "inst/extdata/", save = T) {
   n_paper <- df_bib_phrase %>%
     pull(id) %>%
     unique() %>%
@@ -89,9 +98,19 @@ get_keyphrase_stem <- function(df_bib_phrase = NULL, indir = "alldata/intermedia
       globalchange = ""
     )
 
-  write_csv(df_phrase_stem, str_c(outdir, "df_phrase_stem.csv"))
+  if (save) {
+    usethis::use_data(df_phrase_stem, overwrite = T)
+    usethis::use_data(df_phrase_label, overwrite = T)
+  }
+
   write_csv(df_phrase_label, str_c(outdir, "df_phrase_label.csv"))
   return(df_phrase_stem)
 }
 
-
+read_keyphrase_label <- function(indir = "inst/extdata/", save = T) {
+  df_phrase_label <- read_csv(str_c(indir, "df_phrase_label_done.csv"))
+  if (save) {
+    usethis::use_data(df_phrase_label, overwrite = T)
+  }
+  return(df_phrase_label)
+}

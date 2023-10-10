@@ -1,0 +1,3155 @@
+keyphrase_stem,keyphrase_eg,count,valid,trait,globalchange
+function group,functional groups,46111,NA,1,NA
+articl,article,32980,0,NA,NA
+climat chang,climate change,29222,NA,NA,1
+anim,animals,28496,0,NA,NA
+nonhuman,nonhuman,21427,0,NA,NA
+right reserv,rights reserved,20085,0,NA,NA
+human,human,17553,0,NA,NA
+control studi,controlled study,15976,0,NA,NA
+drought,drought,13478,NA,NA,1
+function trait,functional traits,13451,NA,1,NA
+drought stress,drought stress,12847,NA,NA,1
+physiolog,physiology,12487,NA,1,NA
+result show,results showed,12031,0,NA,NA
+ecosystem,ecosystem,12026,NA,?,NA
+drought toler,drought tolerance,11936,NA,1,NA
+genet,genetics,11354,NA,?,NA
+water pollut,water pollution,10941,NA,NA,1
+heavi metal,heavy metal,10699,NA,NA,1
+result suggest,results suggest,9916,0,NA,NA
+soil,soil,9625,NA,?,NA
+metabol,metabolism,9228,NA,1,NA
+plant speci,plant species,9079,0,NA,NA
+biodivers,biodiversity,8946,NA,?,NA
+invas speci,invasive species,8563,NA,NA,1
+springer natur,springer nature,8316,0,NA,NA
+plant communiti,plant community,8229,NA,?,NA
+prioriti journal,priority journal,8186,0,NA,NA
+soil pollut,soil pollution,8055,NA,NA,1
+environment condit,environmental conditions,7963,NA,NA,1
+speci rich,species richness,7805,NA,?,NA
+present studi,present study,7777,0,NA,NA
+adsorpt,adsorption,7745,NA,1,NA
+morpholog trait,morphological traits,7702,NA,1,NA
+ecosystem function,ecosystem function,7483,NA,1,NA
+biomass,biomass,7439,NA,1,NA
+plant growth,plant growth,7409,NA,1,NA
+environment factor,environmental factors,7393,NA,NA,1
+femal,female,7390,0,NA,NA
+chemistri,chemistry,7384,NA,1,NA
+life histori trait,life history trait,7297,NA,1,NA
+abiot stress,abiotic stress,7261,NA,NA,1
+genet variat,genetic variation,7031,NA,1,NA
+phenotyp,phenotype,7012,NA,1,NA
+signific differ,significant differences,6959,0,NA,NA
+speci divers,species diversity,6705,NA,?,NA
+nitrogen,nitrogen,6588,NA,NA,1
+adapt,adaptation,6580,NA,1,NA
+quantit trait,quantitative trait,6578,NA,1,NA
+growth rate,growth rate,6529,NA,1,NA
+grain yield,grain yield,6273,NA,1,NA
+male,male,6254,0,NA,NA
+physiolog trait,physiological traits,6243,NA,1,NA
+unit state,united states,6166,0,NA,NA
+plant,plant,6132,0,NA,NA
+busi media,business media,5959,0,NA,NA
+china,china,5955,0,NA,NA
+springer scienc,springer science,5955,0,NA,NA
+adsorpt capac,adsorption capacity,5810,NA,1,NA
+posit correl,positively correlated,5802,0,NA,NA
+forestri,forestry,5696,0,NA,NA
+communiti structur,community structure,5685,NA,?,NA
+temperatur,temperature,5616,NA,NA,1
+biolog invas,biological invasion,5525,NA,NA,1
+tree,tree,5523,0,NA,NA
+plant height,plant height,5508,NA,1,NA
+genotyp,genotype,5504,NA,1,NA
+carbon,carbon,5471,NA,NA,1
+water,water,5455,NA,NA,1
+communiti composit,community composition,5395,NA,?,NA
+unclassifi drug,unclassified drug,5350,0,NA,NA
+fourier transform infrar spectroscopi,fourier transform infrared spectroscopy,5329,0,NA,NA
+morpholog,morphology,5279,NA,1,NA
+water stress,water stress,5199,NA,NA,1
+microbi communiti,microbial community,5156,NA,?,NA
+stress condit,stress conditions,5088,NA,NA,1
+nativ speci,native species,5077,0,NA,NA
+plant trait,plant traits,5038,NA,1,NA
+global chang,global change,5037,NA,NA,1
+genet divers,genetic diversity,4922,NA,1,NA
+signific increas,significantly increased,4891,0,NA,NA
+function divers,functional diversity,4820,NA,1,NA
+water content,water content,4777,NA,1,NA
+phenotyp plastic,phenotypic plasticity,4771,NA,1,NA
+stress toler,stress tolerance,4719,NA,1,NA
+global warm,global warming,4711,NA,NA,1
+drought resist,drought resistance,4654,NA,1,NA
+"water pollutants, chemic","water pollutants, chemical",4581,NA,NA,1
+"growth, develop and age","growth, development and aging",4537,NA,1,NA
+physiolog respons,physiological response,4507,NA,1,NA
+scan electron microscopi,scanning electron microscopy,4477,0,NA,NA
+photosynthesi,photosynthesis,4472,NA,1,NA
+season,season,4426,NA,NA,1
+ph,ph,4405,NA,NA,1
+breed program,breeding programs,4386,0,NA,NA
+life-histori trait,life-history traits,4365,NA,1,NA
+plant leaf,plant leaf,4357,NA,1,NA
+grow season,growing season,4350,NA,NA,1
+plant (botany),plants (botany),4343,0,NA,NA
+pollut,pollution,4330,NA,NA,1
+genet variabl,genetic variability,4313,NA,1,NA
+agronom trait,agronomic traits,4300,NA,1,NA
+signific higher,significantly higher,4289,0,NA,NA
+environment pollut,environmental pollution,4271,NA,NA,1
+organ matter,organic matter,4261,NA,1,NA
+ecosystem servic,ecosystem services,4185,NA,1,NA
+ecolog societi,ecological society,4150,0,NA,NA
+compar studi,comparative study,4115,0,NA,NA
+negat effect,negative effects,4093,0,NA,NA
+infrar spectroscopi,infrared spectroscopy,4065,0,NA,NA
+climat condit,climatic conditions,4057,NA,NA,1
+stomat conduct,stomatal conductance,4057,NA,1,NA
+plant root,plant root,4055,NA,1,NA
+environment stress,environmental stress,4032,NA,NA,1
+speci composit,species composition,4029,NA,?,NA
+plant function,plant functional,4007,NA,1,NA
+procedur,procedures,3997,0,NA,NA
+introduc speci,introduced species,3994,NA,NA,1
+enzym activ,enzyme activity,3959,NA,1,NA
+adult,adult,3921,0,NA,NA
+review,review,3896,0,NA,NA
+aqueous solut,aqueous solution,3876,0,NA,NA
+fourier transform,fourier transform,3855,0,NA,NA
+exclus licenc,exclusive licence,3832,0,NA,NA
+urban area,urban area,3826,NA,NA,1
+fish,fish,3778,0,NA,NA
+triticum aestivum,triticum aestivum,3660,0,NA,NA
+environment chang,environmental change,3659,NA,NA,1
+forest,forest,3657,0,NA,NA
+water deficit,water deficit,3641,NA,1,NA
+histori trait,history traits,3640,NA,1,NA
+carbon dioxid,carbon dioxide,3607,NA,NA,1
+animalia,animalia,3591,0,NA,NA
+gene express,gene expression,3535,NA,1,NA
+plant leav,plant leaves,3529,NA,1,NA
+popul dynam,population dynamics,3522,NA,?,NA
+ecolog,ecology,3487,0,NA,NA
+negat correl,negatively correlated,3485,0,NA,NA
+plant breed,plant breeding,3482,NA,1,NA
+transform infrar,transform infrared,3465,0,NA,NA
+plastic,plastic,3440,NA,NA,1
+signific effect,significant effect,3397,0,NA,NA
+field experi,field experiment,3394,0,NA,NA
+phylogeni,phylogeny,3384,NA,?,NA
+fourier transform infrar,fourier transform infrared,3378,0,NA,NA
+concentr (composition),concentration (composition),3361,0,NA,NA
+drought condit,drought conditions,3351,NA,NA,1
+experiment studi,experimental study,3345,0,NA,NA
+water treatment,water treatment,3304,NA,NA,1
+trait relat,traits related,3298,NA,?,NA
+north america,north america,3260,0,NA,NA
+elev temperatur,elevated temperature,3225,NA,NA,1
+environment monitor,environmental monitoring,3215,NA,NA,1
+water avail,water availability,3193,NA,NA,1
+analysi show,analysis showed,3189,0,NA,NA
+princip compon analysi,principal component analysis,3153,0,NA,NA
+abund,abundance,3144,NA,?,NA
+crop,crops,3143,0,NA,NA
+chlorophyl content,chlorophyll content,3133,NA,1,NA
+grassland,grassland,3133,0,NA,NA
+princip compon,principal component,3122,0,NA,NA
+surfac properti,surface property,3101,0,NA,NA
+river,rivers,3091,0,NA,NA
+surviv,survival,3080,NA,1,NA
+speci trait,species traits,3065,NA,1,NA
+singl nucleotid polymorph,single nucleotide polymorphism,3034,NA,?,NA
+result reveal,results revealed,3011,0,NA,NA
+evolut,evolution,3004,0,NA,NA
+human activ,human activities,2997,NA,NA,1
+seedl,seedling,2992,NA,1,NA
+scan electron,scanning electron,2979,0,NA,NA
+biolog trait,biological traits,2972,NA,1,NA
+seed,seed,2949,NA,1,NA
+water potenti,water potential,2948,NA,1,NA
+growth,growth,2941,NA,1,NA
+univers press,university press,2937,0,NA,NA
+flower,flowering,2932,NA,1,NA
+global climat,global climate,2916,NA,NA,1
+forest ecosystem,forest ecosystem,2909,NA,?,NA
+fertil,fertility,2904,NA,1,NA
+microbiolog,microbiology,2901,0,NA,NA
+analysi reveal,analysis revealed,2899,0,NA,NA
+europ,europe,2894,0,NA,NA
+oxid,oxidation,2883,NA,NA,1
+bird,bird,2879,0,NA,NA
+tropic forest,tropical forest,2878,0,NA,NA
+cadmium,cadmium,2874,NA,NA,1
+wheat,wheat,2859,0,NA,NA
+wastewat treatment,wastewater treatment,2853,NA,NA,1
+invas plant,invasive plants,2847,NA,NA,1
+habitat fragment,habitat fragmentation,2841,NA,NA,1
+reproduct,reproduction,2839,NA,1,NA
+organ pollut,organic pollutants,2833,NA,NA,1
+signific correl,significantly correlated,2827,0,NA,NA
+result demonstr,results demonstrate,2824,0,NA,NA
+close relat,closely related,2762,0,NA,NA
+grass,grass,2758,0,NA,NA
+show signific,showed significant,2757,0,NA,NA
+anim experi,animal experiment,2751,0,NA,NA
+speci distribut,species distribution,2751,0,NA,NA
+quantit trait locus,quantitative trait locus,2744,NA,1,NA
+british ecolog,british ecological,2716,0,NA,NA
+british ecolog societi,british ecological society,2716,0,NA,NA
+season variat,seasonal variation,2705,NA,NA,1
+chemic composit,chemical composition,2704,NA,1,NA
+electron microscopi,electron microscopy,2697,0,NA,NA
+studi show,study showed,2693,0,NA,NA
+toxic,toxicity,2689,NA,NA,1
+previous studi,previous studies,2687,0,NA,NA
+genet marker,genetic marker,2675,0,NA,NA
+studi aim,study aimed,2653,0,NA,NA
+negat impact,negative impacts,2644,0,NA,NA
+environment gradient,environmental gradient,2643,NA,NA,1
+pollut remov,pollutant removal,2643,NA,?,1
+biochar,biochar,2642,0,NA,NA
+speci differ,species difference,2639,0,NA,NA
+physiolog stress,physiological stress,2637,NA,1,NA
+organ compound,organic compounds,2624,NA,NA,1
+temperatur effect,temperature effect,2622,NA,NA,1
+futur climat,future climate,2616,NA,NA,1
+genet analysi,genetic analysis,2614,0,NA,NA
+australia,australia,2598,0,NA,NA
+geograph distribut,geographical distribution,2575,0,NA,NA
+oxygen,oxygen,2575,NA,NA,1
+agricultur,agriculture,2572,NA,NA,1
+surfac function,surface functional,2572,0,NA,NA
+gene,genes,2556,NA,1,NA
+stress respons,stress response,2542,NA,1,NA
+find suggest,findings suggest,2541,0,NA,NA
+bioremedi,bioremediation,2526,NA,NA,1
+poacea,poaceae,2526,0,NA,NA
+poor understood,poorly understood,2524,0,NA,NA
+physicochem properti,physicochemical properties,2522,NA,1,NA
+transcript factor,transcription factor,2518,0,NA,NA
+drug effect,drug effect,2516,NA,?,NA
+phenotyp trait,phenotypic traits,2516,NA,1,NA
+polym,polymer,2512,0,NA,NA
+global climat chang,global climate change,2499,NA,NA,1
+phenotyp variat,phenotypic variation,2496,NA,1,NA
+fire,fire,2493,NA,NA,1
+bacterium,bacterium,2491,0,NA,NA
+phosphorus,phosphorus,2485,NA,NA,1
+signific affect,significantly affected,2476,0,NA,NA
+phenolog,phenology,2474,NA,1,NA
+bacteria,bacteria,2468,0,NA,NA
+relat water content,relative water content,2458,NA,1,NA
+compon analysi,component analysis,2456,0,NA,NA
+genom,genomics,2452,0,NA,NA
+relat water,relative water,2449,NA,1,NA
+hexapoda,hexapoda,2447,0,NA,NA
+breed,breeding,2441,NA,1,NA
+franci group,francis group,2439,0,NA,NA
+taxonomi,taxonomy,2424,0,NA,NA
+posit effect,positive effect,2423,0,NA,NA
+signific decreas,significantly decreased,2412,0,NA,NA
+anthropogen effect,anthropogenic effect,2411,NA,NA,1
+environment variabl,environmental variables,2410,NA,NA,1
+land use,land use,2406,NA,NA,1
+relat abund,relative abundance,2406,NA,?,NA
+organ carbon,organic carbon,2399,NA,1,NA
+person trait,personality traits,2395,NA,1,NA
+plant function trait,plant functional traits,2390,NA,1,NA
+hydrogen bond,hydrogen bonds,2389,0,NA,NA
+dispers,dispersal,2382,NA,1,NA
+charcoal,charcoal,2376,NA,NA,1
+veget,vegetation,2373,0,NA,NA
+growth respons,growth response,2369,NA,1,NA
+plant physiolog,plant physiology,2368,NA,1,NA
+candid gene,candidate genes,2366,NA,1,NA
+cultivar,cultivar,2366,0,NA,NA
+local adapt,local adaptation,2366,NA,1,NA
+protein,protein,2362,NA,1,NA
+crop yield,crop yield,2344,NA,1,NA
+climat warm,climate warming,2335,NA,NA,1
+surfac function group,surface functional groups,2330,NA,1,NA
+molecular marker,molecular markers,2316,NA,1,NA
+activ carbon,activated carbon,2307,NA,NA,1
+risk assess,risk assessment,2306,NA,NA,?
+amino acid,amino acids,2296,NA,1,NA
+chemic societi,chemical society,2291,0,NA,NA
+herb,herb,2290,0,NA,NA
+environment impact,environmental impact,2284,NA,NA,1
+isotherm,isotherm,2283,NA,NA,1
+common garden,common garden,2274,0,NA,NA
+signific reduc,significantly reduced,2268,0,NA,NA
+american chemic,american chemical,2260,0,NA,NA
+american chemic societi,american chemical society,2260,0,NA,NA
+chang climat,changing climate,2255,NA,NA,1
+"adaptation, physiolog","adaptation, physiological",2254,NA,1,NA
+"stress, physiolog","stress, physiological",2252,NA,NA,1
+biomass product,biomass production,2249,NA,1,NA
+nutrient,nutrients,2248,NA,NA,1
+antioxid,antioxidant,2246,0,NA,NA
+oxford univers,oxford university,2234,0,NA,NA
+oxford univers press,oxford university press,2234,0,NA,NA
+invas,invasion,2231,NA,NA,1
+manag practic,management practices,2230,NA,NA,1
+microplast,microplastics,2230,NA,NA,1
+royal societi,royal society,2214,0,NA,NA
+conserv,conservation,2204,0,NA,NA
+climat,climate,2202,NA,NA,1
+water qualiti,water quality,2201,NA,NA,1
+leaf area,leaf area,2190,NA,1,NA
+climat effect,climate effect,2189,NA,NA,1
+spatial scale,spatial scales,2188,0,NA,NA
+genet trait,genetic trait,2182,NA,1,NA
+interact effect,interactive effects,2168,0,NA,NA
+natur switzerland,nature switzerland,2168,0,NA,NA
+springer natur switzerland,springer nature switzerland,2168,0,NA,NA
+bioaccumul,bioaccumulation,2165,NA,NA,1
+fungi,fungi,2164,0,NA,NA
+genet resourc,genetic resources,2163,0,NA,NA
+copper,copper,2160,NA,NA,1
+bodi size,body size,2142,NA,1,NA
+physic chemistri,physical chemistry,2138,NA,1,NA
+negat affect,negatively affected,2121,0,NA,NA
+genet improv,genetic improvement,2119,0,NA,NA
+adsorpt kinet,adsorption kinetics,2110,NA,1,NA
+lead,lead,2109,0,NA,NA
+sediment,sediment,2108,NA,NA,1
+air pollut,air pollution,2103,NA,NA,1
+studi suggest,study suggests,2102,0,NA,NA
+classif,classification,2101,0,NA,NA
+recent year,recent years,2093,0,NA,NA
+invertebr,invertebrate,2089,0,NA,NA
+ecolog trait,ecological traits,2084,NA,1,NA
+qualiti trait,quality traits,2083,NA,1,NA
+ave,aves,2081,0,NA,NA
+surfac area,surface area,2079,0,NA,NA
+import trait,important traits,2078,NA,1,NA
+growth trait,growth traits,2074,NA,1,NA
+oxid stress,oxidative stress,2074,NA,1,NA
+sewag,sewage,2071,NA,NA,1
+fit,fitness,2062,NA,1,NA
+result highlight,results highlight,2056,0,NA,NA
+futur research,future research,2049,0,NA,NA
+chemic structur,chemical structure,2038,NA,1,NA
+kinet,kinetics,2030,0,NA,NA
+chlorophyl,chlorophyll,2028,NA,1,NA
+woodi plant,woody plant,2021,0,NA,NA
+remov effici,removal efficiency,2020,NA,1,NA
+farm system,farming systems,2008,0,NA,NA
+oryza sativa,oryza sativa,1997,0,NA,NA
+life histori,life history,1987,NA,1,NA
+popul densiti,population density,1978,NA,?,NA
+cluster analysi,cluster analysis,1977,0,NA,NA
+popul structur,population structure,1977,0,NA,NA
+transform infrar spectroscopi,transform infrared spectroscopy,1972,0,NA,NA
+regress analysi,regression analysis,1969,0,NA,NA
+particl size,particle size,1968,NA,NA,?
+human health,human health,1967,NA,1,NA
+bacteria (microorganisms),bacteria (microorganisms),1965,0,NA,NA
+gene express regul,gene expression regulation,1963,0,NA,NA
+plant respons,plant responses,1963,0,NA,NA
+rice,rice,1960,0,NA,NA
+age,aged,1957,0,NA,NA
+larg number,large number,1952,0,NA,NA
+wetland,wetland,1940,0,NA,NA
+metal,metals,1937,NA,NA,1
+signific lower,significantly lower,1935,0,NA,NA
+speci specif,species specificity,1934,0,NA,NA
+eutroph,eutrophication,1928,NA,NA,1
+genome-wid associ studi,genome-wide association study,1924,0,NA,NA
+primari product,primary production,1922,NA,1,NA
+popul genet,population genetics,1921,0,NA,NA
+studi demonstr,study demonstrates,1919,0,NA,NA
+aquat environ,aquatic environment,1913,0,NA,NA
+block design,block design,1913,0,NA,NA
+soil moistur,soil moisture,1909,NA,NA,1
+studi investig,study investigated,1908,0,NA,NA
+field condit,field conditions,1906,0,NA,NA
+specif surfac,specific surface,1897,0,NA,NA
+mortal,mortality,1896,NA,1,NA
+germin,germination,1894,NA,1,NA
+function morpholog,functional morphology,1888,NA,1,NA
+advers effect,adverse effects,1886,0,NA,NA
+water suppli,water supply,1886,NA,NA,1
+nitrogen fertil,nitrogen fertilization,1882,NA,NA,1
+molecular weight,molecular weight,1874,NA,1,NA
+plant protein,plant proteins,1874,NA,1,NA
+disturb,disturbance,1870,NA,NA,1
+remain unclear,remains unclear,1866,0,NA,NA
+studi reveal,study revealed,1865,0,NA,NA
+decidu tree,deciduous tree,1856,0,NA,NA
+invertebrata,invertebrata,1856,0,NA,NA
+nanoparticl,nanoparticles,1856,0,NA,NA
+oxygen-contain function group,oxygen-containing functional groups,1853,NA,1,NA
+select pressur,selection pressures,1844,0,NA,NA
+reproduct trait,reproductive traits,1843,NA,1,NA
+abiot factor,abiotic factors,1841,NA,NA,1
+shrub,shrub,1839,0,NA,NA
+aboveground biomass,aboveground biomass,1830,NA,1,NA
+zea may,zea mays,1829,0,NA,NA
+communiti respons,community response,1818,0,NA,NA
+lake,lakes,1818,0,NA,NA
+factor affect,factors affecting,1817,0,NA,NA
+wastewat,wastewater,1813,NA,NA,1
+trophic level,trophic levels,1805,NA,?,NA
+aquat ecosystem,aquatic ecosystems,1799,0,NA,NA
+maiz,maize,1797,0,NA,NA
+fungus,fungus,1796,0,NA,NA
+alien speci,alien species,1795,NA,NA,1
+dicotyledon,dicotyledon,1792,0,NA,NA
+nativ plant,native plant,1791,0,NA,NA
+freshwat ecosystem,freshwater ecosystem,1788,0,NA,NA
+protein content,protein content,1785,0,NA,NA
+biodegrad,biodegradation,1784,NA,NA,1
+result provid,results provide,1781,0,NA,NA
+adsorpt mechan,adsorption mechanism,1778,0,NA,NA
+natur select,natural selection,1778,0,NA,NA
+brazil,brazil,1775,0,NA,NA
+land use chang,land use change,1772,NA,NA,1
+spatial distribut,spatial distribution,1771,0,NA,NA
+adapt trait,adaptive traits,1767,NA,1,NA
+pollin,pollination,1760,NA,1,NA
+environment protect,environmental protection,1754,0,NA,NA
+increas temperatur,increasing temperature,1754,NA,NA,1
+adsorpt process,adsorption process,1751,NA,1,NA
+concentr (parameter),concentration (parameter),1749,0,NA,NA
+trait variat,trait variation,1747,NA,1,NA
+oxygen-contain function,oxygen-containing functional,1746,NA,1,NA
+signific posit,significant positive,1738,0,NA,NA
+hybrid,hybridization,1730,0,NA,NA
+chemic analysi,chemical analysis,1727,0,NA,NA
+phylogenet,phylogenetics,1725,0,NA,NA
+mechan under,mechanisms underlying,1724,0,NA,NA
+quantit trait loci,quantitative trait loci,1723,NA,1,NA
+metal ion,metal ions,1720,NA,NA,1
+climat variabl,climatic variables,1712,NA,NA,1
+diseas resist,disease resistance,1712,NA,1,NA
+conifer tree,coniferous tree,1711,0,NA,NA
+ecolog impact,ecological impact,1708,0,NA,NA
+hydraul conduct,hydraulic conductivity,1704,NA,1,NA
+yield compon,yield components,1704,NA,1,NA
+polymeras chain reaction,polymerase chain reaction,1701,0,NA,NA
+quantit analysi,quantitative analysis,1699,0,NA,NA
+correl analysi,correlation analysis,1698,0,NA,NA
+manag strategi,management strategies,1691,0,NA,NA
+fatti acid,fatty acids,1684,NA,1,NA
+transgen plant,transgenic plant,1684,0,NA,NA
+degrad,degradation,1678,NA,NA,1
+plant function group,plant functional groups,1677,NA,1,NA
+angiosperm,angiosperm,1674,0,NA,NA
+plant invas,plant invasion,1673,NA,NA,1
+biolog evolut,biological evolution,1671,0,NA,NA
+biolog model,biological model,1671,0,NA,NA
+genet correl,genetic correlations,1671,0,NA,NA
+american societi,american society,1670,0,NA,NA
+antioxid enzym,antioxidant enzymes,1661,0,NA,NA
+zinc,zinc,1661,NA,?,NA
+insect,insect,1655,0,NA,NA
+analysi,analysis,1654,0,NA,NA
+forest manag,forest management,1651,0,NA,NA
+eurasia,eurasia,1650,0,NA,NA
+exot speci,exotic species,1647,NA,NA,1
+pyrolysi,pyrolysis,1646,0,NA,NA
+urban,urbanization,1645,NA,NA,1
+conserv manag,conservation management,1642,0,NA,NA
+habitat type,habitat type,1641,0,NA,NA
+intraspecif variat,intraspecific variation,1640,NA,1,NA
+x ray diffract,x ray diffraction,1635,0,NA,NA
+pollut effect,pollution effect,1634,NA,NA,1
+legum,legume,1632,0,NA,NA
+molecular mechan,molecular mechanisms,1628,0,NA,NA
+effici,efficiency,1626,0,NA,NA
+terrestri ecosystem,terrestrial ecosystems,1623,0,NA,NA
+major clinic studi,major clinical study,1613,0,NA,NA
+natur popul,natural populations,1612,0,NA,NA
+harvest index,harvest index,1611,0,NA,NA
+invas success,invasion success,1610,NA,?,NA
+associ studi,association study,1608,0,NA,NA
+agricultur product,agricultural production,1605,0,NA,NA
+transcriptom,transcriptome,1605,0,NA,NA
+water use effici,water use efficiency,1605,NA,1,NA
+communiti dynam,community dynamics,1601,0,NA,NA
+biochemistri,biochemistry,1598,0,NA,NA
+fruit,fruit,1596,0,NA,NA
+popul growth,population growth,1593,NA,1,NA
+busi media dordrecht,business media dordrecht,1592,0,NA,NA
+media dordrecht,media dordrecht,1592,0,NA,NA
+rang expans,range expansion,1592,NA,1,NA
+evolut publish,evolution published,1582,0,NA,NA
+chromosom map,chromosome mapping,1579,0,NA,NA
+combin effect,combined effects,1579,0,NA,NA
+current studi,current study,1577,0,NA,NA
+growth stage,growth stages,1574,NA,1,NA
+nutrient avail,nutrient availability,1569,NA,NA,1
+statist signific,statistically significant,1568,0,NA,NA
+genet basi,genetic basis,1563,0,NA,NA
+"metals, heavi","metals, heavy",1563,NA,NA,1
+nutrient cycl,nutrient cycling,1563,NA,1,NA
+sever drought,severe drought,1560,NA,NA,1
+show higher,showed higher,1556,0,NA,NA
+communiti assembl,community assembly,1554,0,NA,NA
+iron,iron,1552,NA,NA,1
+allel,allele,1550,0,NA,NA
+relat import,relative importance,1540,0,NA,NA
+leaf,leaf,1538,NA,1,NA
+alga,algae,1536,0,NA,NA
+carbon isotop,carbon isotope,1535,0,NA,NA
+differ signific,differed significantly,1535,0,NA,NA
+marin ecosystem,marine ecosystem,1533,0,NA,NA
+drought respons,drought response,1531,NA,NA,1
+genet engin,genetic engineering,1528,0,NA,NA
+precipit,precipitation,1528,NA,NA,1
+function role,functional role,1520,NA,1,NA
+complet block,complete block,1519,0,NA,NA
+water manag,water management,1518,NA,NA,1
+wast water manag,waste water management,1516,NA,NA,1
+x-ray diffract,x-ray diffraction,1514,0,NA,NA
+predict,prediction,1510,0,NA,NA
+biomass alloc,biomass allocation,1509,NA,1,NA
+ecosystem process,ecosystem processes,1509,NA,1,NA
+macroinvertebr,macroinvertebrate,1509,0,NA,NA
+signal transduct,signal transduction,1509,0,NA,NA
+adsorpt isotherm,adsorption isotherms,1508,0,NA,NA
+dye,dyes,1507,0,NA,NA
+genome-wid associ,genome-wide association,1505,0,NA,NA
+adsorb,adsorbent,1498,0,NA,NA
+multivari analysi,multivariate analysis,1481,0,NA,NA
+pollut exposur,pollution exposure,1480,NA,NA,1
+toler,tolerance,1479,NA,1,NA
+chemic remov (water treatment),chemicals removal (water treatment),1473,NA,NA,1
+water regim,water regimes,1472,NA,NA,1
+phenol,phenols,1464,NA,NA,1
+superoxid dismutas,superoxide dismutase,1463,0,NA,NA
+berlin heidelberg,berlin heidelberg,1462,0,NA,NA
+maximum adsorpt,maximum adsorption,1461,NA,1,NA
+anim tissu,animal tissue,1457,NA,1,NA
+springer-verlag berlin,springer-verlag berlin,1456,0,NA,NA
+springer-verlag berlin heidelberg,springer-verlag berlin heidelberg,1456,0,NA,NA
+wast water,waste water,1455,NA,NA,1
+"wast disposal, fluid","waste disposal, fluid",1451,NA,NA,1
+plant divers,plant diversity,1450,NA,?,NA
+higher level,higher levels,1449,0,NA,NA
+reactiv oxygen speci,reactive oxygen species,1447,0,NA,NA
+environment disturb,environmental disturbance,1445,NA,NA,1
+speci show,species showed,1445,0,NA,NA
+environ,environment,1444,0,NA,NA
+human cell,human cell,1444,NA,1,NA
+differenti express,differentially expressed,1440,0,NA,NA
+inbr line,inbred lines,1440,0,NA,NA
+genet differenti,genetic differentiation,1438,0,NA,NA
+matter content,matter content,1438,0,NA,NA
+salin,salinity,1438,NA,NA,1
+import factor,important factor,1437,0,NA,NA
+evolutionari biolog,evolutionary biology,1434,0,NA,NA
+bacteri strain,bacterial strain,1430,0,NA,NA
+herit,heritability,1430,0,NA,NA
+agricultur land,agricultural land,1429,NA,NA,1
+remot sens,remote sensing,1426,0,NA,NA
+environment exposur,environmental exposure,1424,NA,NA,1
+cell prolifer,cell proliferation,1423,NA,1,NA
+cultiv,cultivation,1423,0,NA,NA
+vascular plant,vascular plant,1423,0,NA,NA
+nativ rang,native range,1416,0,NA,NA
+north american,north american,1416,0,NA,NA
+trade-off,trade-off,1410,0,NA,NA
+drought stress condit,drought stress conditions,1406,NA,NA,1
+botan societi,botanical society,1400,0,NA,NA
+provid insight,provide insights,1398,0,NA,NA
+carbon cycl,carbon cycle,1397,NA,NA,1
+function respons,functional response,1396,NA,1,NA
+random complet,randomized complete,1396,0,NA,NA
+morpholog characterist,morphological characteristics,1394,NA,1,NA
+mediterranean environ,mediterranean environment,1393,0,NA,NA
+microbi activ,microbial activity,1393,NA,1,NA
+hydrogen-ion concentr,hydrogen-ion concentration,1392,NA,1,NA
+popul declin,population decline,1392,NA,1,NA
+singl nucleotid,single nucleotide,1392,0,NA,NA
+larva,larva,1390,0,NA,NA
+blackwel publish,blackwell publishing,1389,0,NA,NA
+fungal communiti,fungal community,1389,0,NA,NA
+genet select,genetic selection,1387,0,NA,NA
+"models, biolog","models, biological",1384,0,NA,NA
+water contamin,water contamination,1383,NA,NA,1
+random complet block,randomized complete block,1381,0,NA,NA
+predat,predation,1379,0,NA,NA
+restor ecolog,restoration ecology,1377,0,NA,NA
+effluent,effluents,1375,NA,NA,1
+reactiv oxygen,reactive oxygen,1370,NA,?,?
+nucleotid polymorph,nucleotide polymorphisms,1369,0,NA,NA
+indirect effect,indirect effects,1366,0,NA,NA
+marker-assist select,marker-assisted selection,1365,0,NA,NA
+plant seed,plant seed,1363,NA,1,NA
+futur studi,future studies,1361,0,NA,NA
+acclimat,acclimatization,1355,NA,1,NA
+function composit,functional composition,1354,NA,1,NA
+protein express,protein expression,1354,NA,1,NA
+sustain develop,sustainable development,1354,0,NA,NA
+humic substanc,humic substances,1353,NA,1,NA
+x-ray photoelectron,x-ray photoelectron,1352,0,NA,NA
+aromat compound,aromatic compounds,1351,NA,1,NA
+beetl,beetle,1348,0,NA,NA
+bacteri communiti,bacterial community,1344,0,NA,NA
+photoelectron spectroscopi,photoelectron spectroscopy,1341,0,NA,NA
+crop product,crop production,1339,NA,1,NA
+decomposit,decomposition,1339,NA,1,NA
+heat,heat,1339,NA,NA,1
+mammal,mammal,1339,0,NA,NA
+wiley period,wiley periodicals,1339,0,NA,NA
+bioindic,bioindicator,1337,0,NA,NA
+water temperatur,water temperature,1337,NA,NA,1
+water purif,water purification,1333,NA,NA,1
+improv drought,improve drought,1329,NA,NA,1
+complet block design,complete block design,1325,0,NA,NA
+nitrogen content,nitrogen content,1325,NA,1,NA
+signific improv,significantly improved,1325,0,NA,NA
+wheat cultivar,wheat cultivars,1325,0,NA,NA
+oxygen speci,oxygen species,1324,0,NA,NA
+product,productivity,1324,NA,1,NA
+vulner,vulnerability,1324,NA,1,NA
+hydroxyl group,hydroxyl group,1322,0,NA,NA
+surfac water,surface water,1322,0,NA,NA
+reproduct success,reproductive success,1320,NA,1,NA
+temper forest,temperate forest,1320,0,NA,NA
+linear model,linear models,1316,0,NA,NA
+contamin,contamination,1311,NA,NA,1
+anim model,animal model,1309,0,NA,NA
+pesticid,pesticide,1309,NA,NA,1
+signific influenc,significantly influenced,1309,0,NA,NA
+genet structur,genetic structure,1307,NA,1,NA
+microorgan,microorganisms,1306,0,NA,NA
+strong influenc,strongly influenced,1306,0,NA,NA
+"gene express regulation, plant","gene expression regulation, plant",1305,NA,1,NA
+biotic stress,biotic stress,1304,NA,NA,1
+colon,colonization,1302,0,NA,NA
+mediterranean region,mediterranean region,1300,0,NA,NA
+structur equat model,structural equation modeling,1298,0,NA,NA
+affect plant,affect plant,1297,0,NA,NA
+endang speci,endangered species,1297,0,NA,NA
+studi highlight,study highlights,1297,0,NA,NA
+genom region,genomic regions,1293,0,NA,NA
+biofilm,biofilm,1291,0,NA,NA
+chang scenario,change scenarios,1291,0,NA,NA
+creativ common,creative commons,1291,0,NA,NA
+bread wheat,bread wheat,1289,0,NA,NA
+ecolog model,ecological modeling,1288,0,NA,NA
+plant biomass,plant biomass,1284,NA,1,NA
+trait includ,traits including,1282,NA,1,NA
+complex trait,complex traits,1281,NA,1,NA
+carboxyl acid,carboxylic acid,1276,0,NA,NA
+isol and purif,isolation and purification,1276,0,NA,NA
+maximum adsorpt capac,maximum adsorption capacity,1275,NA,1,NA
+development stage,developmental stage,1273,0,NA,NA
+aquat organ,aquatic organisms,1271,0,NA,NA
+high signific,highly significant,1269,0,NA,NA
+spain,spain,1268,0,NA,NA
+fertil applic,fertilizer application,1267,NA,NA,1
+metal pollut,metal pollution,1262,NA,NA,1
+higher temperatur,higher temperatures,1260,NA,NA,1
+woodi speci,woody species,1260,0,NA,NA
+x-ray photoelectron spectroscopi,x-ray photoelectron spectroscopy,1260,0,NA,NA
+agronomi,agronomy,1259,0,NA,NA
+transmiss electron microscopi,transmission electron microscopy,1259,0,NA,NA
+ion,ions,1257,0,NA,NA
+carbohydr,carbohydrate,1255,NA,1,NA
+mass spectrometri,mass spectrometry,1253,0,NA,NA
+urban environ,urban environments,1252,NA,NA,1
+trait valu,trait values,1251,NA,1,NA
+"biodegradation, environment","biodegradation, environmental",1247,NA,NA,1
+pathogen,pathogenicity,1245,NA,1,NA
+chromium,chromium,1243,NA,NA,1
+recent studi,recent studies,1243,0,NA,NA
+intern publish,international publishing,1241,0,NA,NA
+springer intern,springer international,1241,0,NA,NA
+springer intern publish,springer international publishing,1241,0,NA,NA
+time factor,time factors,1238,0,NA,NA
+toler trait,tolerance traits,1236,NA,1,NA
+citi,city,1233,NA,NA,1
+coral reef,coral reefs,1233,0,NA,NA
+product system,production systems,1233,0,NA,NA
+high temperatur,high temperature,1232,NA,NA,1
+ion exchang,ion exchange,1232,0,NA,NA
+resourc avail,resource availability,1232,0,NA,NA
+synthesi,synthesis,1230,0,NA,NA
+sorption,sorption,1229,0,NA,NA
+dna sequenc,dna sequence,1228,0,NA,NA
+herbivori,herbivory,1226,NA,1,NA
+stabl isotop,stable isotope,1224,0,NA,NA
+wheat genotyp,wheat genotypes,1224,0,NA,NA
+domin speci,dominant species,1223,0,NA,NA
+ecophysiolog,ecophysiology,1220,NA,1,NA
+yield potenti,yield potential,1220,NA,1,NA
+itali,italy,1219,0,NA,NA
+phosphat,phosphate,1218,NA,1,NA
+carbon sequestr,carbon sequestration,1217,NA,1,NA
+hydrophob,hydrophobicity,1216,NA,1,NA
+random complet block design,randomized complete block design,1215,0,NA,NA
+wood,wood,1215,NA,1,NA
+carboxyl group,carboxyl group,1213,NA,1,NA
+competit,competition,1213,0,NA,NA
+graphen oxid,graphene oxide,1212,0,NA,NA
+cattl,cattle,1211,NA,NA,1
+risk factor,risk factor,1210,0,NA,NA
+pollut control,pollution control,1209,NA,NA,1
+studi examin,study examined,1208,0,NA,NA
+plant develop,plant development,1206,NA,1,NA
+regener,regeneration,1206,0,NA,NA
+mammalia,mammalia,1203,0,NA,NA
+biogeochemistri,biogeochemistry,1201,0,NA,NA
+plantat,plantation,1199,0,NA,NA
+control condit,controlled conditions,1197,0,NA,NA
+field studi,field study,1196,0,NA,NA
+model,modeling,1196,0,NA,NA
+south america,south america,1196,0,NA,NA
+humic acid,humic acid,1195,0,NA,NA
+nitrat,nitrate,1195,NA,NA,1
+water resourc,water resources,1193,NA,NA,1
+nucleotid sequenc,nucleotide sequence,1192,0,NA,NA
+semiarid region,semiarid region,1192,0,NA,NA
+popul distribut,population distribution,1190,0,NA,NA
+triticum,triticum,1189,0,NA,NA
+chlorophyl fluoresc,chlorophyll fluorescence,1187,NA,1,NA
+soil microbiolog,soil microbiology,1185,0,NA,NA
+ecolog process,ecological processes,1179,0,NA,NA
+heavi metal remov,heavy metal removal,1178,NA,NA,1
+reaction kinet,reaction kinetics,1175,0,NA,NA
+under mechan,underlying mechanisms,1175,0,NA,NA
+provid evid,provide evidence,1174,0,NA,NA
+remain poor,remain poorly,1168,0,NA,NA
+food web,food web,1167,0,NA,NA
+alien plant,alien plants,1166,NA,NA,1
+marin environ,marine environment,1166,0,NA,NA
+trait-bas approach,trait-based approach,1166,NA,?,NA
+forest fragment,forest fragments,1163,NA,NA,1
+kinet model,kinetic model,1163,0,NA,NA
+trace element,trace elements,1163,NA,1,NA
+abiot stress toler,abiotic stress tolerance,1162,NA,1,NA
+great potenti,great potential,1162,0,NA,NA
+isotherm model,isotherm model,1161,0,NA,NA
+spatiotempor analysi,spatiotemporal analysis,1161,0,NA,NA
+econom import,economically important,1160,0,NA,NA
+field trial,field trials,1160,0,NA,NA
+relat trait,related traits,1160,NA,1,NA
+elev gradient,elevational gradient,1159,0,NA,NA
+south africa,south africa,1159,0,NA,NA
+adapt strategi,adaptation strategies,1157,0,NA,NA
+nitrogen fixat,nitrogen fixation,1157,NA,1,NA
+franc,france,1154,0,NA,NA
+factor influenc,factors influencing,1152,0,NA,NA
+contamin water,contaminated water,1150,NA,NA,1
+ammonia,ammonia,1149,NA,NA,1
+increas signific,increased significantly,1149,0,NA,NA
+patholog,pathology,1146,0,NA,NA
+cancer cell,cancer cells,1145,NA,1,NA
+plant diseas,plant disease,1144,NA,1,NA
+hydrogen peroxid,hydrogen peroxide,1143,0,NA,NA
+public health,public health,1143,0,NA,NA
+environment filter,environmental filtering,1141,NA,NA,1
+genom sequenc,genome sequence,1141,NA,1,NA
+coleoptera,coleoptera,1136,0,NA,NA
+common attribut,commons attribution,1136,0,NA,NA
+creativ common attribut,creative commons attribution,1136,0,NA,NA
+geograph rang,geographic range,1135,NA,1,NA
+recombin inbr,recombinant inbred,1134,0,NA,NA
+root system,root system,1133,NA,1,NA
+nanocomposit,nanocomposites,1131,0,NA,NA
+non-nat speci,non-native species,1130,NA,NA,1
+scienc press,science press,1130,0,NA,NA
+thermal toler,thermal tolerance,1130,NA,1,NA
+"crops, agricultur","crops, agricultural",1129,NA,NA,1
+veget cover,vegetation cover,1129,NA,NA,1
+canada,canada,1125,0,NA,NA
+larg amount,large amount,1124,0,NA,NA
+signific impact,significant impact,1123,0,NA,NA
+growth promot,growth promoting,1122,0,NA,NA
+soil properti,soil property,1122,NA,NA,1
+phytoplankton,phytoplankton,1116,0,NA,NA
+water-us effici,water-use efficiency,1116,NA,1,NA
+organ farm,organic farming,1115,0,NA,NA
+solubl sugar,soluble sugars,1114,0,NA,NA
+bioreactor,bioreactors,1112,0,NA,NA
+desir trait,desirable traits,1111,NA,1,NA
+anthropogen disturb,anthropogenic disturbance,1107,NA,NA,1
+molecular genet,molecular genetics,1107,0,NA,NA
+signific negat,significant negative,1106,0,NA,NA
+thermodynam,thermodynamics,1106,0,NA,NA
+heavi metal pollut,heavy metal pollution,1104,NA,NA,1
+bacterium isol,bacterium isolation,1103,0,NA,NA
+breed programm,breeding programmes,1103,0,NA,NA
+x ray photoelectron spectroscopi,x ray photoelectron spectroscopy,1103,0,NA,NA
+chemic modif,chemical modification,1102,NA,?,1
+posit relat,positively related,1101,0,NA,NA
+fresh water,fresh water,1099,0,NA,NA
+biomark,biomarkers,1098,NA,1,NA
+biogeographi,biogeography,1093,0,NA,NA
+concentr (parameters),concentration (parameters),1093,0,NA,NA
+microbi divers,microbial diversity,1093,0,NA,NA
+chines academi,chinese academy,1092,0,NA,NA
+demographi,demography,1091,NA,?,NA
+genet associ,genetic association,1091,0,NA,NA
+mycorrhiza,mycorrhiza,1091,0,NA,NA
+wast compon remov,waste component removal,1091,0,NA,NA
+chemic properti,chemical properties,1090,0,NA,NA
+adsorpt perform,adsorption performance,1089,NA,1,NA
+numer model,numerical model,1089,0,NA,NA
+tempor variat,temporal variation,1087,0,NA,NA
+earli stage,early stages,1086,0,NA,NA
+tropic,tropics,1085,0,NA,NA
+total biomass,total biomass,1083,NA,1,NA
+spatial variat,spatial variation,1082,0,NA,NA
+climat chang scenario,climate change scenarios,1080,NA,NA,1
+health risk,health risks,1080,NA,?,NA
+access articl,access article,1079,0,NA,NA
+soil organ matter,soil organic matter,1079,NA,1,NA
+posit relationship,positive relationship,1077,0,NA,NA
+seedl growth,seedling growth,1077,NA,1,NA
+germplasm,germplasm,1076,0,NA,NA
+poros,porosity,1076,NA,?,NA
+sorption capac,sorption capacity,1076,0,NA,NA
+organ acid,organic acids,1073,0,NA,NA
+plant gene,plant gene,1071,NA,1,NA
+success,succession,1071,0,NA,NA
+india,india,1069,0,NA,NA
+recent advanc,recent advances,1069,0,NA,NA
+chang environ,changing environments,1067,NA,NA,1
+desorpt,desorption,1065,0,NA,NA
+genet background,genetic background,1063,0,NA,NA
+direct effect,direct effects,1061,0,NA,NA
+xylem,xylem,1061,NA,1,NA
+x ray photoemiss spectroscopi,x ray photoemission spectroscopy,1060,0,NA,NA
+biodivers conserv,biodiversity conservation,1058,0,NA,NA
+regress model,regression models,1058,0,NA,NA
+decidu forest,deciduous forest,1056,0,NA,NA
+soil remedi,soil remediation,1053,NA,NA,1
+anatomi and histolog,anatomy and histology,1052,NA,1,NA
+conserv strategi,conservation strategies,1051,0,NA,NA
+soil microorgan,soil microorganism,1050,0,NA,NA
+wide distribut,widely distributed,1050,0,NA,NA
+surviv rate,survival rate,1047,NA,1,NA
+ant,ant,1046,0,NA,NA
+nitrogen addit,nitrogen addition,1045,NA,NA,1
+upregul,upregulation,1045,0,NA,NA
+anatomi,anatomy,1044,NA,1,NA
+environment effect,environmental effects,1044,NA,NA,1
+enzym,enzymes,1044,NA,1,NA
+ecosystem respons,ecosystem response,1043,NA,1,NA
+gene involv,genes involved,1043,NA,1,NA
+phytoremedi,phytoremediation,1043,NA,?,NA
+plant growth promot,plant growth promoting,1043,NA,1,NA
+environment temperatur,environmental temperature,1042,NA,NA,1
+warm,warming,1042,NA,NA,1
+speci conserv,species conservation,1039,0,NA,NA
+miner,mineral,1038,0,NA,NA
+evolutionari histori,evolutionary history,1036,0,NA,NA
+moistur content,moisture content,1035,NA,NA,1
+sequenc analysi,sequence analysis,1035,0,NA,NA
+remedi,remediation,1033,NA,?,NA
+speci invas,species invasion,1033,NA,NA,1
+distribut pattern,distribution patterns,1032,0,NA,NA
+root,root,1032,NA,1,NA
+strong correl,strongly correlated,1031,0,NA,NA
+articl distribut,article distributed,1029,0,NA,NA
+environ interact,environment interaction,1028,0,NA,NA
+ecolog function,ecological functions,1025,NA,1,NA
+plant genom,plant genome,1025,NA,1,NA
+chemic bond,chemical bonds,1024,NA,1,NA
+field capac,field capacity,1024,0,NA,NA
+polycycl aromat hydrocarbon,polycyclic aromatic hydrocarbons,1022,0,NA,NA
+result obtain,results obtained,1021,0,NA,NA
+correl coeffici,correlation coefficient,1020,0,NA,NA
+temperatur increas,temperature increase,1020,NA,NA,1
+water status,water status,1020,NA,NA,1
+experiment design,experimental design,1019,0,NA,NA
+tropic climat,tropical climate,1019,NA,NA,1
+dissolv organ matter,dissolved organic matter,1018,NA,NA,1
+relat speci,related species,1018,0,NA,NA
+atlant ocean,atlantic ocean,1017,0,NA,NA
+chlorin compound,chlorine compounds,1017,NA,1,NA
+sustain agricultur,sustainable agriculture,1017,0,NA,NA
+equat model,equation modeling,1016,0,NA,NA
+speci interact,species interactions,1016,0,NA,NA
+crop system,cropping systems,1015,0,NA,NA
+bee,bee,1014,0,NA,NA
+floral trait,floral trait,1014,NA,1,NA
+ecosystem restor,ecosystem restoration,1012,0,NA,NA
+literatur review,literature review,1012,NA,NA,NA
+habitat loss,habitat loss,1010,NA,NA,1
+nitrogen deposit,nitrogen deposition,1008,NA,NA,1
+experiment result,experimental results,1006,0,NA,NA
+molecular analysi,molecular analysis,1005,0,NA,NA
+sensit analysi,sensitivity analysis,1005,0,NA,NA
+stress resist,stress resistance,1004,NA,1,NA
+synergist effect,synergistic effect,1004,0,NA,NA
+signific posit correl,significant positive correlation,1003,0,NA,NA
+oryza,oryza,1001,0,NA,NA
+popul size,population size,1001,NA,1,NA
+lignin,lignin,1000,0,NA,NA
+reforest,reforestation,999,0,NA,NA
+electron transport,electron transport,997,0,NA,NA
+studi trait,studied traits,991,NA,1,NA
+adapt respons,adaptive responses,990,0,NA,NA
+grain fill,grain filling,990,0,NA,NA
+adolesc,adolescent,989,0,NA,NA
+structur equat,structural equation,989,0,NA,NA
+seedl stage,seedling stage,988,NA,1,NA
+dissolv organ,dissolved organic,985,NA,1,NA
+biochem trait,biochemical traits,984,NA,1,NA
+contamin soil,contaminated soils,984,NA,NA,1
+natur habitat,natural habitats,984,0,NA,NA
+boreal forest,boreal forest,983,0,NA,NA
+plant water,plant water,983,0,NA,NA
+stress,stress,983,0,NA,NA
+middl age,middle aged,981,0,NA,NA
+futur climat chang,future climate change,980,NA,NA,1
+spatial pattern,spatial patterns,980,0,NA,NA
+higher yield,higher yield,979,NA,1,NA
+prolin content,proline content,979,NA,?,NA
+groundwat,groundwater,977,0,NA,NA
+conserv of natur resourc,conservation of natural resources,976,0,NA,NA
+express level,expression levels,975,0,NA,NA
+limit factor,limiting factor,974,0,NA,NA
+arsenic,arsenic,973,NA,NA,1
+competit abil,competitive ability,973,NA,1,NA
+physiolog process,physiological processes,973,NA,1,NA
+"polymorphism, singl nucleotid","polymorphism, single nucleotide",973,NA,1,NA
+studi focus,study focuses,973,0,NA,NA
+genet control,genetic control,972,0,NA,NA
+river basin,river basin,971,0,NA,NA
+signific variat,significant variation,971,0,NA,NA
+trait composit,trait composition,971,NA,1,NA
+environment variat,environmental variation,970,NA,NA,1
+product trait,production traits,970,NA,1,NA
+protect area,protected areas,969,0,NA,NA
+entomolog societi,entomological society,967,0,NA,NA
+habitat,habitat,967,0,NA,NA
+common garden experi,common garden experiment,966,0,NA,NA
+popul statist,population statistics,965,0,NA,NA
+amin,amines,962,0,NA,NA
+environment friend,environmentally friendly,961,0,NA,NA
+drought treatment,drought treatment,960,NA,NA,1
+feed behavior,feeding behavior,960,NA,1,NA
+veget type,vegetation types,958,0,NA,NA
+model predict,model predictions,957,0,NA,NA
+biolog control,biological control,955,0,NA,NA
+ecolog restor,ecological restoration,955,0,NA,NA
+reactiv oxygen metabolit,reactive oxygen metabolite,955,0,NA,NA
+evapotranspir,evapotranspiration,953,NA,1,NA
+grain weight,grain weight,953,NA,1,NA
+land-us chang,land-use change,953,NA,NA,1
+model approach,modelling approach,952,0,NA,NA
+speci abund,species abundance,952,0,NA,NA
+relat growth,relative growth,951,NA,1,NA
+acclim,acclimation,950,NA,1,NA
+human popul,human population,950,0,NA,NA
+particul matter,particulate matter,950,NA,NA,1
+climat model,climate models,949,NA,NA,1
+rna 16s,rna 16s,947,0,NA,NA
+photosynthet capac,photosynthetic capacity,944,NA,1,NA
+previous report,previously reported,943,0,NA,NA
+speci distribut model,species distribution models,943,0,NA,NA
+biotic factor,biotic factors,940,0,NA,NA
+greenhous experi,greenhouse experiment,940,NA,NA,1
+plant stem,plant stem,939,NA,1,NA
+popul abund,population abundance,939,0,NA,NA
+rhizospher,rhizosphere,939,NA,1,NA
+cross-sect studi,cross-sectional study,938,0,NA,NA
+fresh weight,fresh weight,938,NA,1,NA
+yield,yield,938,NA,1,NA
+reproduct strategi,reproductive strategy,937,NA,1,NA
+urban ecosystem,urban ecosystem,937,NA,NA,1
+ecolog nich,ecological niche,936,0,NA,NA
+ecotoxicolog,ecotoxicology,936,0,NA,NA
+restor,restoration,935,0,NA,NA
+southern europ,southern europe,935,0,NA,NA
+biogeochem cycl,biogeochemical cycles,934,NA,NA,1
+intern associ,international association,934,0,NA,NA
+langmuir isotherm,langmuir isotherm,934,0,NA,NA
+soil water,soil water,934,NA,NA,1
+electron microscop,electron microscope,933,0,NA,NA
+lizard,lizard,933,0,NA,NA
+evergreen tree,evergreen tree,932,0,NA,NA
+advers affect,adversely affected,931,0,NA,NA
+access articl distribut,access article distributed,930,0,NA,NA
+catalyst,catalyst,930,0,NA,NA
+statist model,statistical model,930,0,NA,NA
+potenti applic,potential applications,928,0,NA,NA
+coexist,coexistence,926,0,NA,NA
+"quantit trait, herit","quantitative trait, heritable",926,NA,1,NA
+"spectroscopy, fourier transform infrar","spectroscopy, fourier transform infrared",926,0,NA,NA
+veget growth,vegetative growth,926,NA,1,NA
+decreas signific,decreased significantly,925,0,NA,NA
+genet paramet,genetic parameters,925,0,NA,NA
+perenni plant,perennial plant,925,0,NA,NA
+garden experi,garden experiment,924,0,NA,NA
+greenhous effect,greenhouse effect,924,NA,NA,1
+heterogen,heterogeneity,924,0,NA,NA
+trait,traits,923,NA,1,NA
+carbon nanotub,carbon nanotubes,922,0,NA,NA
+conserv status,conservation status,922,0,NA,NA
+electr conduct,electrical conductivity,922,0,NA,NA
+flood,flooding,922,NA,NA,1
+herbicid,herbicide,922,NA,NA,1
+linear regress,linear regression,922,0,NA,NA
+find highlight,findings highlight,921,0,NA,NA
+wast dispos,waste disposal,919,NA,NA,1
+antioxid activ,antioxidant activity,918,NA,1,NA
+graze,grazing,918,NA,NA,1
+import implic,important implications,918,0,NA,NA
+chemic reaction,chemical reaction,917,0,NA,NA
+central europ,central europe,916,0,NA,NA
+gas exchang,gas exchange,916,0,NA,NA
+speci respons,species responses,916,0,NA,NA
+complex format,complex formation,915,0,NA,NA
+questionnair,questionnaire,915,0,NA,NA
+apoptosi,apoptosis,914,0,NA,NA
+climat factor,climatic factors,913,NA,NA,1
+polyethylen glycol,polyethylene glycol,913,0,NA,NA
+strong affect,strongly affected,913,0,NA,NA
+veget structur,vegetation structure,913,0,NA,NA
+antibiot resist,antibiotic resistance,912,NA,1,NA
+fluoresc,fluorescence,912,0,NA,NA
+water relat,water relations,912,NA,NA,1
+secondari metabolit,secondary metabolites,911,NA,1,NA
+plant stress,plant stress,910,NA,1,NA
+polystyren,polystyrene,910,0,NA,NA
+arabidopsi thaliana,arabidopsis thaliana,909,0,NA,NA
+attribut licens,attribution license,908,0,NA,NA
+catalysi,catalysis,908,0,NA,NA
+common attribut licens,commons attribution license,908,0,NA,NA
+creativ common attribut licens,creative commons attribution license,908,0,NA,NA
+immobil,immobilization,908,0,NA,NA
+nitrogen applic,nitrogen application,908,NA,NA,1
+rural area,rural areas,908,NA,NA,1
+conserv plan,conservation planning,907,0,NA,NA
+natur enemi,natural enemies,907,0,NA,NA
+plant popul,plant populations,907,0,NA,NA
+bentho,benthos,905,0,NA,NA
+function chang,functional change,905,NA,1,NA
+gene sequenc,gene sequence,901,NA,1,NA
+cellulos,cellulose,900,NA,1,NA
+conifer forest,coniferous forest,900,0,NA,NA
+rain,rain,900,NA,NA,1
+total nitrogen,total nitrogen,900,NA,NA,1
+ozon,ozone,899,NA,NA,1
+statist analysi,statistical analysis,899,0,NA,NA
+yield respons,yield response,899,NA,1,NA
+molecular breed,molecular breeding,898,0,NA,NA
+transpir,transpiration,897,0,NA,NA
+analys reveal,analyses revealed,895,0,NA,NA
+develop countri,developing countries,895,0,NA,NA
+gene express profil,gene expression profiling,895,NA,1,NA
+nutrient uptak,nutrient uptake,895,NA,1,NA
+irrig,irrigation,893,NA,NA,1
+static electr,static electricity,893,0,NA,NA
+oxid reduct reaction,oxidation reduction reaction,891,0,NA,NA
+plant genet,plant genetics,891,0,NA,NA
+result support,results support,891,0,NA,NA
+distribut rang,distribution range,890,NA,1,NA
+graphen,graphene,890,NA,NA,1
+growth perform,growth performance,890,NA,1,NA
+durum wheat,durum wheat,889,0,NA,NA
+general linear,generalized linear,889,0,NA,NA
+stress environ,stress environments,889,NA,NA,1
+pisc,pisces,888,0,NA,NA
+rang shift,range shifts,888,NA,1,NA
+toler genotyp,tolerant genotypes,887,NA,1,NA
+shoot ratio,shoot ratio,886,NA,1,NA
+water sampl,water samples,886,NA,NA,1
+weed,weed,886,NA,NA,1
+aromat hydrocarbon,aromatic hydrocarbons,885,NA,NA,1
+histolog,histology,885,NA,1,NA
+hydraul trait,hydraulic traits,885,NA,1,NA
+immun respons,immune response,884,NA,1,NA
+california,california,883,0,NA,NA
+resist trait,resistance traits,882,NA,1,NA
+import role,important roles,881,0,NA,NA
+plastic respons,plastic responses,881,NA,1,NA
+complet random,completely randomized,880,0,NA,NA
+signific relationship,significant relationship,880,0,NA,NA
+domin,dominance,879,NA,1,NA
+veget dynam,vegetation dynamics,879,0,NA,NA
+precipit (climatology),precipitation (climatology),878,NA,NA,1
+extrem event,extreme event,877,NA,NA,1
+mix model,mixed models,877,0,NA,NA
+electrostat interact,electrostatic interaction,876,0,NA,NA
+correl,correlation,875,0,NA,NA
+latitudin gradient,latitudinal gradient,875,0,NA,NA
+agricultur research,agricultural research,874,0,NA,NA
+function rich,functional richness,873,NA,1,NA
+in vitro studi,in vitro study,873,0,NA,NA
+polymer,polymerization,872,0,NA,NA
+taxonom divers,taxonomic diversity,872,0,NA,NA
+arbuscular mycorrhiz,arbuscular mycorrhizal,871,0,NA,NA
+plant grown,plants grown,871,0,NA,NA
+anatom trait,anatomical traits,870,NA,1,NA
+langmuir model,langmuir model,870,0,NA,NA
+cell invas,cell invasion,869,0,NA,NA
+landscap,landscape,869,0,NA,NA
+lipid,lipid,869,NA,1,NA
+veget scienc,vegetation science,869,0,NA,NA
+ecosystem resili,ecosystem resilience,868,0,NA,NA
+mathemat model,mathematical model,868,0,NA,NA
+atmospher pollut,atmospheric pollution,867,NA,NA,1
+perform assess,performance assessment,867,0,NA,NA
+agricultur wast,agricultural wastes,866,NA,NA,1
+haplotyp,haplotype,866,0,NA,NA
+communiti level,community level,865,0,NA,NA
+plant product,plant productivity,865,NA,1,NA
+gene flow,gene flow,864,NA,1,NA
+real time polymeras chain reaction,real time polymerase chain reaction,864,0,NA,NA
+distribut model,distribution models,863,0,NA,NA
+chain transfer,chain transfer,862,0,NA,NA
+thermogravimetr analysi,thermogravimetric analysis,859,0,NA,NA
+water bodi,water bodies,858,0,NA,NA
+behavior respons,behavioral response,857,NA,1,NA
+freshwat environ,freshwater environment,857,0,NA,NA
+harvest,harvesting,857,NA,NA,1
+result confirm,results confirm,856,0,NA,NA
+"plants, genet modifi","plants, genetically modified",855,0,NA,NA
+thermal stabil,thermal stability,855,NA,1,NA
+water uptak,water uptake,855,NA,1,NA
+well-wat condit,well-watered conditions,855,NA,NA,1
+climat gradient,climatic gradient,854,NA,NA,1
+yield trait,yield traits,853,NA,1,NA
+map popul,mapping population,852,0,NA,NA
+diverg,divergence,851,0,NA,NA
+hot temperatur,hot temperature,851,NA,NA,1
+physiolog model,physiological models,851,0,NA,NA
+soil nutrient,soil nutrient,851,NA,NA,1
+find provid,findings provide,849,0,NA,NA
+signific reduct,significant reduction,849,0,NA,NA
+interspecif competit,interspecific competition,848,0,NA,NA
+mous,mouse,848,0,NA,NA
+agricultur landscap,agricultural landscapes,847,NA,NA,1
+signal pathway,signaling pathways,847,0,NA,NA
+calcium,calcium,846,0,NA,NA
+climat variat,climate variation,845,NA,NA,1
+nutrient content,nutrient content,845,NA,1,?
+preval,prevalence,845,0,NA,NA
+dna,dna,844,NA,?,NA
+molecular biolog,molecular biology,844,0,NA,NA
+dispers abil,dispersal ability,843,NA,1,NA
+ecosystem model,ecosystem modeling,843,0,NA,NA
+nickel,nickel,843,NA,NA,1
+diet,diet,842,NA,1,NA
+heat stress,heat stress,842,NA,NA,1
+arabidopsi,arabidopsis,841,0,NA,NA
+dehydr,dehydration,841,NA,1,NA
+relat contribut,relative contribution,841,0,NA,NA
+microbi biomass,microbial biomass,840,0,NA,NA
+argentina,argentina,839,0,NA,NA
+sustain,sustainability,839,0,NA,NA
+asia,asia,838,0,NA,NA
+biofuel,biofuel,838,NA,NA,1
+meta-analysi,meta-analysis,838,0,NA,NA
+nutrient concentr,nutrient concentrations,835,NA,1,?
+permit unrestrict,permits unrestricted,835,0,NA,NA
+volatil organ compound,volatile organic compounds,835,NA,1,NA
+plant perform,plant performance,833,NA,1,NA
+methodolog,methodology,830,0,NA,NA
+mycorrhiz fungi,mycorrhizal fungi,830,0,NA,NA
+detect method,detection method,829,0,NA,NA
+perenni grass,perennial grasses,829,0,NA,NA
+speci level,species level,829,0,NA,NA
+understori,understory,829,0,NA,NA
+individu speci,individual species,828,0,NA,NA
+larg unknown,largely unknown,828,0,NA,NA
+zeta potenti,zeta potential,826,0,NA,NA
+nitrogen cycl,nitrogen cycle,825,NA,NA,1
+photosynthet rate,photosynthetic rates,825,NA,1,NA
+breed strategi,breeding strategies,824,NA,1,NA
+scan electron microscop,scanning electron microscope,824,0,NA,NA
+simpl sequenc repeat,simple sequence repeat,824,0,NA,NA
+agricultur practic,agricultural practices,823,NA,NA,1
+endem speci,endemic species,823,0,NA,NA
+energi dispers x ray spectroscopi,energy dispersive x ray spectroscopy,823,0,NA,NA
+wheat varieti,wheat varieties,823,0,NA,NA
+drink water,drinking water,822,0,NA,NA
+irrig condit,irrigated conditions,822,NA,NA,1
+reproduct stage,reproductive stage,822,NA,1,NA
+wildfir,wildfire,822,NA,NA,1
+divers index,diversity index,821,0,NA,NA
+detriment effect,detrimental effects,820,0,NA,NA
+geograph variat,geographical variation,820,NA,1,NA
+microrna,microrna,820,0,NA,NA
+fecund,fecundity,819,NA,1,NA
+gene frequenc,gene frequency,818,NA,1,NA
+improv drought toler,improve drought tolerance,818,NA,1,NA
+natur environ,natural environment,818,0,NA,NA
+metabolit,metabolite,816,NA,1,NA
+soybean,soybean,816,0,NA,NA
+divers,diversity,815,0,NA,NA
+liquid chromatographi,liquid chromatography,815,0,NA,NA
+toxic test,toxicity testing,815,0,NA,NA
+proteom,proteomics,814,0,NA,NA
+habitat structur,habitat structure,813,0,NA,NA
+biotic interact,biotic interactions,812,0,NA,NA
+potenti impact,potential impacts,812,0,NA,NA
+unit kingdom,united kingdom,812,0,NA,NA
+exot plant,exotic plants,811,NA,NA,1
+germani,germany,811,0,NA,NA
+river pollut,river pollution,811,NA,NA,1
+exhibit signific,exhibited significant,809,0,NA,NA
+savanna,savanna,809,0,NA,NA
+trait locus,trait locus,809,NA,1,NA
+clone,cloning,808,0,NA,NA
+genet architectur,genetic architecture,808,NA,1,NA
+human disturb,human disturbance,808,NA,NA,1
+region scale,regional scale,807,0,NA,NA
+chang impact,change impacts,805,0,NA,NA
+nitrogen concentr,nitrogen concentration,805,NA,NA,1
+tropic region,tropical regions,804,0,NA,NA
+ambient temperatur,ambient temperature,803,NA,NA,1
+speci occurr,species occurrence,802,0,NA,NA
+remain poor understood,remain poorly understood,799,0,NA,NA
+evolutionari respons,evolutionary responses,798,0,NA,NA
+qualiti control,quality control,798,0,NA,NA
+control group,control group,797,0,NA,NA
+function type,functional types,797,NA,1,NA
+increas drought,increased drought,797,NA,NA,1
+origin author,original author,797,0,NA,NA
+plant densiti,plant density,797,0,NA,NA
+anthropogen impact,anthropogenic impacts,796,NA,NA,1
+ocean acidif,ocean acidification,796,NA,NA,1
+photosynthet pigment,photosynthetic pigments,796,NA,1,NA
+specif trait,specific traits,795,NA,1,NA
+quantit genet,quantitative genetic,794,0,NA,NA
+winter wheat,winter wheat,794,0,NA,NA
+taxonom group,taxonomic groups,792,0,NA,NA
+semi-arid region,semi-arid regions,791,0,NA,NA
+high variabl,highly variable,790,0,NA,NA
+life cycl,life cycle,790,NA,1,NA
+anthropogen activ,anthropogenic activities,789,NA,NA,1
+function,functionalized,789,0,NA,NA
+respond differ,respond differently,789,0,NA,NA
+select breed,selective breeding,789,0,NA,NA
+wild popul,wild population,789,0,NA,NA
+competit (ecology),competition (ecology),788,0,NA,NA
+subtrop region,subtropical region,788,0,NA,NA
+transmiss electron,transmission electron,788,0,NA,NA
+crop improv,crop improvement,786,NA,1,NA
+landscap scale,landscape scale,786,0,NA,NA
+plastic wast,plastic waste,786,NA,NA,1
+lipid peroxid,lipid peroxidation,785,NA,1,NA
+dna extract,dna extraction,784,0,NA,NA
+ftir spectroscopi,ftir spectroscopy,784,0,NA,NA
+growth form,growth forms,784,NA,1,NA
+mechan properti,mechanical properties,784,0,NA,NA
+cytolog,cytology,783,0,NA,NA
+shoot,shoot,781,0,NA,NA
+soil fertil,soil fertility,781,NA,NA,1
+communiti ecolog,community ecology,780,0,NA,NA
+landscap ecolog,landscape ecology,780,0,NA,NA
+environment paramet,environmental parameters,779,0,NA,NA
+larg scale,large scale,779,0,NA,NA
+simul,simulation,779,0,NA,NA
+young adult,young adult,779,0,NA,NA
+plant function type,plant functional types,778,NA,1,NA
+potassium,potassium,778,NA,1,NA
+arthropod,arthropod,777,0,NA,NA
+bodi mass,body mass,777,NA,1,NA
+crustacean,crustacean,777,0,NA,NA
+ionic strength,ionic strength,777,NA,1,NA
+perform,performance,777,NA,1,NA
+manganes,manganese,776,0,NA,NA
+signific enhanc,significantly enhanced,776,0,NA,NA
+biomass accumul,biomass accumulation,775,NA,1,NA
+butterfli,butterfly,775,0,NA,NA
+oxidation-reduct,oxidation-reduction,775,0,NA,NA
+shoot length,shoot length,775,NA,1,NA
+trait show,traits showed,775,NA,1,NA
+habitat qualiti,habitat quality,774,0,NA,NA
+total number,total number,774,0,NA,NA
+cost effect,cost effectiveness,772,0,NA,NA
+quercus,quercus,772,0,NA,NA
+climat chang impact,climate change impacts,771,NA,NA,1
+leach,leaching,771,NA,NA,1
+nuclear magnet reson,nuclear magnetic resonance,771,0,NA,NA
+speci exhibit,species exhibited,771,0,NA,NA
+down regul,down regulation,770,0,NA,NA
+rna,rna,770,0,NA,NA
+select,selection,769,0,NA,NA
+biosynthesi,biosynthesis,768,0,NA,NA
+intern publish switzerland,international publishing switzerland,768,0,NA,NA
+publish switzerland,publishing switzerland,768,0,NA,NA
+springer intern publish switzerland,springer international publishing switzerland,768,0,NA,NA
+alpin environ,alpine environment,767,0,NA,NA
+increas water,increased water,767,NA,NA,1
+oxygen function,oxygen functional,767,NA,1,NA
+wheat breed,wheat breeding,767,0,NA,NA
+herbivor,herbivore,766,0,NA,NA
+phylogenet divers,phylogenetic diversity,766,0,NA,NA
+remain larg,remains largely,766,0,NA,NA
+sampl,sampling,766,0,NA,NA
+time higher,times higher,766,0,NA,NA
+urban popul,urban population,766,NA,NA,1
+wheat product,wheat production,766,NA,1,NA
+sulfur compound,sulfur compounds,765,0,NA,NA
+temperatur toler,temperature tolerance,765,NA,1,NA
+experiment biolog,experimental biology,763,0,NA,NA
+major threat,major threat,763,0,NA,NA
+osmot stress,osmotic stress,763,NA,1,NA
+physiolog paramet,physiological parameters,763,NA,1,NA
+express profil,expression profiles,762,0,NA,NA
+mutat,mutation,761,NA,1,NA
+import compon,important component,760,0,NA,NA
+populus,populus,760,0,NA,NA
+pigment,pigment,759,0,NA,NA
+biosorpt,biosorption,758,NA,1,NA
+mediterranean sea,mediterranean sea,758,0,NA,NA
+phenol compound,phenolic compounds,758,NA,1,NA
+signific associ,significant association,758,0,NA,NA
+sodium chlorid,sodium chloride,758,NA,1,NA
+industri wast,industrial waste,757,NA,NA,1
+osmot potenti,osmotic potential,757,0,NA,NA
+seawat,seawater,757,0,NA,NA
+improv plant,improve plant,756,0,NA,NA
+increas plant,increased plant,756,0,NA,NA
+vertebrata,vertebrata,756,0,NA,NA
+bind site,binding sites,755,0,NA,NA
+growth paramet,growth parameters,755,NA,1,NA
+physiolog mechan,physiological mechanisms,755,0,NA,NA
+water condit,water conditions,755,NA,NA,1
+parasit,parasite,754,0,NA,NA
+control treatment,control treatment,753,0,NA,NA
+contact angl,contact angle,751,0,NA,NA
+metal contamin,metal contamination,751,NA,NA,1
+moistur,moisture,751,NA,NA,1
+anim cell,animal cell,750,NA,1,NA
+livestock farm,livestock farming,750,NA,NA,1
+seed dispers,seed dispersal,750,NA,1,NA
+studi speci,studied species,750,0,NA,NA
+environment manag,environmental management,749,0,NA,NA
+genet varianc,genetic variance,749,NA,1,NA
+invas alien,invasive alien,749,NA,NA,1
+microsatellit marker,microsatellite markers,749,0,NA,NA
+consecut year,consecutive years,748,0,NA,NA
+geographi,geography,748,0,NA,NA
+moth,moth,748,0,NA,NA
+signific greater,significantly greater,748,0,NA,NA
+fragment,fragmentation,747,NA,NA,1
+evolutionari process,evolutionary processes,746,0,NA,NA
+molecular structur,molecular structure,745,0,NA,NA
+popul level,population level,745,0,NA,NA
+studi evalu,study evaluated,745,0,NA,NA
+marin pollut,marine pollution,744,NA,NA,1
+studi site,study sites,744,0,NA,NA
+organ contamin,organic contaminants,743,NA,NA,1
+predict model,predictive models,743,0,NA,NA
+water limit,water limitation,743,NA,NA,1
+forest fire,forest fire,742,NA,NA,1
+yield stabil,yield stability,742,NA,1,NA
+antibiot,antibiotics,741,NA,NA,1
+aquat plant,aquatic plant,741,0,NA,NA
+nich,niche,741,0,NA,NA
+scienc societi,science society,741,0,NA,NA
+machin learn,machine learning,739,0,NA,NA
+bos,bos,738,0,NA,NA
+membran,membrane,738,0,NA,NA
+shade toler,shade tolerance,737,NA,1,NA
+seedl establish,seedling establishment,736,NA,1,NA
+exhibit higher,exhibited higher,735,0,NA,NA
+food chain,food chain,735,0,NA,NA
+interspecif hybrid,interspecific hybridization,735,0,NA,NA
+potenti effect,potential effects,735,0,NA,NA
+biomonitor,biomonitoring,734,0,NA,NA
+electrostat attract,electrostatic attraction,734,0,NA,NA
+sequenc repeat,sequence repeat,734,0,NA,NA
+element composit,elemental composition,733,NA,1,NA
+interspecif variat,interspecific variation,733,0,NA,NA
+phytohormon,phytohormone,732,NA,1,NA
+water level,water levels,731,NA,NA,1
+control plant,control plants,730,0,NA,NA
+stabil,stability,730,0,NA,NA
+data set,data set,729,0,NA,NA
+signific chang,significant change,729,0,NA,NA
+macrophyt,macrophyte,728,0,NA,NA
+secondari forest,secondary forest,728,0,NA,NA
+coniferophyta,coniferophyta,727,0,NA,NA
+plant tissu,plant tissue,726,NA,1,NA
+theoret model,theoretical model,726,0,NA,NA
+current knowledg,current knowledge,725,0,NA,NA
+extrem drought,extreme drought,725,NA,NA,1
+trait respons,trait responses,725,NA,1,NA
+amphibian,amphibian,724,0,NA,NA
+invas popul,invasive populations,724,NA,NA,1
+oxygen function group,oxygen functional groups,724,NA,1,NA
+salin stress,salinity stress,724,NA,NA,1
+chemic interact,chemical interaction,722,0,NA,NA
+extract,extraction,722,0,NA,NA
+human tissu,human tissue,722,NA,1,NA
+local scale,local scale,722,0,NA,NA
+polyethylen,polyethylene,722,0,NA,NA
+rna sequenc,rna sequence,722,0,NA,NA
+sludg,sludge,722,0,NA,NA
+stomat densiti,stomatal density,722,NA,1,NA
+analyt method,analytic method,721,0,NA,NA
+bodi weight,body weight,721,NA,1,NA
+escherichia coli,escherichia coli,721,0,NA,NA
+express pattern,expression patterns,721,0,NA,NA
+function guild,functional guilds,720,NA,1,NA
+behavior trait,behavioral traits,719,NA,1,NA
+negat relationship,negative relationship,719,0,NA,NA
+recent develop,recent developments,719,0,NA,NA
+biotechnolog,biotechnology,718,0,NA,NA
+extracellular polymer substanc,extracellular polymeric substances,718,0,NA,NA
+human impact,human impacts,718,NA,NA,1
+trait measur,traits measured,717,NA,1,NA
+environment risk,environmental risk,716,NA,NA,1
+parasitolog,parasitology,716,0,NA,NA
+polysaccharid,polysaccharide,716,0,NA,NA
+convent breed,conventional breeding,715,0,NA,NA
+fabacea,fabaceae,715,0,NA,NA
+grain qualiti,grain quality,715,NA,1,NA
+light avail,light availability,715,NA,NA,1
+natur resourc,natural resources,715,0,NA,NA
+summer drought,summer drought,715,NA,NA,1
+aquat speci,aquatic species,714,0,NA,NA
+laboratori experi,laboratory experiments,714,0,NA,NA
+soil microflora,soil microflora,714,0,NA,NA
+chemic compound,chemical compound,713,NA,?,?
+pseudo-second-ord kinet,pseudo-second-order kinetic,713,0,NA,NA
+complex,complexation,711,0,NA,NA
+measur trait,measured traits,711,NA,1,NA
+osmot adjust,osmotic adjustment,711,0,NA,NA
+resourc alloc,resource allocation,711,0,NA,NA
+temper environ,temperate environment,711,0,NA,NA
+biolog marker,biological marker,710,0,NA,NA
+symbiosi,symbiosis,710,0,NA,NA
+element analysi,elemental analysis,708,0,NA,NA
+found signific,found significant,708,0,NA,NA
+insecticid,insecticide,708,NA,NA,1
+rainfal,rainfall,708,NA,NA,1
+recent decad,recent decades,708,0,NA,NA
+temperatur stress,temperature stress,708,NA,NA,1
+behaviour trait,behavioural traits,707,NA,1,NA
+global scale,global scale,707,0,NA,NA
+negat relat,negatively related,707,0,NA,NA
+stress treatment,stress treatments,707,0,NA,NA
+trophic interact,trophic interactions,707,0,NA,NA
+virul factor,virulence factors,707,NA,?,NA
+biolog process,biological processes,706,0,NA,NA
+"selection, genet","selection, genetic",706,0,NA,NA
+drought adapt,drought adaptation,705,NA,1,NA
+scienc publish,science publishers,705,0,NA,NA
+treatment plant,treatment plants,704,0,NA,NA
+fisheri,fisheries,703,0,NA,NA
+genotyp variat,genotypic variation,703,NA,1,NA
+grass speci,grass species,703,0,NA,NA
+activ site,active sites,702,0,NA,NA
+genet linkag,genetic linkage,701,0,NA,NA
+plantat forestri,plantation forestry,700,0,NA,NA
+soil acid,soil acidity,700,NA,NA,1
+soil amend,soil amendment,700,NA,NA,1
+specif leaf area,specific leaf area,699,NA,1,NA
+studi provid,study provided,699,0,NA,NA
+linkag group,linkage groups,698,0,NA,NA
+speci assemblag,species assemblages,698,0,NA,NA
+surfac morpholog,surface morphology,698,0,NA,NA
+longev,longevity,697,NA,1,NA
+nativ popul,native populations,696,0,NA,NA
+environment driver,environmental drivers,695,NA,NA,1
+logist regress,logistic regression,695,0,NA,NA
+redund analysi,redundancy analysis,695,0,NA,NA
+hydrophil,hydrophilicity,694,NA,1,NA
+elsevi masson,elsevier masson,693,0,NA,NA
+environment problem,environmental problems,693,NA,NA,1
+genom select,genomic selection,693,0,NA,NA
+eucalyptus,eucalyptus,692,0,NA,NA
+polymer substanc,polymeric substances,692,0,NA,NA
+recombin inbr line,recombinant inbred lines,692,0,NA,NA
+alkalin,alkalinity,691,0,NA,NA
+drought event,drought events,691,NA,NA,1
+evolutionari adapt,evolutionary adaptation,691,0,NA,NA
+higher valu,higher values,691,0,NA,NA
+mercuri,mercury,691,0,NA,NA
+heat toler,heat tolerance,690,NA,1,NA
+resourc acquisit,resource acquisition,690,NA,1,NA
+breed popul,breeding population,689,NA,1,NA
+extrem climat,extreme climatic,689,NA,NA,1
+macroinvertebr communiti,macroinvertebrate communities,688,0,NA,NA
+magnet reson,magnetic resonance,688,0,NA,NA
+biolog materi,biological materials,687,0,NA,NA
+diatom,diatom,687,0,NA,NA
+mediterranean climat,mediterranean climate,687,0,NA,NA
+africa,africa,686,0,NA,NA
+increas yield,increased yield,686,NA,1,NA
+toxic effect,toxic effects,686,NA,NA,1
+conserv biolog,conservation biology,685,0,NA,NA
+earli growth,early growth,684,NA,1,NA
+linear mix,linear mixed,684,0,NA,NA
+rapid evolut,rapid evolution,684,0,NA,NA
+soil analysi,soil analysis,684,0,NA,NA
+forag,forage,683,0,NA,NA
+bio char,bio chars,682,0,NA,NA
+major challeng,major challenge,682,0,NA,NA
+absorpt,absorption,681,NA,1,NA
+vari signific,varied significantly,681,0,NA,NA
+invas plant speci,invasive plant species,680,NA,NA,1
+pyrolysi temperatur,pyrolysis temperature,680,NA,NA,1
+amphibia,amphibia,679,0,NA,NA
+new zealand,new zealand,679,0,NA,NA
+porous structur,porous structure,679,0,NA,NA
+genet differ,genetic differences,678,NA,1,NA
+introduc rang,introduced range,677,0,NA,NA
+person,personality,677,NA,1,NA
+solut,solutions,677,0,NA,NA
+carbon content,carbon content,676,NA,1,NA
+experi show,experiments showed,675,0,NA,NA
+revers addition-fragment,reversible addition-fragmentation,675,0,NA,NA
+model system,model system,674,0,NA,NA
+reproduct output,reproductive output,674,NA,1,NA
+invas process,invasion process,673,NA,NA,1
+termin drought,terminal drought,673,NA,NA,1
+water conserv,water conservation,673,0,NA,NA
+estuari,estuary,672,NA,NA,NA
+zooplankton,zooplankton,672,0,NA,NA
+agricultur soil,agricultural soils,671,NA,NA,1
+amid,amides,671,NA,1,NA
+chemic activ,chemical activation,671,NA,1,NA
+high perform liquid chromatographi,high performance liquid chromatography,671,0,NA,NA
+initi concentr,initial concentration,670,0,NA,NA
+natur ecosystem,natural ecosystems,670,0,NA,NA
+total phenol,total phenolic,670,NA,1,NA
+assess method,assessment method,669,0,NA,NA
+crystal structur,crystal structure,669,0,NA,NA
+stream,stream,669,0,NA,NA
+chang environment,changing environmental,668,NA,NA,1
+hypothesi test,hypothesis testing,668,0,NA,NA
+anim behavior,animal behavior,667,NA,1,NA
+forest speci,forest species,667,0,NA,NA
+bioavail,bioavailability,665,0,NA,NA
+provid valuabl,provide valuable,665,0,NA,NA
+select criteria,selection criteria,665,0,NA,NA
+chromosom,chromosome,664,NA,1,NA
+litter decomposit,litter decomposition,664,NA,1,NA
+coastal zone,coastal zone,663,0,NA,NA
+futur prospect,future prospect,663,0,NA,NA
+pore size,pore size,663,0,NA,NA
+dissolv oxygen,dissolved oxygen,662,NA,1,?
+structur analysi,structure analysis,662,0,NA,NA
+tumor invas,tumor invasion,662,0,NA,NA
+child,child,661,0,NA,NA
+hydrogen,hydrogen,661,0,NA,NA
+irrig regim,irrigation regimes,661,NA,NA,1
+metabol pathway,metabolic pathways,661,NA,1,NA
+recoveri,recovery,661,0,NA,NA
+"genome, plant","genome, plant",660,0,NA,NA
+plant growth-promot,plant growth-promoting,660,0,NA,NA
+sampl collect,samples collected,660,0,NA,NA
+trait differ,trait differences,660,NA,1,NA
+high throughput sequenc,high throughput sequencing,659,0,NA,NA
+hydrocarbon,hydrocarbons,659,NA,NA,1
+compar analysi,comparative analysis,658,0,NA,NA
+decis make,decision making,658,0,NA,NA
+environment stressor,environmental stressors,658,NA,NA,1
+prolin,proline,658,0,NA,NA
+resist gene,resistance genes,658,NA,1,NA
+synthesi (chemical),synthesis (chemical),658,0,NA,NA
+altitud,altitude,656,0,NA,NA
+function redund,functional redundancy,656,NA,1,NA
+annual temperatur,annual temperature,655,NA,NA,1
+carotenoid,carotenoid,655,0,NA,NA
+gene relat,genes related,655,0,NA,NA
+improv yield,improve yield,655,NA,1,NA
+iron compound,iron compounds,655,NA,NA,1
+biochem composit,biochemical composition,654,NA,1,NA
+divers indic,diversity indices,654,0,NA,NA
+herit estim,heritability estimates,654,0,NA,NA
+light,light,654,NA,NA,1
+drought stress toler,drought stress tolerance,653,NA,1,NA
+express gene,expressed genes,653,NA,1,NA
+geograph region,geographic regions,653,0,NA,NA
+acid,acidity,652,NA,NA,1
+life-histori strategi,life-history strategies,652,NA,1,NA
+magnoliophyta,magnoliophyta,652,0,NA,NA
+iron oxid,iron oxides,651,0,NA,NA
+speci rang,species range,651,0,NA,NA
+water shortag,water shortage,651,NA,NA,1
+chemic pollut,chemical pollutant,650,NA,NA,1
+climat scenario,climate scenarios,650,NA,NA,1
+vapor pressur,vapor pressure,650,0,NA,NA
+elsevi scienc,elsevier science,649,0,NA,NA
+extinct,extinction,649,0,NA,NA
+ultraviolet radiat,ultraviolet radiation,649,NA,NA,1
+water transport,water transport,649,NA,1,NA
+local extinct,local extinction,648,0,NA,NA
+plant speci rich,plant species richness,648,0,NA,NA
+microbiota,microbiota,647,0,NA,NA
+gossypium hirsutum,gossypium hirsutum,646,0,NA,NA
+multipl stressor,multiple stressors,646,NA,NA,1
+biolog,biology,645,0,NA,NA
+chlorophyl a,chlorophyll a,645,NA,1,NA
+"genetics, popul","genetics, population",645,0,NA,NA
+leaf trait,leaf traits,645,NA,1,NA
+rainforest,rainforest,645,0,NA,NA
+veget index,vegetation index,645,0,NA,NA
+spatial analysi,spatial analysis,644,0,NA,NA
+success invas,successful invasion,644,0,NA,NA
+coastal water,coastal waters,643,0,NA,NA
+genet distanc,genetic distance,643,NA,1,NA
+moistur stress,moisture stress,643,NA,NA,1
+signific interact,significant interaction,643,0,NA,NA
+broad rang,broad range,642,NA,1,NA
+invas potenti,invasive potential,642,NA,1,NA
+polypropylen,polypropylenes,642,0,NA,NA
+temperatur sensit,temperature sensitivity,642,NA,1,NA
+mechan involv,mechanisms involved,640,0,NA,NA
+metal nanoparticl,metal nanoparticles,640,NA,NA,1
+phenol deriv,phenol derivative,640,NA,NA,1
+research institut,research institute,640,0,NA,NA
+algorithm,algorithm,639,0,NA,NA
+plant-herbivor interact,plant-herbivore interaction,639,0,NA,NA
+pressur deficit,pressure deficit,639,0,NA,NA
+quantum yield,quantum yield,639,0,NA,NA
+associ map,association mapping,638,0,NA,NA
+solid wast,solid waste,638,NA,NA,1
+tracheophyta,tracheophyta,638,0,NA,NA
+microflora,microflora,637,0,NA,NA
+wastewat treatment plant,wastewater treatment plants,637,0,NA,NA
+catalas,catalase,636,0,NA,NA
+deficit condit,deficit conditions,636,NA,NA,1
+increas number,increasing number,635,0,NA,NA
+persist,persistence,635,NA,1,NA
+physiolog characterist,physiological characteristics,635,NA,1,NA
+plant materi,plant material,634,0,NA,NA
+addition-fragment chain,addition-fragmentation chain,633,0,NA,NA
+arbuscular mycorrhiz fungi,arbuscular mycorrhizal fungi,633,0,NA,NA
+"cell line, tumor","cell line, tumor",632,0,NA,NA
+nutrit qualiti,nutritional quality,632,NA,1,NA
+phylogenet analysi,phylogenetic analysis,632,0,NA,NA
+phytoplankton communiti,phytoplankton community,632,0,NA,NA
+genet effect,genetic effects,631,0,NA,NA
+japan,japan,631,0,NA,NA
+mediterranean basin,mediterranean basin,631,0,NA,NA
+surfac charg,surface charge,631,0,NA,NA
+theoret basi,theoretical basis,631,0,NA,NA
+antineoplast agent,antineoplastic agent,629,0,NA,NA
+biom central,biomed central,629,0,NA,NA
+individu plant,individual plants,629,0,NA,NA
+resili,resilience,628,NA,1,NA
+addition-fragment chain transfer,addition-fragmentation chain transfer,627,0,NA,NA
+adsorpt behavior,adsorption behavior,627,NA,1,NA
+differenti respons,differential responses,626,0,NA,NA
+fragment landscap,fragmented landscapes,626,NA,NA,1
+higher proport,higher proportion,626,0,NA,NA
+random forest,random forest,626,0,NA,NA
+carbon storag,carbon storage,625,NA,1,NA
+multipl trait,multiple traits,625,NA,1,NA
+natur forest,natural forest,625,0,NA,NA
+yield loss,yield losses,625,NA,1,NA
+adsorpt experi,adsorption experiments,624,0,NA,NA
+atlant forest,atlantic forest,624,0,NA,NA
+simpl sequenc,simple sequence,624,0,NA,NA
+network analysi,network analysis,623,0,NA,NA
+higher concentr,higher concentrations,622,0,NA,NA
+pine,pine,622,0,NA,NA
+speci respond,species respond,621,0,NA,NA
+abiot condit,abiotic conditions,620,NA,NA,1
+high effici,highly efficient,619,0,NA,NA
+morpho-physiolog trait,morpho-physiological traits,619,NA,1,NA
+langmuir isotherm model,langmuir isotherm model,618,0,NA,NA
+sea water,sea water,618,0,NA,NA
+urban landscap,urban landscapes,618,NA,NA,1
+canopi,canopy,617,0,NA,NA
+ground water,ground water,617,0,NA,NA
+host-parasit interact,host-parasite interactions,617,0,NA,NA
+water scarciti,water scarcity,617,NA,NA,1
+disturb regim,disturbance regimes,616,NA,NA,1
+interspecif interact,interspecific interaction,616,0,NA,NA
+irrig system,irrigation system,616,NA,NA,1
+metal concentr,metal concentrations,616,NA,NA,1
+plant communiti composit,plant community composition,616,0,NA,NA
+psycholog,psychology,616,0,NA,NA
+studi period,study period,616,0,NA,NA
+time,time,616,0,NA,NA
+agricultur ecosystem,agricultural ecosystem,615,NA,NA,1
+arthropoda,arthropoda,614,0,NA,NA
+coal,coal,614,NA,NA,1
+forag behavior,foraging behavior,614,NA,1,NA
+hordeum vulgar,hordeum vulgare,614,0,NA,NA
+stress factor,stress factors,614,0,NA,NA
+composit,composite,613,0,NA,NA
+function ecolog,functional ecology,613,NA,1,NA
+sulfat,sulfate,613,0,NA,NA
+total chlorophyl,total chlorophyll,613,NA,1,NA
+breast height,breast height,612,0,NA,NA
+field survey,field surveys,612,0,NA,NA
+formicida,formicidae,612,0,NA,NA
+photosynthet activ,photosynthetic activity,612,NA,1,NA
+abscis acid,abscisic acid,611,NA,1,NA
+"adaptation, biolog","adaptation, biological",611,0,NA,NA
+ecolog import,ecologically important,611,0,NA,NA
+global environment,global environmental,611,0,NA,NA
+integr approach,integrated approach,611,0,NA,NA
+genom edit,genome editing,609,0,NA,NA
+salt stress,salt stress,609,NA,NA,1
+annual precipit,annual precipitation,608,NA,NA,1
+brassica napus,brassica napus,608,0,NA,NA
+reproduct biolog,reproductive biology,608,NA,1,NA
+carbon sourc,carbon source,607,0,NA,NA
+effici remov,efficient removal,607,0,NA,NA
+toler index,tolerance index,607,NA,1,NA
+trait divers,trait diversity,607,NA,1,NA
+recycl,recycling,606,0,NA,NA
+surfac temperatur,surface temperature,606,NA,NA,1
+breast cancer,breast cancer,605,NA,1,NA
+fourier-transform infrar,fourier-transform infrared,605,0,NA,NA
+qtl,qtl,605,0,NA,NA
+thermogravimetri,thermogravimetry,605,0,NA,NA
+comput simul,computer simulation,604,0,NA,NA
+crop plant,crop plant,604,0,NA,NA
+free radic,free radicals,604,0,NA,NA
+plant adapt,plant adaptation,604,0,NA,NA
+antioxid enzym activ,antioxidant enzyme activities,603,NA,1,NA
+anxieti,anxiety,603,NA,1,NA
+biolog publish,biology published,603,0,NA,NA
+water stress condit,water stress conditions,603,NA,NA,1
+weather condit,weather conditions,603,NA,NA,1
+addit genet,additive genetic,602,0,NA,NA
+matern effect,maternal effects,602,0,NA,NA
+photosynthet trait,photosynthetic traits,602,NA,1,NA
+practic applic,practical application,602,0,NA,NA
+air temperatur,air temperature,601,NA,NA,1
+leaf morpholog,leaf morphology,601,NA,1,NA
+extinct risk,extinction risk,600,0,NA,NA
+pseudo-second-ord kinet model,pseudo-second-order kinetic model,600,0,NA,NA
+revers addition-fragment chain transfer,reversible addition-fragmentation chain transfer,600,0,NA,NA
+stand structur,stand structure,600,0,NA,NA
+sub-saharan africa,sub-saharan africa,600,0,NA,NA
+canopi temperatur,canopy temperature,599,NA,NA,1
+infecti diseas,infectious diseases,599,NA,1,NA
+agricultur system,agricultural systems,598,NA,NA,1
+differenti express gene,differentially expressed genes,598,0,NA,NA
+hordeum,hordeum,598,0,NA,NA
+cell migrat,cell migration,597,0,NA,NA
+chang environment condit,changing environmental conditions,597,NA,NA,1
+combin abil,combining ability,597,0,NA,NA
+shrub speci,shrub species,597,0,NA,NA
+speci occur,species occurring,597,0,NA,NA
+forest tree,forest trees,596,0,NA,NA
+plant yield,plant yield,596,NA,1,NA
+random block,randomized block,596,0,NA,NA
+groundwat pollut,groundwater pollution,595,NA,NA,1
+license biom,licensee biomed,595,0,NA,NA
+license biom central,licensee biomed central,595,0,NA,NA
+ongo climat,ongoing climate,595,NA,NA,1
+enhanc drought,enhanced drought,594,NA,NA,1
+forest stand,forest stands,594,0,NA,NA
+function structur,functional structure,594,NA,1,NA
+reduc water,reduced water,594,NA,NA,1
+genotyp differ,genotypic differences,592,NA,1,NA
+lepidoptera,lepidoptera,592,0,NA,NA
+microbi communiti structur,microbial community structure,592,0,NA,NA
+pacif ocean,pacific ocean,592,0,NA,NA
+anthozoa,anthozoa,591,0,NA,NA
+bovin,bovine,591,NA,NA,1
+chemic industri,chemical industry,590,NA,NA,1
+multipl regress,multiple regression,590,0,NA,NA
+revers addition-fragment chain,reversible addition-fragmentation chain,590,0,NA,NA
+arbuscular mycorrhiza,arbuscular mycorrhiza,589,0,NA,NA
+experiment condit,experimental conditions,589,0,NA,NA
+futur breed,future breeding,589,0,NA,NA
+microbi function,microbial functional,588,NA,1,NA
+natur singapor,nature singapore,588,0,NA,NA
+plant breeder,plant breeders,588,0,NA,NA
+soil carbon,soil carbon,588,NA,1,?
+springer natur singapor,springer nature singapore,588,0,NA,NA
+sulfur,sulfur,588,NA,NA,1
+conserv effort,conservation efforts,587,0,NA,NA
+drought suscept,drought susceptibility,587,NA,1,NA
+"genes, plant","genes, plant",587,NA,1,NA
+genet polymorph,genetic polymorphism,587,NA,1,NA
+solar radiat,solar radiation,587,NA,NA,1
+dri matter,dry matter,586,NA,1,NA
+growth chamber,growth chamber,586,0,NA,NA
+molecular level,molecular level,586,0,NA,NA
+physic properti,physical properties,586,NA,1,NA
+reusabl,reusability,586,0,NA,NA
+analys show,analyses showed,585,0,NA,NA
+chromium compound,chromium compounds,585,0,NA,NA
+model show,model showed,584,0,NA,NA
+phytologist trust,phytologist trust,584,0,NA,NA
+empir evid,empirical evidence,583,0,NA,NA
+ascorb peroxidas,ascorbate peroxidase,582,0,NA,NA
+ecolog condit,ecological conditions,582,0,NA,NA
+exclus licens,exclusive license,582,0,NA,NA
+habitat prefer,habitat preferences,582,NA,1,NA
+herbac speci,herbaceous species,582,0,NA,NA
+winter,winter,582,NA,NA,1
+associ analysi,association analysis,581,0,NA,NA
+bacteri protein,bacterial protein,581,0,NA,NA
+chemic oxygen demand,chemical oxygen demand,581,0,NA,NA
+direct select,directional selection,581,0,NA,NA
+greenhous condit,greenhouse conditions,581,0,NA,NA
+grow condit,growing conditions,581,0,NA,NA
+microplast pollut,microplastic pollution,581,NA,NA,1
+grassland ecosystem,grassland ecosystems,580,0,NA,NA
+plant defens,plant defense,580,NA,1,NA
+bioinformat,bioinformatics,579,0,NA,NA
+breed season,breeding season,579,NA,1,NA
+electron transfer,electron transfer,579,0,NA,NA
+find demonstr,findings demonstrate,578,0,NA,NA
+mice,mice,578,0,NA,NA
+random design,randomized design,578,0,NA,NA
+soil nitrogen,soil nitrogen,578,NA,1,?
+arid region,arid region,577,NA,NA,1
+thermal stress,thermal stress,577,NA,1,NA
+grain (agricultur product),grain (agricultural product),576,NA,1,NA
+nutrient enrich,nutrient enrichment,576,NA,NA,1
+nutrit valu,nutritional value,576,NA,1,NA
+reveal signific,revealed significant,576,0,NA,NA
+adapt mechan,adaptive mechanisms,575,0,NA,NA
+fulvic acid,fulvic acid,575,NA,1,NA
+raini season,rainy season,575,NA,NA,1
+aerosol,aerosol,574,NA,NA,1
+cyanobacterium,cyanobacterium,574,0,NA,NA
+isotop,isotopes,574,0,NA,NA
+light intens,light intensity,574,NA,NA,1
+accur predict,accurately predict,573,0,NA,NA
+conceptu framework,conceptual framework,573,0,NA,NA
+greenhous gase,greenhouse gases,573,0,NA,NA
+major constraint,major constraint,573,NA,NA,NA
+metabol rate,metabolic rates,573,NA,1,NA
+optim,optimization,573,0,NA,NA
+sewag sludg,sewage sludge,573,NA,NA,1
+yield reduct,yield reduction,573,NA,1,NA
+above-ground biomass,above-ground biomass,572,NA,1,NA
+nutrient limit,nutrient limitation,572,NA,NA,1
+trait influenc,traits influence,572,NA,1,NA
+water deficit condit,water deficit conditions,572,NA,1,NA
+growth period,growth period,571,NA,1,NA
+temper region,temperate regions,571,0,NA,NA
+antiinfect agent,antiinfective agent,570,0,NA,NA
+ecolog publish,ecology published,570,0,NA,NA
+genotype-environ interact,genotype-environment interaction,570,0,NA,NA
+phenotyp varianc,phenotypic variance,570,NA,1,NA
+yield-rel trait,yield-related traits,570,NA,1,NA
+cambridg univers,cambridge university,569,0,NA,NA
+cambridg univers press,cambridge university press,569,0,NA,NA
+dna fragment,dna fragmentation,569,NA,1,NA
+salin toler,salinity tolerance,569,NA,1,NA
+threaten speci,threatened species,569,0,NA,NA
+local popul,local populations,568,0,NA,NA
+total organ carbon,total organic carbon,568,NA,1,NA
+annual plant,annual plant,567,0,NA,NA
+canopi cover,canopy cover,567,NA,NA,1
+germin percentag,germination percentage,567,NA,1,NA
+relat humid,relative humidity,567,NA,NA,1
+remain unknown,remains unknown,567,0,NA,NA
+shoot biomass,shoot biomass,567,NA,1,NA
+soil conserv,soil conservation,567,0,NA,NA
+trait studi,traits studied,567,NA,1,NA
+cyanobacteria,cyanobacteria,566,0,NA,NA
+ecophysiolog trait,ecophysiological traits,566,NA,1,NA
+hydroxyl radic,hydroxyl radical,566,0,NA,NA
+lower temperatur,lower temperatures,566,NA,NA,1
+phenolog trait,phenological traits,566,NA,1,NA
+surfac modif,surface modification,566,NA,NA,1
+complet random design,completely randomized design,565,0,NA,NA
+geolog sediment,geologic sediments,565,0,NA,NA
+long-term effect,long-term effects,565,0,NA,NA
+plant extract,plant extract,565,0,NA,NA
+recruit (popul dynamics),recruitment (population dynamics),565,NA,1,NA
+affect speci,affect species,564,0,NA,NA
+high correl,highly correlated,564,0,NA,NA
+cation exchang,cation exchange,563,0,NA,NA
+gene map,gene mapping,563,0,NA,NA
+general linear model,generalized linear models,563,0,NA,NA
+linkag disequilibrium,linkage disequilibrium,563,0,NA,NA
+biomass yield,biomass yield,562,NA,1,NA
+embryophyta,embryophyta,562,0,NA,NA
+fli,fly,562,0,NA,NA
+low temperatur,low temperature,562,NA,NA,1
+metastasi,metastasis,562,0,NA,NA
+sexual reproduct,sexual reproduction,562,NA,1,NA
+stress level,stress levels,562,NA,NA,1
+ecosystem manag,ecosystem management,561,0,NA,NA
+influenc plant,influence plant,561,0,NA,NA
+toler mechan,tolerance mechanisms,561,0,NA,NA
+pitfal trap,pitfall traps,560,0,NA,NA
+signific alter,significantly altered,560,0,NA,NA
+speci extinct,species extinction,560,0,NA,NA
+landscap structur,landscape structure,559,NA,NA,1
+mechanist understand,mechanistic understanding,559,0,NA,NA
+molecular evolut,molecular evolution,559,0,NA,NA
+water sourc,water sources,559,NA,NA,1
+bivalv,bivalve,558,0,NA,NA
+individu trait,individual traits,558,NA,1,NA
+"models, theoret","models, theoretical",558,0,NA,NA
+sampl site,sampling sites,557,0,NA,NA
+studi report,study reports,557,0,NA,NA
+aquat system,aquatic systems,556,0,NA,NA
+high sensit,highly sensitive,556,0,NA,NA
+isotop composit,isotope composition,555,0,NA,NA
+chang biolog,change biology,554,0,NA,NA
+genom analysi,genome analysis,554,0,NA,NA
+habitat select,habitat selection,554,0,NA,NA
+mollusc,molluscs,554,0,NA,NA
+natur variat,natural variation,554,0,NA,NA
+provid import,provide important,554,0,NA,NA
+northern china,northern china,553,0,NA,NA
+seedl emerg,seedling emergence,553,NA,1,NA
+increas import,increasingly important,552,0,NA,NA
+metabolom,metabolomics,552,0,NA,NA
+methan,methane,552,NA,NA,1
+global chang biolog,global change biology,551,NA,NA,1
+genet drift,genetic drift,550,NA,1,NA
+introgress,introgression,550,0,NA,NA
+spectroscopi,spectroscopy,550,0,NA,NA
+surfac complex,surface complexation,550,0,NA,NA
+tropic environ,tropical environment,550,0,NA,NA
+adapt manag,adaptive management,549,0,NA,NA
+bacteri growth,bacterial growth,549,NA,1,NA
+silicon,silicon,549,0,NA,NA
+extrem weather,extreme weather,548,NA,NA,1
+import driver,important driver,548,0,NA,NA
+microalga,microalga,548,0,NA,NA
+temperatur rang,temperature range,548,NA,NA,1
+wast treatment,waste treatment,548,NA,NA,1
+evid suggest,evidence suggests,547,0,NA,NA
+gene locus,gene locus,547,NA,1,NA
+herbac plant,herbaceous plants,547,0,NA,NA
+metagenom,metagenomics,547,0,NA,NA
+pollut toler,pollution tolerance,547,NA,1,NA
+promot region,promoter region,547,0,NA,NA
+agricultur manag,agricultural management,546,NA,NA,1
+densiti function theori,density functional theory,546,0,NA,NA
+ecosystem structur,ecosystem structure,546,NA,1,NA
+summer,summer,546,0,NA,NA
+adapt evolut,adaptive evolution,545,0,NA,NA
+assembl rule,assembly rule,545,0,NA,NA
+forest cover,forest cover,545,NA,NA,1
+import sourc,important source,545,0,NA,NA
+membran stabil,membrane stability,545,NA,1,NA
+plant ecolog,plant ecology,545,0,NA,NA
+shoot growth,shoot growth,545,NA,1,NA
+cell,cells,544,NA,1,NA
+deforest,deforestation,544,NA,NA,1
+environment remedi,environmental remediation,544,NA,NA,1
+genet gain,genetic gains,544,NA,1,NA
+signific genet,significant genetic,544,0,NA,NA
+speci belong,species belonging,543,0,NA,NA
+linear mix model,linear mixed models,542,0,NA,NA
+toxic metal,toxic metals,542,NA,NA,1
+adapt potenti,adaptive potential,541,0,NA,NA
+addit effect,additive effects,541,0,NA,NA
+belowground biomass,belowground biomass,541,NA,1,NA
+negat charg,negatively charged,540,0,NA,NA
+flower stage,flowering stage,539,NA,1,NA
+freundlich model,freundlich model,539,0,NA,NA
+rainf condit,rainfed conditions,539,0,NA,NA
+drought toler trait,drought tolerance traits,537,NA,1,NA
+endophyt,endophyte,537,0,NA,NA
+flame retard,flame retardant,537,NA,NA,1
+gas chromatographi,gas chromatography,537,0,NA,NA
+urban green,urban green,537,NA,NA,1
+nematod,nematode,536,0,NA,NA
+temperatur regim,temperature regimes,536,NA,NA,1
+tempor scale,temporal scales,536,0,NA,NA
+trait affect,traits affect,536,NA,1,NA
+chitosan,chitosan,535,0,NA,NA
+glucos,glucose,535,0,NA,NA
+drought sensit,drought sensitive,534,NA,1,NA
+larval develop,larval development,534,NA,1,NA
+phylogenet tree,phylogenetic tree,534,0,NA,NA
+rise temperatur,rising temperatures,534,NA,NA,1
+solubl protein,soluble protein,534,NA,?,NA
+feed,feeding,533,NA,1,NA
+life cycl stage,life cycle stages,533,NA,1,NA
+polycycl aromat,polycyclic aromatic,533,0,NA,NA
+invertebr communiti,invertebrate communities,532,0,NA,NA
+mechan,mechanism,532,0,NA,NA
+nuclear magnet,nuclear magnetic,532,0,NA,NA
+factor analysi,factor analysis,531,0,NA,NA
+iberian peninsula,iberian peninsula,531,0,NA,NA
+mental health,mental health,531,NA,1,NA
+phylogenet signal,phylogenetic signal,531,0,NA,NA
+silica,silica,531,0,NA,NA
+total solubl,total soluble,531,0,NA,NA
+breed approach,breeding approaches,530,0,NA,NA
+effect remov,effective removal,530,0,NA,NA
+juvenil,juvenile,530,0,NA,NA
+pollut water,polluted water,530,NA,NA,1
+potabl water,potable water,530,NA,NA,1
+snail,snail,530,0,NA,NA
+magnesium,magnesium,529,0,NA,NA
+migrat,migration,529,0,NA,NA
+anti-bacteri agent,anti-bacterial agents,528,0,NA,NA
+ecolog relev,ecologically relevant,528,0,NA,NA
+medicin plant,medicinal plant,528,0,NA,NA
+neoplasm,neoplasms,528,0,NA,NA
+show signific differ,showed significant differences,528,0,NA,NA
+water environ,water environment,528,NA,NA,1
+algal bloom,algal bloom,527,NA,1,NA
+ecolog strategi,ecological strategies,527,0,NA,NA
+food secur,food security,527,NA,1,NA
+regulatori mechan,regulatory mechanism,527,0,NA,NA
+alcohol,alcohol,526,0,NA,NA
+anthropogen pressur,anthropogenic pressures,526,0,NA,NA
+iran,iran,526,0,NA,NA
+wheat yield,wheat yield,526,NA,1,NA
+matur,maturation,525,0,NA,NA
+predator-prey interact,predator-prey interaction,525,0,NA,NA
+graphit,graphite,524,0,NA,NA
+rat,rat,524,0,NA,NA
+rodent,rodent,524,0,NA,NA
+select base,selection based,524,0,NA,NA
+nuclear magnet reson spectroscopi,nuclear magnetic resonance spectroscopy,523,0,NA,NA
+aquacultur,aquaculture,522,0,NA,NA
+mix forest,mixed forest,522,0,NA,NA
+host-pathogen interact,host-pathogen interactions,521,0,NA,NA
+leaf area index,leaf area index,521,NA,1,NA
+sorghum bicolor,sorghum bicolor,521,0,NA,NA
+trace metal,trace metal,521,NA,NA,1
+communiti function,community functional,520,NA,1,NA
+forest communiti,forest communities,520,0,NA,NA
+ftir,ftir,520,0,NA,NA
+speci group,species groups,520,0,NA,NA
+isotop discrimin,isotope discrimination,519,0,NA,NA
+humid,humidity,518,NA,NA,1
+increas product,increased productivity,518,NA,1,NA
+industri wastewat,industrial wastewater,518,NA,NA,1
+phaseolus vulgari,phaseolus vulgaris,518,0,NA,NA
+strong posit,strong positive,518,0,NA,NA
+western europ,western europe,518,0,NA,NA
+analysi of varianc,analysis of variance,517,0,NA,NA
+editori offic,editorial office,517,0,NA,NA
+factori experi,factorial experiment,517,0,NA,NA
+inocul,inoculation,517,0,NA,NA
+speci increas,species increased,517,0,NA,NA
+ecolog communiti,ecological communities,516,0,NA,NA
+optim condit,optimal conditions,516,0,NA,NA
+polymorph,polymorphism,516,NA,1,NA
+transcriptom analysi,transcriptome analysis,516,0,NA,NA
+cadmium compound,cadmium compounds,515,0,NA,NA
+ecolog consequ,ecological consequences,515,0,NA,NA
+inhibitori effect,inhibitory effect,515,0,NA,NA
+meta analysi,meta analysis,515,0,NA,NA
+systemat review,systematic review,513,0,NA,NA
+cation,cation,512,0,NA,NA
+find reveal,findings reveal,512,0,NA,NA
+obtain result,obtained results,512,0,NA,NA
+"sequenc analysis, dna","sequence analysis, dna",512,0,NA,NA
+success invad,successful invaders,512,0,NA,NA
+dairi cattl,dairy cattle,511,NA,NA,1
+forest structur,forest structure,511,0,NA,NA
+function genom,functional genomics,511,NA,1,NA
+growth condit,growth conditions,511,NA,1,NA
+histori strategi,history strategies,511,NA,1,NA
+livestock,livestock,511,NA,NA,1
+model base,model based,511,0,NA,NA
+natur occur,naturally occurring,511,0,NA,NA
+plant morpholog,plant morphology,511,NA,1,NA
+popul model,population modeling,511,0,NA,NA
+close relat speci,closely related species,510,0,NA,NA
+laboratori condit,laboratory conditions,510,0,NA,NA
+long-term chang,long-term change,510,0,NA,NA
+energi metabol,energy metabolism,509,NA,1,NA
+improv program,improvement programs,509,0,NA,NA
+posit associ,positive association,509,0,NA,NA
+forest canopi,forest canopy,508,0,NA,NA
+genet studi,genetic studies,508,0,NA,NA
+temperatur gradient,temperature gradient,508,NA,NA,1
+total phosphorus,total phosphorus,508,NA,NA,1
+aluminum,aluminum,507,NA,NA,1
+blackwel verlag,blackwell verlag,507,0,NA,NA
+forest type,forest types,507,0,NA,NA
+gene identif,gene identification,507,0,NA,NA
+"models, genet","models, genetic",507,0,NA,NA
+sugar,sugar,507,0,NA,NA
+environment impact assess,environmental impact assessment,506,0,NA,NA
+neural network,neural network,506,0,NA,NA
+watersh,watershed,506,0,NA,NA
+genet transform,genetic transformation,505,0,NA,NA
+root length,root length,505,NA,1,NA
+small number,small number,505,0,NA,NA
+improv water,improved water,504,0,NA,NA
+local environment,local environmental,504,0,NA,NA
+messeng rna,messenger rna,504,0,NA,NA
+pinus,pinus,504,0,NA,NA
+virul,virulence,504,NA,1,NA
+compost,composting,503,0,NA,NA
+genet mechan,genetic mechanisms,503,0,NA,NA
+plant transpir,plant transpiration,503,NA,1,NA
+predict futur,predict future,503,0,NA,NA
+virul trait,virulence traits,503,NA,1,NA
+carbon materi,carbon materials,502,NA,1,NA
+major factor,major factor,502,0,NA,NA
+plant hydraul,plant hydraulic,502,NA,1,NA
+seed product,seed production,502,NA,1,NA
+gene encod,genes encoding,501,0,NA,NA
+pig,pig,501,0,NA,NA
+pseudo-second-ord model,pseudo-second-order model,501,0,NA,NA
+spatial heterogen,spatial heterogeneity,501,0,NA,NA
+urban habitat,urban habitats,501,NA,NA,1
+kernel weight,kernel weight,500,0,NA,NA
+normal differ,normalized difference,500,0,NA,NA
+sodium,sodium,500,NA,1,NA
+spatial explicit,spatially explicit,500,0,NA,NA
+stomat closur,stomatal closure,500,0,NA,NA
+catchment,catchments,499,0,NA,NA
+highest valu,highest values,499,0,NA,NA
+oxid process,oxidation process,499,NA,1,NA
+photoperiod,photoperiod,499,NA,1,NA
+tetracyclin,tetracycline,499,0,NA,NA
+tumor cell line,tumor cell line,499,0,NA,NA
+veterinari medicin,veterinary medicine,499,0,NA,NA
+barley,barley,498,0,NA,NA
+freundlich isotherm,freundlich isotherm,498,0,NA,NA
+lichen,lichen,498,0,NA,NA
+lower level,lower levels,498,0,NA,NA
+mountain region,mountain region,498,0,NA,NA
+studi assess,study assessed,498,0,NA,NA
+bioassay,bioassay,497,0,NA,NA
+fitness-rel trait,fitness-related traits,497,NA,1,NA
+linear relationship,linear relationship,497,0,NA,NA
+morphometri,morphometry,497,NA,1,NA
+negat influenc,negative influence,497,0,NA,NA
+photodegrad,photodegradation,497,NA,NA,1
+pinus sylvestri,pinus sylvestris,497,0,NA,NA
+woodland,woodland,497,0,NA,NA
+adsorpt properti,adsorption properties,496,NA,1,NA
+combust,combustion,496,NA,1,NA
+perform trait,performance traits,496,NA,1,NA
+recent research,recent research,496,0,NA,NA
+signific negat correl,significant negative correlation,496,0,NA,NA
+water absorpt,water absorption,496,NA,1,NA
+x-ray spectroscopi,x-ray spectroscopy,496,0,NA,NA
+current climat,current climate,495,NA,NA,1
+hydrogel,hydrogels,495,0,NA,NA
+mine,mining,495,NA,NA,1
+sex differ,sex difference,495,0,NA,NA
+thermoregul,thermoregulation,495,NA,1,NA
+factor determin,factors determining,494,0,NA,NA
+sexual dimorph,sexual dimorphism,494,0,NA,NA
+alpin meadow,alpine meadow,493,0,NA,NA
+anura,anura,493,0,NA,NA
+benthic communiti,benthic communities,493,0,NA,NA
+coastal ecosystem,coastal ecosystems,493,0,NA,NA
+extracellular polymer,extracellular polymeric,493,0,NA,NA
+metal-organ framework,metal-organic frameworks,493,0,NA,NA
+theoret studi,theoretical study,493,0,NA,NA
+benthic macroinvertebr,benthic macroinvertebrates,492,0,NA,NA
+gastropoda,gastropoda,492,0,NA,NA
+habitat conserv,habitat conservation,492,0,NA,NA
+high-throughput sequenc,high-throughput sequencing,492,0,NA,NA
+higher water,higher water,492,0,NA,NA
+paddi field,paddy field,492,0,NA,NA
+respons trait,response traits,492,NA,1,NA
+analysi suggest,analysis suggested,491,0,NA,NA
+copper compound,copper compounds,491,0,NA,NA
+drought period,drought periods,491,NA,NA,1
+higher number,higher number,491,0,NA,NA
+lead compound,lead compounds,491,0,NA,NA
+morpholog charact,morphological characters,491,0,NA,NA
+plant stoma,plant stoma,491,0,NA,NA
+genet modifi,genetically modified,490,0,NA,NA
+invas alien speci,invasive alien species,490,NA,NA,1
+mexico [north america],mexico [north america],490,0,NA,NA
+nativ forest,native forest,490,0,NA,NA
+previous research,previous research,490,0,NA,NA
+yield increas,yield increase,490,NA,1,NA
+geograph origin,geographic origin,489,0,NA,NA
+rapid growth,rapid growth,489,NA,1,NA
+dri weight,dry weight,488,NA,1,NA
+environment sustain,environmental sustainability,488,0,NA,NA
+food qualiti,food quality,488,NA,1,NA
+forest soil,forest soil,488,0,NA,NA
+insecta,insecta,488,0,NA,NA
+molecul,molecules,488,0,NA,NA
+morpholog variat,morphological variation,488,NA,1,NA
+weed control,weed control,488,NA,NA,1
+crude protein,crude protein,487,NA,1,NA
+model speci,model species,487,0,NA,NA
+rang size,range size,487,NA,1,NA
+studi explor,study explored,487,0,NA,NA
+epitheli mesenchym transit,epithelial mesenchymal transition,486,0,NA,NA
+seedl surviv,seedling survival,486,NA,1,NA
+wast manag,waste management,486,NA,NA,1
+annual grass,annual grass,485,0,NA,NA
+indirect select,indirect selection,485,0,NA,NA
+irrig water,irrigation water,485,NA,NA,1
+volatil organ,volatile organic,485,NA,1,NA
+acidif,acidification,484,NA,NA,1
+activ energi,activation energy,484,0,NA,NA
+breed method,breeding methods,484,0,NA,NA
+factor includ,factors including,484,0,NA,NA
+intern societi,international society,484,0,NA,NA
+malonaldehyd,malonaldehyde,484,0,NA,NA
+marin speci,marine species,484,0,NA,NA
+paper present,paper presents,484,0,NA,NA
+popul show,populations showed,484,0,NA,NA
+reduct,reduction,484,0,NA,NA
+specif function,specific functional,484,0,NA,NA
+agricultur intensif,agricultural intensification,483,NA,NA,1
+biodivers hotspot,biodiversity hotspot,483,0,NA,NA
+edg effect,edge effect,483,NA,NA,1
+energi dispers,energy dispersive,483,0,NA,NA
+plastic pollut,plastic pollution,483,NA,NA,1
+content increas,content increased,482,0,NA,NA
+ester,esters,482,0,NA,NA
+leaf litter,leaf litter,482,NA,1,NA
+posit affect,positively affected,482,0,NA,NA
+progeni,progeny,482,0,NA,NA
+show lower,showed lower,482,0,NA,NA
+ethylen,ethylene,481,0,NA,NA
+natur organ matter,natural organic matter,481,0,NA,NA
+nutrit,nutrition,481,NA,1,NA
+pregnanc,pregnancy,481,NA,1,NA
+arachi hypogaea,arachis hypogaea,480,0,NA,NA
+cell membran,cell membrane,480,0,NA,NA
+connect,connectivity,480,0,NA,NA
+marker-assist breed,marker-assisted breeding,480,0,NA,NA
+plant chromosom,plant chromosome,480,0,NA,NA
+reproduct behavior,reproductive behavior,480,NA,1,NA
+water balanc,water balance,480,NA,1,NA
+common speci,common species,479,0,NA,NA
+competit advantag,competitive advantage,479,0,NA,NA
+discrimin analysi,discriminant analysis,479,0,NA,NA
+environment degrad,environmental degradation,479,NA,NA,1
+pollen,pollen,479,NA,1,NA
+altitudin gradient,altitudinal gradient,478,0,NA,NA
+clinic articl,clinical article,478,0,NA,NA
+grain number,grain number,478,NA,1,NA
+indic speci,indicator species,478,0,NA,NA
+innat immun,innate immunity,478,NA,1,NA
+journal compil,journal compilation,478,0,NA,NA
+nutrient dynam,nutrient dynamics,478,NA,1,NA
+empir studi,empirical studies,477,0,NA,NA
+fine root,fine root,477,NA,1,NA
+lesser extent,lesser extent,477,0,NA,NA
+lycopersicon esculentum,lycopersicon esculentum,477,0,NA,NA
+root trait,root traits,477,NA,1,NA
+bacteri virul,bacterial virulence,476,0,NA,NA
+chain reaction,chain reaction,476,0,NA,NA
+chang biolog publish,change biology published,476,0,NA,NA
+environment restor and remedi,environmental restoration and remediation,476,0,NA,NA
+global chang biolog publish,global change biology published,476,0,NA,NA
+grassland speci,grassland species,476,0,NA,NA
+suitabl habitat,suitable habitat,476,0,NA,NA
+western blot,western blotting,476,0,NA,NA
+breed line,breeding lines,475,0,NA,NA
+increas grain,increased grain,475,NA,1,NA
+irrig treatment,irrigation treatments,475,NA,NA,1
+diffus,diffusion,474,0,NA,NA
+carbon isotop discrimin,carbon isotope discrimination,473,0,NA,NA
+electron,electron,473,0,NA,NA
+rapid chang,rapidly changing,473,0,NA,NA
+speci turnov,species turnover,473,0,NA,NA
+weather,weather,473,NA,NA,1
+flavonoid,flavonoid,472,0,NA,NA
+genet materi,genetic material,472,0,NA,NA
+global biodivers,global biodiversity,472,0,NA,NA
+group composit,group composition,472,0,NA,NA
+landform,landforms,472,0,NA,NA
+passerin,passerine,472,0,NA,NA
+riparian veget,riparian vegetation,472,0,NA,NA
+environment issu,environmental issues,471,NA,NA,1
+foliar applic,foliar application,471,0,NA,NA
+green space,green spaces,471,NA,NA,1
+strong depend,strongly dependent,471,0,NA,NA
+trait variabl,trait variability,471,NA,1,NA
+genet associ studi,genetic association studies,470,NA,NA,NA
+plant show,plants showed,470,0,NA,NA
+speci identif,species identification,470,0,NA,NA
+correspond analysi,correspondence analysis,469,0,NA,NA
+environment contamin,environmental contamination,469,NA,NA,1
+environment heterogen,environmental heterogeneity,469,0,NA,NA
+forest dynam,forest dynamics,469,0,NA,NA
+grassland communiti,grassland communities,469,0,NA,NA
+major abiot,major abiotic,469,0,NA,NA
+moder drought,moderate drought,469,NA,NA,1
+phytomass,phytomass,469,NA,1,NA
+actinobacteria,actinobacteria,468,0,NA,NA
+agricultur robot,agricultural robots,467,0,NA,NA
+current research,current research,467,0,NA,NA
+domest,domestication,467,NA,NA,1
+growth regul,growth regulator,467,0,NA,NA
+major driver,major driver,467,0,NA,NA
+mesocosm,mesocosm,467,0,NA,NA
+metal oxid,metal oxide,467,NA,NA,1
+metal remov,metal removal,467,NA,NA,1
+organ function group,organic functional groups,467,NA,1,NA
+posit impact,positive impact,467,0,NA,NA
+adsorpt effici,adsorption efficiency,466,NA,1,NA
+denitrif,denitrification,466,NA,1,NA
+hierarch cluster,hierarchical clustering,466,0,NA,NA
+high-throughput phenotyp,high-throughput phenotyping,466,0,NA,NA
+microclim,microclimate,466,0,NA,NA
+microsatellit repeat,microsatellite repeats,466,0,NA,NA
+phylogenet relationship,phylogenetic relationships,466,0,NA,NA
+abund function,abundant functional,465,NA,1,NA
+econom and social effect,economic and social effects,465,0,NA,NA
+"rna, ribosomal, 16s","rna, ribosomal, 16s",465,0,NA,NA
+activ sludg,activated sludge,464,0,NA,NA
+fit trait,fitness traits,464,NA,1,NA
+forest patch,forest patches,464,NA,NA,1
+immun system,immune system,464,NA,1,NA
+major environment,major environmental,464,0,NA,NA
+phenotyp respons,phenotypic responses,464,NA,1,NA
+posit influenc,positively influenced,464,0,NA,NA
+starch,starch,464,0,NA,NA
+climat event,climatic events,463,NA,NA,1
+ecosystem engin,ecosystem engineers,463,0,NA,NA
+potenti candid,potential candidate,463,0,NA,NA
+solanum tuberosum,solanum tuberosum,463,0,NA,NA
+strong effect,strong effects,463,0,NA,NA
+result impli,results imply,462,0,NA,NA
+soil chemistri,soil chemistry,462,NA,NA,1
+stoichiometri,stoichiometry,462,NA,1,NA
+veget stage,vegetative stage,462,NA,1,NA
+electrolyt,electrolytes,461,0,NA,NA
+import find,important findings,461,0,NA,NA
+analysi identifi,analysis identified,460,0,NA,NA
+earli flower,early flowering,460,0,NA,NA
+ecotox,ecotoxicity,460,NA,NA,1
+farm practic,farming practices,460,NA,NA,1
+product worldwid,production worldwide,460,0,NA,NA
+simul model,simulation model,460,0,NA,NA
+total organ,total organic,460,NA,1,NA
+blood,blood,459,NA,1,NA
+cattl breed,cattle breeds,459,NA,NA,1
+invas ecolog,invasion ecology,459,NA,NA,1
+sexual select,sexual selection,459,0,NA,NA
+substrat,substrates,459,0,NA,NA
+anxieti inventori,anxiety inventory,458,0,NA,NA
+atmospher deposit,atmospheric deposition,458,0,NA,NA
+biolog activ,biological activity,458,0,NA,NA
+complex interact,complex interactions,458,0,NA,NA
+dairi farm,dairy farming,458,NA,NA,1
+densiti function,density functional,458,NA,0,NA
+random select,randomly selected,458,0,NA,NA
+daphnia,daphnia,457,0,NA,NA
+desicc,desiccation,457,NA,1,NA
+electrolyt leakag,electrolyte leakage,457,0,NA,NA
+higher grain,higher grain,457,NA,1,NA
+hydrolysi,hydrolysis,457,0,NA,NA
+phenotyp divers,phenotypic diversity,457,NA,1,NA
+provid inform,provide information,457,0,NA,NA
+royal entomolog,royal entomological,457,0,NA,NA
+royal entomolog societi,royal entomological society,457,0,NA,NA
+tumor cell,tumor cells,457,NA,1,NA
+mortal rate,mortality rates,456,NA,1,NA
+polymeras chain,polymerase chain,456,0,NA,NA
+whole genom sequenc,whole genome sequencing,456,0,NA,NA
+batch experi,batch experiments,455,0,NA,NA
+fagus sylvatica,fagus sylvatica,455,0,NA,NA
+microsatellit dna,microsatellite dna,455,0,NA,NA
+apoidea,apoidea,454,0,NA,NA
+burn,burn,454,NA,NA,1
+climat resili,climate resilience,454,NA,1,NA
+dissolut,dissolution,454,NA,1,NA
+habitat condit,habitat conditions,454,NA,NA,1
+plant phenotyp,plant phenotyping,454,NA,0,NA
+deleteri effect,deleterious effects,453,NA,1,NA
+ecolog effect,ecological effects,453,0,NA,NA
+nativ veget,native vegetation,453,0,NA,NA
+natur reserv,nature reserve,453,0,NA,NA
+random block design,randomized block design,453,0,NA,NA
+salt toler,salt tolerance,453,NA,1,NA
+transgen,transgene,453,0,NA,NA
+color agent,coloring agents,452,0,NA,NA
+river water,river water,452,0,NA,NA
+trait express,trait expression,452,NA,1,NA
+chang effect,change effects,451,0,NA,NA
+ionic liquid,ionic liquids,451,0,NA,NA
+mass fragmentographi,mass fragmentography,451,0,NA,NA
+plant-pollin interact,plant-pollinator interaction,451,0,NA,NA
+propagul pressur,propagule pressure,451,0,NA,NA
+prospect studi,prospective study,451,0,NA,NA
+singl speci,single species,451,0,NA,NA
+standard deviat,standard deviation,451,0,NA,NA
+cicer arietinum,cicer arietinum,450,0,NA,NA
+deficit stress,deficit stress,450,NA,1,NA
+differ veget,difference vegetation,450,0,NA,NA
+function analysi,functional analysis,450,0,NA,NA
+maximum temperatur,maximum temperature,450,NA,NA,1
+soil qualiti,soil quality,450,NA,NA,1
+carbon assimil,carbon assimilation,449,NA,1,NA
+increas level,increased levels,449,0,NA,NA
+molecular basi,molecular basis,449,0,NA,NA
+defens mechan,defense mechanism,448,NA,1,NA
+factor limit,factor limiting,448,0,NA,NA
+inbreed,inbreeding,448,0,NA,NA
+plant structur,plant structures,448,0,NA,NA
+allel frequenc,allele frequencies,447,NA,1,NA
+bacteri gene,bacterial gene,447,0,NA,NA
+confid interv,confidence interval,447,0,NA,NA
+facilit,facilitation,447,0,NA,NA
+in vivo studi,in vivo study,447,0,NA,NA
+temper grassland,temperate grassland,447,0,NA,NA
+chile,chile,446,0,NA,NA
+dissolv organ carbon,dissolved organic carbon,446,NA,NA,1
+immunolog,immunology,446,0,NA,NA
+popul deriv,population derived,446,0,NA,NA
+drive forc,driving force,445,0,NA,NA
+fossil fuel,fossil fuels,445,NA,NA,1
+graphic abstract,graphical abstract,445,0,NA,NA
+oil spill,oil spill,445,NA,NA,1
+speci ident,species identity,445,0,NA,NA
+detoxif,detoxification,444,NA,1,NA
+ecosystem dynam,ecosystem dynamics,444,0,NA,NA
+fruit qualiti,fruit quality,444,NA,1,NA
+gene mutat,gene mutation,444,NA,1,NA
+indian societi,indian society,444,0,NA,NA
+maiz hybrid,maize hybrids,444,0,NA,NA
+moistur condit,moisture conditions,444,NA,NA,1
+non-nat plant,non-native plant,444,NA,NA,1
+organ function,organic functional,444,NA,1,NA
+sexual matur,sexual maturity,444,NA,1,NA
+water column,water column,444,0,NA,NA
+annual variat,annual variation,443,0,NA,NA
+benefici effect,beneficial effects,443,0,NA,NA
+chang signific,changed significantly,443,0,NA,NA
+deficit irrig,deficit irrigation,443,NA,NA,1
+earli matur,early maturity,443,0,NA,NA
+molecular dynam,molecular dynamics,443,0,NA,NA
+proteobacteria,proteobacteria,443,0,NA,NA
+seed bank,seed bank,443,NA,1,NA
+differ veget index,difference vegetation index,442,0,NA,NA
+diptera,diptera,442,0,NA,NA
+function theori,functional theory,442,0,NA,NA
+reaction norm,reaction norms,442,0,NA,NA
+surfac chemistri,surface chemistry,442,0,NA,NA
+behavior,behavior,441,NA,1,NA
+express analysi,expression analysis,441,0,NA,NA
+filtrat,filtration,441,0,NA,NA
+plant reproduct,plant reproduction,441,NA,1,NA
+respir,respiration,441,NA,1,NA
+signific relat,significantly related,441,0,NA,NA
+songbird,songbird,441,0,NA,NA
+tumor growth,tumor growth,441,NA,1,NA
+meadow,meadow,440,0,NA,NA
+perciform,perciform,440,0,NA,NA
+phylogeographi,phylogeography,440,0,NA,NA
+studi confirm,study confirms,440,0,NA,NA
+genom dna,genomic dna,439,0,NA,NA
+introduc popul,introduced populations,439,NA,NA,1
+multivari analys,multivariate analyses,439,0,NA,NA
+biopolym,biopolymers,438,0,NA,NA
+fragment length,fragment length,438,0,NA,NA
+generalist,generalist,438,0,NA,NA
+genet factor,genetic factors,438,0,NA,NA
+nativ communiti,native communities,438,0,NA,NA
+oxid damag,oxidative damage,438,NA,1,?
+cereal crop,cereal crops,437,0,NA,NA
+pastur,pasture,437,NA,NA,1
+plant paramet,plant parameters,437,0,NA,NA
+water use,water use,437,NA,NA,1
+analysi base,analysis based,436,0,NA,NA
+chemic contamin,chemical contamination,436,NA,NA,1
+water deficit stress,water deficit stress,436,NA,1,NA
+environment constraint,environmental constraints,435,NA,NA,1
+enzymat activ,enzymatic activities,435,NA,1,NA
+health status,health status,435,NA,1,NA
+kinet studi,kinetic studies,435,0,NA,NA
+natur conserv,nature conservation,435,0,NA,NA
+cohort analysi,cohort analysis,434,0,NA,NA
+enhanc plant,enhance plant,434,0,NA,NA
+epigenet,epigenetics,434,0,NA,NA
+habitat degrad,habitat degradation,434,NA,NA,1
+mexico,mexico,434,0,NA,NA
+morpholog featur,morphological features,434,0,NA,NA
+publish limit,publishing limited,434,0,NA,NA
+studi popul,studied populations,434,0,NA,NA
+adapt capac,adaptive capacity,433,0,NA,NA
+amino group,amino groups,433,0,NA,NA
+fungal pathogen,fungal pathogen,433,0,NA,NA
+portug,portugal,433,0,NA,NA
+wiley-vch verlag,wiley-vch verlag,433,0,NA,NA
+cyprinid,cyprinid,432,0,NA,NA
+elev,elevation,432,0,NA,NA
+evolutionari potenti,evolutionary potential,432,0,NA,NA
+subleth effect,sublethal effect,432,0,NA,NA
+chines journal,chinese journal,431,0,NA,NA
+desert,desert,431,0,NA,NA
+genotyp show,genotypes showed,431,0,NA,NA
+length polymorph,length polymorphism,431,0,NA,NA
+qualiti paramet,quality parameters,431,0,NA,NA
+small mammal,small mammals,431,0,NA,NA
+glycin max,glycine max,430,0,NA,NA
+mate system,mating system,430,NA,1,NA
+sever drought stress,severe drought stress,430,NA,NA,1
+show similar,showed similar,430,0,NA,NA
+strong select,strong selection,430,0,NA,NA
+asteracea,asteraceae,429,0,NA,NA
+doubl haploid,doubled haploid,429,0,NA,NA
+factor drive,factors driving,429,0,NA,NA
+heavi metal contamin,heavy metal contamination,429,NA,NA,1
+methylen blue,methylene blue,429,0,NA,NA
+spectrum analysi,spectrum analysis,429,0,NA,NA
+biom,biome,428,0,NA,NA
+cost,costs,428,0,NA,NA
+litter,litter,428,NA,1,NA
+normal differ veget index,normalized difference vegetation index,428,0,NA,NA
+plant water relat,plant water relations,428,NA,1,NA
+food grain,food grain,427,NA,1,NA
+normal condit,normal conditions,427,0,NA,NA
+normal differ veget,normalized difference vegetation,427,0,NA,NA
+resin,resin,427,0,NA,NA
+show strong,showed strong,427,0,NA,NA
+spider,spider,427,0,NA,NA
+thermal environ,thermal environments,427,NA,NA,1
+abund function group,abundant functional groups,426,NA,1,NA
+cation exchang capac,cation exchange capacity,426,0,NA,NA
+communiti divers,community diversity,426,0,NA,NA
+epitheli cell,epithelial cells,426,0,NA,NA
+great signific,great significance,426,0,NA,NA
+growth pattern,growth patterns,426,NA,1,NA
+increas growth,increased growth,426,NA,1,NA
+irradi,irradiation,426,0,NA,NA
+meat,meat,426,0,NA,NA
+oxygen demand,oxygen demand,426,NA,NA,1
+root-shoot ratio,root-shoot ratio,426,NA,0,NA
+structur trait,structural traits,426,NA,0,NA
+climat nich,climatic niche,425,0,NA,NA
+crustacea,crustacea,425,0,NA,NA
+diseas,diseases,425,0,NA,NA
+relat growth rate,relative growth rate,425,NA,1,NA
+communiti trait,community traits,424,NA,1,NA
+"evolution, molecular","evolution, molecular",424,0,NA,NA
+gene overexpress,gene overexpression,424,NA,1,NA
+human experi,human experiment,424,0,NA,NA
+manur,manure,424,NA,NA,1
+natur condit,natural conditions,424,0,NA,NA
+ongo climat chang,ongoing climate change,424,NA,NA,1
+spring wheat,spring wheat,424,0,NA,NA
+cold,cold,423,NA,NA,1
+forecast,forecasting,423,0,NA,NA
+function group composit,functional group composition,423,NA,1,NA
+manag system,management systems,423,0,NA,NA
+medicago sativa,medicago sativa,423,0,NA,NA
+picea abi,picea abies,423,0,NA,NA
+pore structur,pore structure,423,0,NA,NA
+present studi aim,present study aimed,423,0,NA,NA
+temperatur treatment,temperature treatments,423,NA,NA,1
+water-limit condit,water-limited conditions,423,NA,NA,1
+cotton,cotton,422,0,NA,NA
+drought avoid,drought avoidance,422,NA,1,NA
+mitochondri dna,mitochondrial dna,422,0,NA,NA
+temperatur condit,temperature conditions,422,NA,NA,1
+trait combin,trait combinations,422,NA,1,NA
+imag analysi,image analysis,421,0,NA,NA
+intraspecif trait,intraspecific trait,421,NA,1,NA
+nanomateri,nanomaterial,421,0,NA,NA
+precipit (chemical),precipitation (chemical),421,NA,NA,1
+qinghai-xizang plateau,qinghai-xizang plateau,421,0,NA,NA
+raman spectroscopi,raman spectroscopy,421,0,NA,NA
+take place,takes place,421,0,NA,NA
+function gene,functional genes,420,NA,1,NA
+height growth,height growth,420,NA,1,NA
+limit water,limited water,420,NA,NA,1
+non-stress condit,non-stress conditions,420,NA,NA,1
+sheep,sheep,420,0,NA,NA
+sourc popul,source populations,420,0,NA,NA
+tibetan plateau,tibetan plateau,420,0,NA,NA
+trait contribut,traits contributing,420,NA,1,NA
+biolog yield,biological yield,419,NA,1,NA
+gene function,gene function,419,NA,1,NA
+great import,great importance,419,0,NA,NA
+health hazard,health hazard,419,NA,NA,1
+molecular interact,molecular interaction,419,0,NA,NA
+photosynthet effici,photosynthetic efficiency,419,0,NA,NA
+adapt radiat,adaptive radiation,418,0,NA,NA
+agricultur scienc,agricultural sciences,418,0,NA,NA
+contact time,contact time,418,0,NA,NA
+control environ,controlled environment,418,0,NA,NA
+edibl grain,edible grain,418,NA,1,NA
+fragment length polymorph,fragment length polymorphism,418,0,NA,NA
+host parasit interact,host parasite interaction,418,0,NA,NA
+hydrolog,hydrology,418,0,NA,NA
+import ecolog,important ecological,418,0,NA,NA
+old-growth forest,old-growth forest,418,0,NA,NA
+sustain manag,sustainable management,418,0,NA,NA
+addit,additives,417,0,NA,NA
+arabidopsi protein,arabidopsis protein,417,0,NA,NA
+ecosystem health,ecosystem health,417,0,NA,NA
+urban forest,urban forest,417,NA,NA,1
+vapor pressur deficit,vapor pressure deficit,417,0,NA,NA
+agronom perform,agronomic performance,416,NA,1,NA
+amino acid sequenc,amino acid sequence,416,0,NA,NA
+bioenergi,bioenergy,416,0,NA,NA
+breed valu,breeding values,416,NA,1,NA
+freshwat fish,freshwater fishes,416,0,NA,NA
+genet transcript,genetic transcription,416,0,NA,NA
+local environ,local environment,416,0,NA,NA
+wast water treatment plant,waste water treatment plant,416,NA,NA,1
+benthic invertebr,benthic invertebrates,415,0,NA,NA
+depress,depression,415,NA,1,NA
+evolutionari chang,evolutionary change,415,0,NA,NA
+solubl,solubility,415,NA,1,NA
+stepp,steppe,415,0,NA,NA
+allometri,allometry,414,NA,1,NA
+arctic,arctic,414,0,NA,NA
+arid,aridity,414,NA,NA,1
+cattl farm,cattle farming,414,NA,NA,1
+monocultur,monoculture,414,NA,NA,1
+protein function,protein function,414,0,NA,NA
+speci coexist,species coexistence,414,0,NA,NA
+tissu,tissue,414,0,NA,NA
+dynam,dynamics,413,0,NA,NA
+germplasm collect,germplasm collection,413,0,NA,NA
+phytotox,phytotoxicity,413,NA,1,NA
+porous materi,porous materials,413,0,NA,NA
+rate constant,rate constants,413,0,NA,NA
+trait involv,traits involved,413,NA,1,NA
+anim speci,animal species,412,0,NA,NA
+critic thermal,critical thermal,412,0,NA,NA
+individu level,individual level,412,0,NA,NA
+local communiti,local communities,412,0,NA,NA
+primari produc,primary producers,412,NA,NA,1
+sex ratio,sex ratio,412,0,NA,NA
+subtrop forest,subtropical forest,412,0,NA,NA
+organ chemic,organic chemicals,411,NA,NA,1
+spatial structur,spatial structure,411,0,NA,NA
+studi compar,study compared,411,0,NA,NA
+valuabl inform,valuable information,411,0,NA,NA
+water hold capac,water holding capacity,411,NA,1,NA
+american geophys,american geophysical,410,0,NA,NA
+american geophys union,american geophysical union,410,0,NA,NA
+coastal area,coastal areas,410,0,NA,NA
+ecotyp,ecotype,410,0,NA,NA
+geophys union,geophysical union,410,0,NA,NA
+green alga,green alga,410,0,NA,NA
+greenhous,greenhouse,410,0,NA,NA
+higher elev,higher elevations,410,0,NA,NA
+highest yield,highest yield,410,NA,1,NA
+isol popul,isolated populations,410,0,NA,NA
+latitud,latitude,410,0,NA,NA
+taxonom composit,taxonomic composition,410,0,NA,NA
+endocrin disruptor,endocrine disruptor,409,0,NA,NA
+australasia,australasia,408,0,NA,NA
+coal combust,coal combustion,408,NA,NA,1
+soil-veget interact,soil-vegetation interaction,408,0,NA,NA
+strong relat,strongly related,408,0,NA,NA
+sweden,sweden,408,0,NA,NA
+thermal limit,thermal limits,408,NA,1,NA
+fluorocarbon,fluorocarbons,407,0,NA,NA
+food suppli,food supply,407,NA,1,NA
+geograph locat,geographic location,407,0,NA,NA
+group base,groups based,407,0,NA,NA
+montan forest,montane forest,407,0,NA,NA
+pseudomona,pseudomonas,407,0,NA,NA
+thermost,thermostability,407,0,NA,NA
+nativ plant speci,native plant species,406,0,NA,NA
+non-structur carbohydr,non-structural carbohydrates,406,0,NA,NA
+physiolog perform,physiological performance,406,NA,1,NA
+plant cover,plant cover,406,NA,NA,1
+southern china,southern china,406,0,NA,NA
+transcript regul,transcription regulation,406,0,NA,NA
+influenc factor,influencing factors,405,0,NA,NA
+phenotyp correl,phenotypic correlations,405,NA,1,NA
+photocatalyt activ,photocatalytic activity,405,NA,1,NA
+predict speci,predict species,405,0,NA,NA
+sever water,severe water,405,NA,NA,1
+trait anxieti,trait anxiety,405,NA,1,NA
+warmer temperatur,warmer temperatures,405,NA,NA,1
+carbohydr metabol,carbohydrate metabolism,404,NA,1,NA
+composit materi,composite materials,404,0,NA,NA
+genet modif,genetic modification,404,NA,1,NA
+molecular sequenc data,molecular sequence data,404,0,NA,NA
+natur water,natural water,404,0,NA,NA
+nitrogen oxid,nitrogen oxides,404,NA,1,NA
+nutrit status,nutritional status,404,NA,1,NA
+reproduct fit,reproductive fitness,404,NA,1,NA
+survey,surveys,404,0,NA,NA
+advanc oxid process,advanced oxidation processes,403,0,NA,NA
+phytochemistri,phytochemistry,403,0,NA,NA
+plant nutrient,plant nutrient,403,NA,1,NA
+reduc plant,reduced plant,403,0,NA,NA
+research effort,research efforts,403,0,NA,NA
+zeolit,zeolites,403,0,NA,NA
+chemic trait,chemical traits,402,NA,1,NA
+chloroplast,chloroplast,402,NA,1,NA
+field observ,field observations,402,0,NA,NA
+gene control,genes controlling,402,0,NA,NA
+graft (chemical),grafting (chemical),402,0,NA,NA
+academ journal,academic journals,401,0,NA,NA
+divers pattern,diversity patterns,401,0,NA,NA
+fourier-transform infrar spectroscopi,fourier-transform infrared spectroscopy,401,0,NA,NA
+trait distribut,trait distributions,401,NA,1,NA
+breed effort,breeding efforts,400,NA,1,NA
+coval bond,covalent bond,400,0,NA,NA
+ecolog factor,ecological factors,400,0,NA,NA
+elev atmospher,elevated atmospheric,400,0,NA,NA
+flow cytometri,flow cytometry,400,0,NA,NA
+flower plant,flowering plants,400,0,NA,NA
+host plant,host plant,400,0,NA,NA
+marin organ,marine organisms,400,0,NA,NA
+microbiom,microbiome,400,NA,1,NA
+phragmit australi,phragmites australis,400,0,NA,NA
+resourc use,resource use,400,NA,1,NA
+social behavior,social behavior,400,NA,1,NA
+tropic rainforest,tropical rainforest,400,0,NA,NA
+urban gradient,urbanization gradient,400,NA,NA,1
+bacillariophyta,bacillariophyta,399,0,NA,NA
+daphnia magna,daphnia magna,399,0,NA,NA
+plant surviv,plant survival,399,0,NA,NA
+protein kinas,protein kinase,399,0,NA,NA
+resourc manag,resource management,399,0,NA,NA
+runoff,runoff,399,0,NA,NA
+sever affect,severely affected,399,0,NA,NA
+single-nucleotid polymorph,single-nucleotide polymorphisms,399,0,NA,NA
+south african,south african,399,0,NA,NA
+speci found,species found,399,0,NA,NA
+speci present,species present,399,0,NA,NA
+trait link,traits linked,399,NA,1,NA
+biolog control agent,biological control agent,398,0,NA,NA
+canopi architectur,canopy architecture,398,0,NA,NA
+chemic fertil,chemical fertilizers,398,NA,NA,1
+genet determin,genetic determinants,398,NA,1,NA
+growth factor,growth factor,398,NA,1,NA
+increas nitrogen,increasing nitrogen,398,NA,NA,1
+nich breadth,niche breadth,398,NA,1,NA
+plant stomata,plant stomata,398,NA,1,NA
+present review,present review,398,0,NA,NA
+reptil,reptile,398,0,NA,NA
+found evid,found evidence,397,0,NA,NA
+hatch,hatching,397,NA,1,NA
+higher growth,higher growth,397,NA,1,NA
+natur regener,natural regeneration,397,0,NA,NA
+particl size analysi,particle size analysis,397,0,NA,NA
+rural popul,rural population,397,0,NA,NA
+special,specialization,397,0,NA,NA
+strong evid,strong evidence,397,0,NA,NA
+affect ecosystem,affect ecosystem,396,0,NA,NA
+anthropogen sourc,anthropogenic source,396,NA,NA,1
+assembl process,assembly processes,396,0,NA,NA
+batch adsorpt,batch adsorption,396,0,NA,NA
+effect method,effective method,396,0,NA,NA
+extrem temperatur,extreme temperatures,396,NA,NA,1
+remov mechan,removal mechanism,396,0,NA,NA
+stress caus,stress caused,396,0,NA,NA
+ultrastructur,ultrastructure,396,0,NA,NA
+highest number,highest number,395,0,NA,NA
+longitudin studi,longitudinal study,395,0,NA,NA
+mesocosm experi,mesocosm experiment,395,0,NA,NA
+titanium dioxid,titanium dioxide,395,0,NA,NA
+aphid,aphid,394,0,NA,NA
+environment concern,environmental concerns,394,0,NA,NA
+oak,oak,394,0,NA,NA
+ocean warm,ocean warming,394,NA,NA,1
+previous identifi,previously identified,394,0,NA,NA
+signific contribut,significant contribution,394,0,NA,NA
+total variat,total variation,394,0,NA,NA
+urea,urea,394,0,NA,NA
+broad-leav forest,broad-leaved forest,393,0,NA,NA
+industri effluent,industrial effluent,393,NA,NA,1
+show greater,showed greater,393,0,NA,NA
+higher abund,higher abundance,392,0,NA,NA
+urgent need,urgently needed,392,0,NA,NA
+bivalvia,bivalvia,391,0,NA,NA
+nitrogen remov,nitrogen removal,391,NA,NA,1
+potenti sourc,potential source,391,0,NA,NA
+signific genotyp,significant genotypic,391,0,NA,NA
+speci base,species based,391,0,NA,NA
+comprehens understand,comprehensive understanding,390,0,NA,NA
+econom spectrum,economics spectrum,390,NA,1,NA
+exhibit greater,exhibited greater,390,0,NA,NA
+habitat restor,habitat restoration,390,0,NA,NA
+monitor,monitoring,390,0,NA,NA
+photochemistri,photochemistry,390,0,NA,NA
+reproduct perform,reproductive performance,390,NA,1,NA
+sorghum,sorghum,390,0,NA,NA
+world,world,390,0,NA,NA
+feed group,feeding groups,389,NA,1,NA
+increas attent,increasing attention,389,0,NA,NA
+microhabitat,microhabitat,389,0,NA,NA
+research work,research work,389,0,NA,NA
+sequenc align,sequence alignment,389,0,NA,NA
+specialist,specialist,389,0,NA,NA
+tree ring,tree ring,389,0,NA,NA
+chang climat condit,changing climatic conditions,388,0,NA,NA
+"chromosomes, plant","chromosomes, plant",388,0,NA,NA
+hold capac,holding capacity,388,0,NA,NA
+insect pest,insect pests,388,NA,NA,1
+physiolog societi,physiology society,388,0,NA,NA
+plant physiolog societi,plant physiology society,388,0,NA,NA
+pseudo-second order,pseudo-second order,388,0,NA,NA
+riparian forest,riparian forest,388,0,NA,NA
+scandinavian plant,scandinavian plant,388,0,NA,NA
+scandinavian plant physiolog,scandinavian plant physiology,388,0,NA,NA
+scandinavian plant physiolog societi,scandinavian plant physiology society,388,0,NA,NA
+succession stage,successional stages,388,0,NA,NA
+analysi confirm,analysis confirmed,387,0,NA,NA
+identifi trait,identify traits,387,NA,1,NA
+transit metal,transition metals,387,NA,NA,1
+applic publish,applications published,386,0,NA,NA
+gene ontolog,gene ontology,386,NA,1,NA
+greenspac,greenspace,386,NA,NA,1
+marker assist,marker assisted,386,0,NA,NA
+mechan drive,mechanisms driving,386,0,NA,NA
+model plant,model plant,386,0,NA,NA
+polyethylen terephthal,polyethylene terephthalate,386,0,NA,NA
+resourc util,resource utilization,386,NA,1,NA
+chang condit,changing conditions,385,NA,NA,1
+color,color,385,NA,1,NA
+factori design,factorial design,385,0,NA,NA
+function characterist,functional characteristics,385,NA,1,NA
+reduct (chemistry),reduction (chemistry),385,0,NA,NA
+seedl trait,seedling traits,385,NA,1,NA
+tomato,tomato,385,0,NA,NA
+understori plant,understory plant,385,0,NA,NA
+embryo,embryo,384,0,NA,NA
+grain legum,grain legume,384,0,NA,NA
+polyvinyl chlorid,polyvinyl chloride,384,0,NA,NA
+reduc graphen oxid,reduced graphene oxide,384,0,NA,NA
+respons variabl,response variables,384,0,NA,NA
+safeti margin,safety margin,384,0,NA,NA
+season drought,seasonal drought,384,NA,NA,1
+increas frequenc,increased frequency,383,0,NA,NA
+northern hemispher,northern hemisphere,383,0,NA,NA
+plant phenolog,plant phenology,383,NA,1,NA
+river system,river system,383,0,NA,NA
+shock protein,shock proteins,383,0,NA,NA
+target speci,target species,383,0,NA,NA
+control plot,control plots,382,0,NA,NA
+fertil treatment,fertilization treatments,382,NA,NA,1
+function dispers,functional dispersion,382,NA,1,NA
+higher trophic,higher trophic,382,0,NA,NA
+limit of detect,limit of detection,382,0,NA,NA
+metal toler,metal tolerance,382,0,NA,NA
+state-trait anxieti,state-trait anxiety,382,NA,1,NA
+wheat grain,wheat grain,382,0,NA,NA
+effect strategi,effective strategy,381,0,NA,NA
+local climat,local climate,381,NA,NA,1
+major sourc,major source,381,0,NA,NA
+plant grow,plants growing,381,0,NA,NA
+plant growth regul,plant growth regulators,381,0,NA,NA
+pollut transport,pollution transport,381,NA,NA,1
+signific larger,significantly larger,381,0,NA,NA
+spike length,spike length,381,0,NA,NA
+studi conduct,studies conducted,381,0,NA,NA
+temperatur depend,temperature dependence,381,NA,1,NA
+"behavior, anim","behavior, animal",380,NA,1,NA
+cereal,cereal,380,0,NA,NA
+climat chang effect,climate change effects,380,NA,NA,1
+gene edit,gene editing,380,0,NA,NA
+genet map,genetic mapping,380,0,NA,NA
+higher relat,higher relative,380,0,NA,NA
+intraspecif competit,intraspecific competition,380,0,NA,NA
+light condit,light conditions,380,NA,NA,1
+photocatalysi,photocatalysis,380,0,NA,NA
+regress analys,regression analyses,380,0,NA,NA
+seed size,seed size,380,NA,1,NA
+trait analysi,trait analysis,380,0,NA,NA
+chain length,chain length,379,0,NA,NA
+chicken,chicken,379,0,NA,NA
+decomposit rate,decomposition rates,379,NA,1,NA
+forest landscap,forest landscapes,379,NA,NA,1
+milk,milk,379,NA,1,NA
+result illustr,results illustrate,379,0,NA,NA
+tempor dynam,temporal dynamics,379,0,NA,NA
+weather event,weather events,379,NA,NA,1
+chelat,chelation,378,0,NA,NA
+drought effect,drought effects,378,NA,NA,1
+modifi biochar,modified biochar,378,0,NA,NA
+activ function,active functional,377,0,NA,NA
+arthropod communiti,arthropod communities,377,0,NA,NA
+bacteriolog,bacteriology,377,0,NA,NA
+conceptu model,conceptual model,377,0,NA,NA
+identif method,identification method,377,0,NA,NA
+potenti import,potentially important,377,0,NA,NA
+toler cultivar,tolerant cultivars,377,NA,1,NA
+densiti,density,376,0,NA,NA
+forest habitat,forest habitats,376,0,NA,NA
+genom resourc,genomic resources,376,0,NA,NA
+improv understand,improved understanding,376,NA,NA,1
+land cover,land cover,376,NA,NA,1
+landscap chang,landscape change,376,NA,NA,1
+pah,pah,376,0,NA,NA
+potenti mechan,potential mechanisms,376,0,NA,NA
+general combin,general combining,375,0,NA,NA
+greenhous gas,greenhouse gas,375,0,NA,NA
+limit number,limited number,375,0,NA,NA
+ovi ari,ovis aries,375,0,NA,NA
+qualit analysi,qualitative analysis,375,0,NA,NA
+tandem mass spectrometri,tandem mass spectrometry,375,0,NA,NA
+bryophyt,bryophytes,374,0,NA,NA
+cobalt,cobalt,374,0,NA,NA
+irrig (agriculture),irrigation (agriculture),374,NA,NA,1
+probabl,probability,374,NA,NA,NA
+signific declin,significant decline,374,0,NA,NA
+treatment process,treatment processes,374,0,NA,NA
+adsorpt site,adsorption sites,373,0,NA,NA
+anim dispers,animal dispersal,373,NA,1,NA
+biogeograph region,biogeographical region,373,0,NA,NA
+biolog characterist,biological characteristics,373,0,NA,NA
+close link,closely linked,373,0,NA,NA
+energi consumpt,energy consumption,373,NA,1,NA
+forest edg,forest edges,373,NA,NA,1
+import determin,important determinant,373,0,NA,NA
+statist analys,statistical analyses,373,0,NA,NA
+water hold,water holding,373,NA,1,NA
+deposit,deposition,372,NA,1,NA
+nematoda,nematoda,372,0,NA,NA
+plant scienc,plant science,372,0,NA,NA
+reaction mechan,reaction mechanism,372,0,NA,NA
+senesc,senescence,372,0,NA,NA
+aggress,aggression,371,0,NA,NA
+cancer stem cell,cancer stem cell,371,0,NA,NA
+dispers distanc,dispersal distance,371,NA,1,NA
+ecolog theori,ecological theory,371,0,NA,NA
+fisheri manag,fishery management,371,0,NA,NA
+higher specif,higher specific,371,0,NA,NA
+long-term monitor,long-term monitoring,371,0,NA,NA
+stomata,stomata,371,0,NA,NA
+thermodynam paramet,thermodynamic parameters,371,0,NA,NA
+diseas sever,disease severity,370,NA,1,NA
+drug,drug,370,0,NA,NA
+econom trait,economic traits,370,NA,1,NA
+fluctuat asymmetri,fluctuating asymmetry,370,0,NA,NA
+oxygen consumpt,oxygen consumption,370,NA,1,NA
+photochem effici,photochemical efficiency,370,NA,1,NA
+pollut monitor,pollution monitoring,370,NA,NA,1
+popul differenti,population differentiation,370,0,NA,NA
+root growth,root growth,370,NA,1,NA
+sugar content,sugar content,370,NA,1,NA
+tensil strength,tensile strength,370,NA,1,NA
+biochem respons,biochemical responses,369,NA,1,NA
+crystallin,crystallinity,369,NA,1,NA
+differenti scan calorimetri,differential scanning calorimetry,369,0,NA,NA
+dispers x-ray,dispersive x-ray,369,0,NA,NA
+electrod,electrodes,369,0,NA,NA
+experiment approach,experimental approach,369,0,NA,NA
+factor contribut,factors contributing,369,0,NA,NA
+flower phenolog,flowering phenology,369,NA,1,NA
+inorgan compound,inorganic compound,369,0,NA,NA
+liquid chromatography-mass spectrometri,liquid chromatography-mass spectrometry,369,0,NA,NA
+picea,picea,369,0,NA,NA
+synthesis,synthesised,369,0,NA,NA
+hormon,hormone,368,NA,1,NA
+mechanist model,mechanistic model,368,0,NA,NA
+plant pathogen,plant pathogens,368,NA,1,NA
+speci even,species evenness,368,0,NA,NA
+speci select,species selection,368,0,NA,NA
+varianc compon,variance components,368,0,NA,NA
+water storag,water storage,368,NA,1,NA
+air qualiti,air quality,367,NA,NA,1
+alpin plant,alpine plant,367,0,NA,NA
+blood sampl,blood samples,367,0,NA,NA
+higher grain yield,higher grain yield,367,NA,1,NA
+introgress line,introgression lines,367,0,NA,NA
+ligand,ligand,367,0,NA,NA
+pseudo-second order model,pseudo-second order model,367,0,NA,NA
+studi identifi,study identified,367,0,NA,NA
+vertebr,vertebrate,367,0,NA,NA
+anim welfar,animal welfare,366,0,NA,NA
+cytotox,cytotoxicity,366,NA,1,NA
+extrem climat event,extreme climatic events,366,NA,NA,1
+generalist speci,generalist species,366,0,NA,NA
+interact mechan,interaction mechanisms,366,0,NA,NA
+multipl linear regress,multiple linear regression,366,0,NA,NA
+plant communiti structur,plant community structure,366,0,NA,NA
+reproduc,reproducibility,366,0,NA,NA
+biotransform,biotransformation,365,NA,NA,1
+greater number,greater number,365,0,NA,NA
+growth characterist,growth characteristics,365,NA,1,NA
+health,health,365,NA,1,NA
+neoplasm invas,neoplasm invasiveness,365,0,NA,NA
+phosphorus content,phosphorus content,365,NA,1,NA
+popul persist,population persistence,365,NA,1,NA
+strong impact,strong impact,365,0,NA,NA
+trait plastic,trait plasticity,365,NA,1,NA
+anthropogen stressor,anthropogenic stressors,364,NA,NA,1
+aranea,araneae,364,0,NA,NA
+cancer growth,cancer growth,364,NA,1,NA
+exhibit excel,exhibited excellent,364,0,NA,NA
+homeostasi,homeostasis,364,0,NA,NA
+larg variat,large variation,364,0,NA,NA
+manag action,management actions,364,0,NA,NA
+sorption mechan,sorption mechanism,364,NA,1,NA
+structur characterist,structural characteristics,364,0,NA,NA
+bind energi,binding energy,363,0,NA,NA
+bryophyta,bryophyta,363,0,NA,NA
+compar genom,comparative genomics,363,0,NA,NA
+epidemiolog,epidemiology,363,0,NA,NA
+habitat manag,habitat management,363,0,NA,NA
+high invas,highly invasive,363,NA,NA,1
+hymenoptera,hymenoptera,363,0,NA,NA
+inbreed depress,inbreeding depression,363,NA,1,NA
+local condit,local conditions,363,0,NA,NA
+marker-trait associ,marker-trait associations,363,0,NA,NA
+molecular character,molecular characterization,363,0,NA,NA
+nitrogen uptak,nitrogen uptake,363,NA,1,NA
+polish academi,polish academy,363,0,NA,NA
+secondari pollut,secondary pollution,363,NA,NA,1
+siderophor,siderophore,363,0,NA,NA
+urban plan,urban planning,363,0,NA,NA
+veget composit,vegetation composition,363,0,NA,NA
+cell wall,cell wall,362,0,NA,NA
+cold toler,cold tolerance,362,NA,1,NA
+environment restor,environmental restoration,362,0,NA,NA
+high divers,highly diverse,362,0,NA,NA
+magnetit,magnetite,362,0,NA,NA
+manag,management,362,0,NA,NA
+open-top chamber,open-top chambers,362,0,NA,NA
+research station,research station,362,0,NA,NA
+small popul,small populations,362,0,NA,NA
+yield attribut,yield attributes,362,NA,1,NA
+antioxid capac,antioxidant capacity,361,NA,1,NA
+energi dispers x-ray,energy dispersive x-ray,361,0,NA,NA
+geograph distanc,geographic distance,361,NA,1,NA
+growth model,growth model,361,NA,1,NA
+microcosm,microcosm,361,0,NA,NA
+nanofib,nanofibers,361,0,NA,NA
+properti,property,361,0,NA,NA
+rangeland,rangeland,361,0,NA,NA
+carbon flux,carbon flux,360,NA,1,NA
+ecolog indic,ecological indicators,360,0,NA,NA
+editori board,editorial board,360,0,NA,NA
+energi,energy,360,0,NA,NA
+higher plant,higher plant,360,0,NA,NA
+physiolog adapt,physiological adaptation,360,NA,1,NA
+spatial variabl,spatial variability,360,0,NA,NA
+speci includ,species including,360,0,NA,NA
+temperatur variat,temperature variation,360,NA,NA,1
+gene regulatori network,gene regulatory network,359,0,NA,NA
+phenotyp select,phenotypic selection,359,NA,1,NA
+suscept index,susceptibility index,359,NA,1,NA
+switzerland,switzerland,359,0,NA,NA
+treatment signific,treatment significantly,359,0,NA,NA
+water retent,water retention,359,NA,1,NA
+cell death,cell death,358,NA,1,NA
+intraspecif variabl,intraspecific variability,358,0,NA,NA
+lactat,lactation,358,NA,1,NA
+promis approach,promising approach,358,0,NA,NA
+review focus,review focuses,358,0,NA,NA
+speci differenti,species differentiation,358,0,NA,NA
+turtl,turtle,358,0,NA,NA
+azo dye,azo dyes,357,0,NA,NA
+biolog uptak,biological uptake,357,0,NA,NA
+carcinogenesi,carcinogenesis,357,0,NA,NA
+hydraul safeti,hydraulic safety,357,0,NA,NA
+indoleacet acid,indoleacetic acid,357,0,NA,NA
+invad rang,invaded range,357,0,NA,NA
+organ solvent,organic solvents,357,NA,NA,1
+remain larg unknown,remains largely unknown,357,0,NA,NA
+sediment pollut,sediment pollution,357,NA,NA,1
+similar pattern,similar patterns,357,0,NA,NA
+squamata,squamata,357,0,NA,NA
+terrestri plant,terrestrial plants,357,0,NA,NA
+transpir rate,transpiration rates,357,0,NA,NA
+western australia,western australia,357,0,NA,NA
+approach base,approach based,356,0,NA,NA
+drought-toler genotyp,drought-tolerant genotypes,356,NA,1,NA
+environment qualiti,environmental quality,356,NA,NA,1
+epithelial-mesenchym transit,epithelial-mesenchymal transition,356,0,NA,NA
+higher latitud,higher latitudes,356,0,NA,NA
+highest level,highest level,356,0,NA,NA
+interv map,interval mapping,356,0,NA,NA
+metabol trait,metabolic traits,356,NA,1,NA
+aquat insect,aquatic insects,355,0,NA,NA
+environment adapt,environmental adaptation,355,0,NA,NA
+group show,groups showed,355,0,NA,NA
+import environment,important environmental,355,0,NA,NA
+maintain higher,maintained higher,355,0,NA,NA
+percept,perception,355,0,NA,NA
+south china,south china,355,0,NA,NA
+urban develop,urban development,355,NA,NA,1
+wast,waste,355,NA,NA,1
+biocompat,biocompatibility,354,0,NA,NA
+breed system,breeding system,354,NA,1,NA
+ecolog respons,ecological responses,354,0,NA,NA
+ecolog status,ecological status,354,0,NA,NA
+fungal diseas,fungal disease,354,NA,1,NA
+import predictor,important predictors,354,0,NA,NA
+inhibit,inhibition,354,0,NA,NA
+maiz plant,maize plants,354,0,NA,NA
+neotrop region,neotropical region,354,0,NA,NA
+pond,pond,354,0,NA,NA
+promot plant,promote plant,354,0,NA,NA
+public domain,public domain,354,0,NA,NA
+refer genom,reference genome,354,0,NA,NA
+resprout,resprouting,354,NA,1,NA
+root depth,rooting depth,354,NA,1,NA
+urban growth,urban growth,354,NA,NA,1
+cell viabil,cell viability,353,NA,1,NA
+genotyp environ interact,genotype environment interaction,353,0,NA,NA
+gradual increas,gradually increased,353,0,NA,NA
+resist,resistance,353,NA,1,NA
+water consumpt,water consumption,353,NA,1,NA
+bacterium identif,bacterium identification,352,0,NA,NA
+cell movement,cell movement,352,NA,1,NA
+climat adapt,climate adaptation,352,NA,1,NA
+competit interact,competitive interactions,352,0,NA,NA
+content decreas,content decreased,352,0,NA,NA
+critic review,critical review,352,0,NA,NA
+diseas transmiss,disease transmission,352,NA,1,NA
+function feed group,functional feeding groups,352,NA,1,NA
+genet base,genetically based,352,0,NA,NA
+geograph pattern,geographic patterns,352,0,NA,NA
+larval stage,larval stage,352,NA,1,NA
+macroalga,macroalga,352,0,NA,NA
+peroxidas,peroxidase,352,0,NA,NA
+persist organ pollut,persistent organic pollutant,352,NA,NA,1
+solubl solid,soluble solids,352,NA,NA,1
+tissu densiti,tissue density,352,NA,1,NA
+carbon dioxid enrich,carbon dioxide enrichment,351,0,NA,NA
+cross breed,cross breeding,351,NA,1,NA
+invas biolog,invasion biology,351,NA,NA,1
+locomot,locomotion,351,NA,1,NA
+microscopi,microscopy,351,0,NA,NA
+parent line,parental lines,351,0,NA,NA
+poor studi,poorly studied,351,0,NA,NA
+environment assess,environmental assessment,350,0,NA,NA
+exchang capac,exchange capacity,350,0,NA,NA
+extracellular matrix,extracellular matrix,350,0,NA,NA
+global environment chang,global environmental change,350,NA,NA,1
+net primari product,net primary production,350,NA,NA,1
+nitrif,nitrification,350,NA,NA,1
+present result,present results,350,0,NA,NA
+solvent,solvents,350,NA,NA,1
+standard,standard,350,0,NA,NA
+wheat plant,wheat plants,350,0,NA,NA
+wider rang,wider range,350,0,NA,NA
+adhes,adhesion,349,0,NA,NA
+multidimension scale,multidimensional scaling,349,0,NA,NA
+nich partit,niche partitioning,349,0,NA,NA
+nitrogen avail,nitrogen availability,349,NA,NA,1
+alien plant speci,alien plant species,348,NA,NA,1
+breed research,breeding research,348,0,NA,NA
+current state,current state,348,0,NA,NA
+diseas control,disease control,348,0,NA,NA
+evolutionari applic,evolutionary applications,348,0,NA,NA
+evolutionari applic publish,evolutionary applications published,348,0,NA,NA
+extrem weather event,extreme weather events,348,NA,NA,1
+forest plantat,forest plantations,348,0,NA,NA
+immunohistochemistri,immunohistochemistry,348,0,NA,NA
+qualit trait,qualitative traits,348,NA,1,NA
+antimicrobi activ,antimicrobial activity,347,NA,1,NA
+aquat communiti,aquatic communities,347,0,NA,NA
+biolog communiti,biological communities,347,0,NA,NA
+crosslink,crosslinking,347,0,NA,NA
+czech republ,czech republic,347,0,NA,NA
+fossil record,fossil record,347,0,NA,NA
+fragment pattern,fragmentation patterns,347,NA,NA,1
+function diverg,functional divergence,347,NA,1,NA
+higher surviv,higher survival,347,0,NA,NA
+identifi gene,identify genes,347,NA,1,NA
+interspecif differ,interspecific differences,347,0,NA,NA
+reduc growth,reduced growth,347,NA,1,NA
+speci domin,species dominance,347,0,NA,NA
+speci pool,species pools,347,0,NA,NA
+stress signific,stress significantly,347,0,NA,NA
+system architectur,system architecture,347,0,NA,NA
+warmer climat,warmer climates,347,NA,NA,1
+european union,european union,346,0,NA,NA
+"hybridization, genet","hybridization, genetic",346,0,NA,NA
+osmosi,osmosis,346,0,NA,NA
+phytologist foundat,phytologist foundation,346,0,NA,NA
+bay theorem,bayes theorem,345,0,NA,NA
+chemic oxygen,chemical oxygen,345,0,NA,NA
+current status,current status,345,0,NA,NA
+direct affect,directly affect,345,0,NA,NA
+major abiot stress,major abiotic stress,345,NA,NA,1
+organ aerosol,organic aerosol,345,NA,NA,1
+pest control,pest control,345,NA,1,NA
+plant shoot,plant shoots,345,NA,1,NA
+posit ion,positive ions,345,0,NA,NA
+radic polymer,radical polymerization,345,0,NA,NA
+sever stress,severe stress,345,NA,NA,1

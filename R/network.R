@@ -1,35 +1,15 @@
 # ls_df_para <- get_keyphrase_paragraph()
-read_keyphrase_paragraph <- function(dir = "alldata/intermediate/network/") {
 
-  df_net_area_trait <- read_csv(str_c(dir, "df_net_area_trait.csv"))
-
-  df_net_trait_all <- read_csv (str_c(dir, "df_net_trait_all.csv"))
-
-  df_net_trait_gc <- read_csv(str_c(dir, "df_net_trait_gc.csv"))
-
-  out <- list(
-    area_trait = df_net_area_trait,
-    trait_all = df_net_trait_all,
-    trait_gc = df_net_trait_gc
-  )
-  return(out)
-}
-
-get_keyphrase_paragraph <- function(df_bib_phrase = NULL, df_phrase_stem = NULL, df_phrase_label = NULL, indir = "alldata/intermediate/keyword/", outdir = "alldata/intermediate/network/") {
-  if (is.null(df_bib_phrase)) {
-    df_bib_phrase <- read_csv(str_c(indir, "df_bib_phrase.csv"))
-  }
-  if (is.null(df_phrase_stem)) {
-    df_phrase_stem <- read_csv(str_c(indir, "df_phrase_stem.csv"))
-  }
-  if (is.null(df_phrase_label)) {
-    df_phrase_label <- read_csv(str_c(indir, "df_phrase_label_done.csv"))
-  }
+get_keyphrase_paragraph <- function(df_phrase_label, save = T) {
   df_phrase_label <- df_phrase_label %>%
-    mutate(trait =str_replace(trait, "\\?", "1"),
-           globalchange =str_replace(globalchange, "\\?", "1")) %>%
-    mutate(trait =trait %>% as.numeric(),
-           globalchange =globalchange %>% as.numeric()) %>%
+    mutate(
+      trait = str_replace(trait, "\\?", "1"),
+      globalchange = str_replace(globalchange, "\\?", "1")
+    ) %>%
+    mutate(
+      trait = trait %>% as.numeric(),
+      globalchange = globalchange %>% as.numeric()
+    ) %>%
     mutate(valid = replace_na(valid, 1)) %>%
     filter(valid == 1) %>%
     mutate(
@@ -47,7 +27,6 @@ get_keyphrase_paragraph <- function(df_bib_phrase = NULL, df_phrase_stem = NULL,
     group_by(group, phrase) %>%
     summarise(count = n()) %>%
     ungroup()
-  write_csv(df_net_area_trait, str_c(outdir, "df_net_area_trait.csv"))
 
   df_net_trait_all <- df_bib_phrase_sub %>%
     filter(trait != 1) %>%
@@ -68,7 +47,6 @@ get_keyphrase_paragraph <- function(df_bib_phrase = NULL, df_phrase_stem = NULL,
     summarise(count = sum(count)) %>%
     ungroup() %>%
     filter(count > 0)
-  write_csv(df_net_trait_all, str_c(outdir, "df_net_trait_all.csv"))
 
   df_net_trait_gc <- df_bib_phrase_sub %>%
     filter(globalchange == 1) %>%
@@ -89,12 +67,15 @@ get_keyphrase_paragraph <- function(df_bib_phrase = NULL, df_phrase_stem = NULL,
     summarise(count = sum(count)) %>%
     ungroup() %>%
     filter(count > 0)
-  write_csv(df_net_trait_gc, str_c(outdir, "df_net_trait_gc.csv"))
 
-  out <- list(
+  ls_df_net <- list(
     area_trait = df_net_area_trait,
     trait_all = df_net_trait_all,
     trait_gc = df_net_trait_gc
   )
-  return(out)
+
+  if (save) {
+    usethis::use_data(ls_df_net, overwrite = T)
+  }
+  return(ls_df_net)
 }

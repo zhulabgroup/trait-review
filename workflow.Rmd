@@ -16,11 +16,8 @@ df_bib <- read_bib(path = "alldata/input/bib/20230918", num_core = 4)
 
 ```{r, eval = F}
 df_bib_phrase <- get_all_keyphrase(df_bib, num_core = 30)
-df_phrase_stem <- get_keyphrase_stem(df_bib_phrase)
-```
-
-```{r, eval = F}
-ls_df_para <- get_keyphrase_paragraph()
+df_phrase_stem <- get_keyphrase_stem(df_bib_phrase = df_bib_phrase)
+df_phrase_label <- read_keyphrase_label()
 ```
 
 ```{r}
@@ -28,8 +25,7 @@ ls_df_para <- read_keyphrase_paragraph()
 ```
 
 ```{r}
-plot_text_network(ls_df_para$area_trait , min_count = 50)
-# plot_text_network(ls_df_para$trait_all , min_count = 100)
-plot_text_network(ls_df_para$trait_gc , min_count = 800)
+plot_text_network(ls_df_net$area_trait, min_count = 50)
+# plot_text_network(ls_df_net$trait_all , min_count = 100)
+plot_text_network(ls_df_net$trait_gc, min_count = 800)
 ```
-
