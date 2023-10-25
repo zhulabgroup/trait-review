@@ -82,7 +82,10 @@ plot_text_network <- function(df_net, min_count = 0, save = F, filename = NULL) 
 
   if (save) {
     if (!is.null(filename)) {
-      ggsave(str_c("inst/figures/", filename, ".png"), p)
+      ggsave(str_c("inst/figures/", filename, ".png"), p,
+             width = 16,
+             height = 8
+             )
     }
   }
   return(p)
