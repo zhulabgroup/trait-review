@@ -25,7 +25,7 @@ ls_df_net <- make_network(df_bib_phrase, df_phrase_stem, df_phrase_label)
 ```
 
 ```{r}
-plot_text_network(ls_df_net$area_trait, min_count = 50)
-# plot_text_network(ls_df_net$trait_all , min_count = 100)
-plot_text_network(ls_df_net$trait_gc, min_count = 800)
+plot_text_network(ls_df_net$area_trait, min_count = 50, save = T, filename = "area_trait")
+# plot_text_network(ls_df_net$trait_all , min_count = 100, save = T)
+plot_text_network(ls_df_net$trait_gc, min_count = 800, save = T, filename = "trait_gc")
 ```

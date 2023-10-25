@@ -2,7 +2,7 @@
 # plot_text_network(ls_df_para$trait_all %>% filter(count >=100))
 # plot_text_network(ls_df_para$trait_gc)
 
-plot_text_network <- function(df_net, min_count = 0) {
+plot_text_network <- function(df_net, min_count = 0, save = F, filename = NULL) {
   bip <- df_net %>%
     filter(count >= min_count) %>%
     # mutate(count  = if_else(count <=0, 0, count)) %>%
@@ -40,5 +40,10 @@ plot_text_network <- function(df_net, min_count = 0) {
   ) +
     theme(legend.position = "none")
 
+  if (save) {
+    if (!is.null(filename)) {
+      ggsave(str_c("inst/figures/", filename, ".png"), p)
+    }
+  }
   return(p)
 }
