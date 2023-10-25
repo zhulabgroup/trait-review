@@ -12,6 +12,7 @@ library(traitlitreview)
 
 ```{r, eval = F}
 df_bib <- read_bib(path = "alldata/input/bib/20230918", num_core = 4)
+df_bib_code <- get_bib_code (df_bib = df_bib)
 ```
 
 ```{r, eval = F}
@@ -21,7 +22,7 @@ df_phrase_label <- read_keyphrase_label()
 ```
 
 ```{r, eval = F}
-ls_df_net <- make_network(df_bib_phrase, df_phrase_stem, df_phrase_label)
+ls_df_net <- make_network(df_bib_phrase, df_phrase_stem, df_phrase_label, df_bib_code)
 ```
 
 ```{r}

@@ -68,7 +68,7 @@ extract_keyphrase <- function(full_text, keyword_original) {
   return(v_keyword)
 }
 
-get_keyphrase_stem <- function(df_bib_phrase, outdir = "inst/extdata/", save = T) {
+get_keyphrase_stem <- function(df_bib_phrase, outdir = "alldata/intermediate/keyword/", save = T) {
   n_paper <- df_bib_phrase %>%
     pull(id) %>%
     unique() %>%
@@ -107,20 +107,23 @@ get_keyphrase_stem <- function(df_bib_phrase, outdir = "inst/extdata/", save = T
   return(df_phrase_stem)
 }
 
-read_keyphrase_label <- function(indir = "inst/extdata/", save = T) {
-  df_phrase_label <- read_csv(str_c(indir, "df_phrase_label_done.csv")) %>%
+read_keyphrase_label <- function(file = "alldata/intermediate/keyword/df_phrase_label_20231025.csv", save = T) {
+  df_phrase_label <- read_csv(file) %>%
     mutate(
-      trait = str_replace(trait, "\\?", "1"),
+      trait_inclusive = str_replace(trait_inclusive, "\\?", "1"),
+      trait_exclusive = str_replace(trait_exclusive, "\\?", "1"),
       globalchange = str_replace(globalchange, "\\?", "1")
     ) %>%
     mutate(
-      trait = trait %>% as.numeric(),
+      trait_inclusive = trait_inclusive %>% as.numeric(),
+      trait_exclusive = trait_exclusive %>% as.numeric(),
       globalchange = globalchange %>% as.numeric()
     ) %>%
     mutate(valid = replace_na(valid, 1)) %>%
     filter(valid == 1) %>%
     mutate(
-      trait = replace_na(trait, 0),
+      trait_inclusive = replace_na(trait_inclusive, 0),
+      trait_exclusive = replace_na(trait_exclusive, 0),
       globalchange = replace_na(globalchange, 0)
     )
   if (save) {
