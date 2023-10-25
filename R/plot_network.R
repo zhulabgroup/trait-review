@@ -20,10 +20,11 @@ plot_text_network <- function(df_net, min_count = 0, save = F, filename = NULL) 
   if ("big_group" %in% colnames(df_net)) {
 
     df_node <- data.frame(group = network %>% network.vertex.names()) %>%
-      left_join(df_net %>% distinct(group, big_group), by = "group")
+      left_join(df_net %>% distinct(group, big_group), by = "group") %>%
+      mutate(big_group = replace_na(big_group, "phrase"))
     network %v% "color" <- df_node$big_group
-    col_pal <- c(RColorBrewer::brewer.pal(df_net %>% pull(big_group) %>% unique() %>% length(), "Set2"), "gray")
-    names(col_pal) = c(df_net %>% pull(big_group) %>% unique(), NA)
+    col_pal <- c(RColorBrewer::brewer.pal(df_net %>% pull(big_group) %>% unique() %>% length(), "Set2"), "light gray")
+    names(col_pal) = c(df_net %>% pull(big_group) %>% unique(), "phrase")
 
     set.seed(12)
     p <- GGally::ggnet2(
@@ -57,7 +58,8 @@ plot_text_network <- function(df_net, min_count = 0, save = F, filename = NULL) 
       shape = "mode",
       label = T,
       color = "mode",
-      palette = c(A = "grey", P = "gold"),
+      palette = c(A = "light gray",
+                  P = "gold"),
       size = 9,
       legend.size = 9,
       mode = "fruchtermanreingold",
