@@ -8,25 +8,25 @@ make_network <- function(df_bib_phrase, df_phrase_stem, df_phrase_label, df_bib_
 
   df_net_area_trait <- df_bib_phrase_sub %>%
     filter(trait_inclusive == 1) %>%
-    select(big_group = area, group = code, phrase = keyphrase_eg) %>%
-    group_by(big_group, group, phrase) %>%
+    select(supergroup = area, group = code, phrase = keyphrase_eg) %>%
+    group_by(supergroup, group, phrase) %>%
     summarise(count = n()) %>%
     ungroup()
 
   df_net_trait_all <- df_bib_phrase_sub %>%
     filter(trait_inclusive != 1) %>%
     select(id, phrase = keyphrase_eg) %>%
-    group_by(id,phrase) %>%
+    group_by(id, phrase) %>%
     summarise(count = n()) %>%
     ungroup() %>%
     spread(key = "phrase", value = "count", fill = 0) %>%
     inner_join(
       df_bib_phrase_sub %>%
         filter(trait_inclusive == 1) %>%
-        distinct(id,group = keyphrase_eg),
+        distinct(id, group = keyphrase_eg),
       by = c("id")
     ) %>%
-    gather(key = "phrase", value = "count", -id,-group) %>%
+    gather(key = "phrase", value = "count", -id, -group) %>%
     select(-id) %>%
     group_by(group, phrase) %>%
     summarise(count = sum(count)) %>%
@@ -55,8 +55,8 @@ make_network <- function(df_bib_phrase, df_phrase_stem, df_phrase_label, df_bib_
 
   df_net_area_gc <- df_bib_phrase_sub %>%
     filter(globalchange == 1) %>%
-    select(big_group = area, group = code, phrase = keyphrase_eg) %>%
-    group_by(big_group, group, phrase) %>%
+    select(supergroup = area, group = code, phrase = keyphrase_eg) %>%
+    group_by(supergroup, group, phrase) %>%
     summarise(count = n()) %>%
     ungroup()
 

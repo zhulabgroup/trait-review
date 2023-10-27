@@ -44,8 +44,8 @@ read_bib <- function(path = "alldata/bib/20230918", num_core = 35) {
   return(df_bib)
 }
 
-get_bib_code <- function (df_bib, save = T) {
-  df_bib_code <- df_bib%>%
+get_bib_code <- function(df_bib, save = T) {
+  df_bib_code <- df_bib %>%
     mutate(id = row_number()) %>%
     select(id, area, code)
 
