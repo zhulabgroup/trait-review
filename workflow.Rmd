@@ -5,28 +5,51 @@ date: "2023-10-02"
 output: html_document
 ---
 
+First install package in the "Build" tab in RStudio.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(traitlitreview)
 ```
 
+This step reads in bib files and saves output in data/. Change the path to bib files. Check df_bib to make sure that area (discipline) and code (subdiscipline) are correct. (They depend on file naming fashion.) Can use parallel computation to speed up by setting num_core.
 ```{r, eval = F}
 df_bib <- read_bib(path = "alldata/input/bib/20231109", num_core = 4)
+```
+
+This step summarizes area and code of each document and saves output in data/.
+```{r, eval = F}
 df_bib_code <- get_bib_code(df_bib = df_bib)
 ```
 
+This step uses RAKE to extract keywords in each document and saves output in data/. This step is slow. Can use parallel computation to speed up by setting num_core. May need to increase memory.
 ```{r, eval = F}
 df_bib_phrase <- get_all_keyphrase(df_bib, num_core = 8)
-df_phrase_stem <- get_keyphrase_stem(df_bib_phrase = df_bib_phrase)
-df_phrase_label <- read_keyphrase_label()
 ```
 
+This step makes stems of unique keywords and saves output in data/. This step also generates a csv file for manual labeling of key phrases to specified outdir.
+```{r, eval = F}
+df_phrase_stem <- get_keyphrase_stem(df_bib_phrase = df_bib_phrase, outdir = "alldata/intermediate/keyword/")
+```
+
+Here, manually label keywords in the csv file.
+
+This step reads in keywords labels from the specified csv file and saves output to data/. Change the file name.
+```{r, eval = F}
+df_phrase_label <- read_keyphrase_label(file = "alldata/intermediate/keyword/df_phrase_label_20231025.csv")
+```
+
+Reminder to install package again here.
+
+This step uses previously generated data frames to make text networks and saves output to data/.
 ```{r, eval = F}
 ls_df_net <- make_network(df_bib_phrase, df_phrase_stem, df_phrase_label, df_bib_code)
 ```
 
+This step uses R code to visualize network. This step is now deprecated as we now use graphistry in python instead.
 ```{r}
 plot_text_network(ls_df_net$area_trait, min_count = 50, save = T, filename = "area_trait")
-# plot_text_network(ls_df_net$trait_all , min_count = 100, save = T)
 plot_text_network(ls_df_net$trait_gc, min_count = 800, save = T, filename = "trait_gc")
 ```
+
+To use graphistry, save components of ls_df_net as csv files and use notebook/interactive_text_network.ipynb.
