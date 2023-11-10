@@ -2,7 +2,7 @@
 # df_phrase_stem <- get_keyphrase_stem(df_bib_phrase)
 # df_phrase_label <- read_keyphrase_label()
 
-get_all_keyphrase <- function(df_bib, num_core = 35, save = T) {
+get_all_keyphrase <- function(df_bib, num_core = 11, save = T) {
   df_bib_text <- df_bib %>%
     select(area, code, title, abstract, keyword) %>%
     mutate(full = str_c(title, " ", abstract)) %>%
@@ -68,7 +68,7 @@ extract_keyphrase <- function(full_text, keyword_original) {
   return(v_keyword)
 }
 
-get_keyphrase_stem <- function(df_bib_phrase, outdir = "alldata/intermediate/keyword/", save = T) {
+get_keyphrase_stem <- function(df_bib_phrase, outdir = "alldata/intermediate/keyword/20231109/", save = T) {
   n_paper <- df_bib_phrase %>%
     pull(id) %>%
     unique() %>%

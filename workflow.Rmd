@@ -11,12 +11,12 @@ library(traitlitreview)
 ```
 
 ```{r, eval = F}
-df_bib <- read_bib(path = "alldata/input/bib/20230918", num_core = 4)
+df_bib <- read_bib(path = "alldata/input/bib/20231109", num_core = 4)
 df_bib_code <- get_bib_code(df_bib = df_bib)
 ```
 
 ```{r, eval = F}
-df_bib_phrase <- get_all_keyphrase(df_bib, num_core = 30)
+df_bib_phrase <- get_all_keyphrase(df_bib, num_core = 8)
 df_phrase_stem <- get_keyphrase_stem(df_bib_phrase = df_bib_phrase)
 df_phrase_label <- read_keyphrase_label()
 ```
